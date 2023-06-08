@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 23.5) (preloaded format=pdflatex 2023.6.4)  8 JUN 2023 12:54
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 23.5) (preloaded format=pdflatex 2023.6.4)  8 JUN 2023 14:22
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -1279,7 +1279,7 @@ Package: appendix 2020/02/08 v1.2c extra appendix facilities
 \c@@ppsavesec=\count372
 \c@@ppsaveapp=\count373
 )
-Package hyperref Info: Option `colorlinks' set `true' on input line 100.
+Package hyperref Info: Option `colorlinks' set `true' on input line 101.
  (C:\Users\Senbuu\AppData\Local\Programs\MiKTeX\tex/latex/tocloft\tocloft.sty
 Package: tocloft 2017/08/31 v2.3i parameterised ToC, etc., typesetting
 Package tocloft Info: The document has chapter divisions on input line 51.
@@ -1320,7 +1320,7 @@ Package tocloft Info: The document has chapter divisions on input line 51.
 \cfttabindent=\skip104
 \cfttabnumwidth=\skip105
 )
-LaTeX Font Info:    Trying to load font information for OT1+ptm on input line 168.
+LaTeX Font Info:    Trying to load font information for OT1+ptm on input line 169.
  (C:\Users\Senbuu\AppData\Local\Programs\MiKTeX\tex/latex/psnfss\ot1ptm.fd
 File: ot1ptm.fd 2001/06/04 font definitions for OT1/ptm.
 ) (C:\Users\Senbuu\AppData\Local\Programs\MiKTeX\tex/latex/l3backend\l3backend-pdftex.def
@@ -1330,24 +1330,24 @@ File: l3backend-pdftex.def 2023-04-19 L3 backend support: PDF output (pdfTeX)
 ) (main.aux (0ACover/0cover.aux) (0ACover/1title.aux) (0ACover/2copyright.aux) (0ACover/3declaration.aux) (0ACover/4recommendation.aux) (0ACover/5departmentAcceptance.aux) (0ACover/6acknowledgement.aux) (0HAbstract/abstract.aux) (0IAbbreviations/abbreviations.aux) (1Introduction/introduction.aux) (2Literaturereview/literaturereview.aux) (3Methodology/methodology.aux) (4ImplementationAndTesting/ImplementationAndTesting.aux) (5ConclusionFuture/conclusion.aux))
 \openout1 = `main.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 168.
-LaTeX Font Info:    ... okay on input line 168.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 168.
-LaTeX Font Info:    ... okay on input line 168.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 168.
-LaTeX Font Info:    ... okay on input line 168.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 168.
-LaTeX Font Info:    ... okay on input line 168.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 168.
-LaTeX Font Info:    ... okay on input line 168.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 168.
-LaTeX Font Info:    ... okay on input line 168.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 168.
-LaTeX Font Info:    ... okay on input line 168.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 168.
-LaTeX Font Info:    ... okay on input line 168.
-LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 168.
-LaTeX Font Info:    ... okay on input line 168.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 169.
+LaTeX Font Info:    ... okay on input line 169.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 169.
+LaTeX Font Info:    ... okay on input line 169.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 169.
+LaTeX Font Info:    ... okay on input line 169.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 169.
+LaTeX Font Info:    ... okay on input line 169.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 169.
+LaTeX Font Info:    ... okay on input line 169.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 169.
+LaTeX Font Info:    ... okay on input line 169.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 169.
+LaTeX Font Info:    ... okay on input line 169.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 169.
+LaTeX Font Info:    ... okay on input line 169.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 169.
+LaTeX Font Info:    ... okay on input line 169.
  (C:\Users\Senbuu\AppData\Local\Programs\MiKTeX\tex/context/base/mkii\supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
 \scratchcounter=\count377
@@ -1375,15 +1375,15 @@ File: epstopdf-sys.cfg 2021/03/18 v2.0 Configuration of epstopdf for MiKTeX
 * layout: <same size as paper>
 * layoutoffset:(h,v)=(0.0pt,0.0pt)
 * modes: 
-* h-part:(L,W,R)=(108.405pt, 416.83289pt, 72.26999pt)
-* v-part:(T,H,B)=(72.26999pt, 700.50687pt, 72.26999pt)
+* h-part:(L,W,R)=(108.405pt, 398.76538pt, 90.3375pt)
+* v-part:(T,H,B)=(90.3375pt, 664.37186pt, 90.3375pt)
 * \paperwidth=597.50787pt
 * \paperheight=845.04684pt
-* \textwidth=416.83289pt
-* \textheight=700.50687pt
+* \textwidth=398.76538pt
+* \textheight=664.37186pt
 * \oddsidemargin=36.13501pt
 * \evensidemargin=36.13501pt
-* \topmargin=-31.0pt
+* \topmargin=-12.9325pt
 * \headheight=6.0pt
 * \headsep=25.0pt
 * \topskip=12.0pt
@@ -1401,21 +1401,21 @@ File: epstopdf-sys.cfg 2021/03/18 v2.0 Configuration of epstopdf for MiKTeX
 * \@reversemarginfalse
 * (1in=72.27pt=25.4mm, 1cm=28.453pt)
 
-LaTeX Info: Redefining \microtypecontext on input line 168.
-Package microtype Info: Applying patch `item' on input line 168.
-Package microtype Info: Applying patch `toc' on input line 168.
-Package microtype Info: Applying patch `eqnum' on input line 168.
+LaTeX Info: Redefining \microtypecontext on input line 169.
+Package microtype Info: Applying patch `item' on input line 169.
+Package microtype Info: Applying patch `toc' on input line 169.
+Package microtype Info: Applying patch `eqnum' on input line 169.
 
-Package microtype Warning: Unable to apply patch `footnote' on input line 168.
+Package microtype Warning: Unable to apply patch `footnote' on input line 169.
 
-Package microtype Info: Applying patch `verbatim' on input line 168.
+Package microtype Info: Applying patch `verbatim' on input line 169.
 Package microtype Info: Generating PDF output.
 Package microtype Info: Character protrusion enabled (level 2).
 Package microtype Info: Using default protrusion set `alltext'.
 Package microtype Info: Automatic font expansion enabled (level 2),
 (microtype)             stretch: 20, shrink: 20, step: 1, non-selected.
 Package microtype Info: Using default expansion set `alltext-nott'.
-LaTeX Info: Redefining \showhyphens on input line 168.
+LaTeX Info: Redefining \showhyphens on input line 169.
 Package microtype Info: No adjustment of tracking.
 Package microtype Info: No adjustment of interword spacing.
 Package microtype Info: No adjustment of character kerning.
@@ -1430,7 +1430,7 @@ Package caption Info: scrextend package is loaded.
 \caption@addmargin@linewidth=\dimen328
 Package caption Info: wrapfig package is loaded.
 Package caption Info: End \AtBeginDocument code.
-Package hyperref Info: Link coloring ON on input line 168.
+Package hyperref Info: Link coloring ON on input line 169.
  (main.out) (main.out)
 \@outlinefile=\write4
 \openout4 = `main.out'.
@@ -1476,7 +1476,7 @@ File: ts1ptm.fd 2001/06/04 font definitions for TS1/ptm.
 \openout2 = `0ACover/3declaration.aux'.
 
  (0ACover/3declaration.tex)
-Underfull \hbox (badness 10000) in paragraph at lines 11--175
+Underfull \hbox (badness 10000) in paragraph at lines 11--176
 
  []
 
@@ -1589,7 +1589,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 12--20
 \openout2 = `0ACover/6acknowledgement.aux'.
 
  (0ACover/6acknowledgement.tex)
-Underfull \hbox (badness 10000) in paragraph at lines 23--178
+Underfull \hbox (badness 10000) in paragraph at lines 23--179
 
  []
 
@@ -1669,7 +1669,7 @@ LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <7> not available
 \openout2 = `0IAbbreviations/abbreviations.aux'.
 
  (0IAbbreviations/abbreviations.tex
-Overfull \hbox (156.00021pt too wide) in paragraph at lines 9--33
+Overfull \hbox (174.06772pt too wide) in paragraph at lines 9--33
 [][] 
  []
 
@@ -1692,37 +1692,62 @@ Chapter 1.
 
  (2Literaturereview/literaturereview.tex
 Chapter 2.
-) [3
+)
+Underfull \hbox (badness 10000) in paragraph at lines 18--229
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 18--229
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 18--229
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 18--229
+
+ []
+
+[3
 
 
 
 
-] [4]
+] [4] [5]
 \openout2 = `3Methodology/methodology.aux'.
 
  (3Methodology/methodology.tex
 Chapter 3.
-[5
+[6
 
 
 
 
-]) [6]
+]) [7]
 \openout2 = `4ImplementationAndTesting/ImplementationAndTesting.aux'.
 
  (4ImplementationAndTesting/ImplementationAndTesting.tex
 Chapter 4.
-) [7
+
+Underfull \hbox (badness 10000) in paragraph at lines 13--30
+
+ []
+
+[8
 
 
 
 
-]
+] [9]) [10]
 \openout2 = `5ConclusionFuture/conclusion.aux'.
 
  (5ConclusionFuture/conclusion.tex
 Chapter 5.
-) [8
+) [11
 
 
 
@@ -1733,33 +1758,33 @@ Package caption Warning: The option `hypcap=true' will be ignored for this
 (caption)                particular \caption on input line 79.
 See the caption package documentation for explanation.
 
-[9
+[12
 
 
 
-]) (Appendix/appendix2.tex) [10] (main.bbl)
+]) (Appendix/appendix2.tex) [13] (main.bbl)
 
-Package caption Warning: Unused \captionsetup[table] on input line 130.
+Package caption Warning: Unused \captionsetup[table] on input line 131.
 See the caption package documentation for explanation.
 
-[11
+[14
 
 ] (main.aux (0ACover/0cover.aux) (0ACover/1title.aux) (0ACover/2copyright.aux) (0ACover/3declaration.aux) (0ACover/4recommendation.aux) (0ACover/5departmentAcceptance.aux) (0ACover/6acknowledgement.aux) (0HAbstract/abstract.aux) (0IAbbreviations/abbreviations.aux) (1Introduction/introduction.aux) (2Literaturereview/literaturereview.aux) (3Methodology/methodology.aux) (4ImplementationAndTesting/ImplementationAndTesting.aux) (5ConclusionFuture/conclusion.aux))
 Package rerunfilecheck Info: File `main.out' has not changed.
 (rerunfilecheck)             Checksum: 2F1FAC6B29E3E650AFCAF0B1E6FF4C6E;6495.
  ) 
 Here is how much of TeX's memory you used:
- 34788 strings out of 476411
- 689332 string characters out of 5788663
- 1877845 words of memory out of 5000000
- 54166 multiletter control sequences out of 15000+600000
- 539792 words of font info for 187 fonts, out of 8000000 for 9000
+ 34813 strings out of 476411
+ 689662 string characters out of 5788663
+ 1878845 words of memory out of 5000000
+ 54173 multiletter control sequences out of 15000+600000
+ 540466 words of font info for 196 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 108i,11n,117p,1190b,962s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 108i,11n,117p,1192b,962s stack positions out of 10000i,1000n,20000p,200000b,200000s
 <C:/Users/Senbuu/AppData/Local/Programs/MiKTeX/fonts/type1/urw/times/utmb8a.pfb><C:/Users/Senbuu/AppData/Local/Programs/MiKTeX/fonts/type1/urw/times/utmr8a.pfb><C:/Users/Senbuu/AppData/Local/Programs/MiKTeX/fonts/type1/urw/times/utmri8a.pfb>
-Output written on main.pdf (24 pages, 196854 bytes).
+Output written on main.pdf (27 pages, 206512 bytes).
 PDF statistics:
- 380 PDF objects out of 1000 (max. 8388607)
- 75 named destinations out of 1000 (max. 500000)
+ 398 PDF objects out of 1000 (max. 8388607)
+ 80 named destinations out of 1000 (max. 500000)
  44922 words of extra memory for PDF output out of 51595 (max. 10000000)
 
