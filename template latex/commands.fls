@@ -1,0 +1,4 @@
+PWD d:\template latex
+INPUT C:\Users\Acer\AppData\Local\MiKTeX\miktex\data\le\pdftex\pdflatex.fmt
+INPUT d:\template latex\commands.tex
+OUTPUT commands.log
