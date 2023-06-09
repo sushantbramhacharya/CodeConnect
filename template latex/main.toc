@@ -4,10 +4,10 @@
 \contentsline {chapter}{DEPARTMENTAL ACCEPTANCE}{vi}{chapter*.4}%
 \contentsline {chapter}{ACKNOWLEDGMENT}{vii}{chapter*.5}%
 \contentsline {chapter}{ABSTRACT}{viii}{chapter*.6}%
-\contentsline {chapter}{TABLE OF CONTENTS}{x}{chapter*.8}%
-\contentsline {chapter}{LIST OF FIGURES}{xii}{chapter*.9}%
-\contentsline {chapter}{LIST OF TABLES}{xiii}{chapter*.10}%
-\contentsline {chapter}{LIST OF ABBREVIATIONS}{xiv}{chapter*.11}%
+\contentsline {chapter}{TABLE OF CONTENTS}{ix}{chapter*.7}%
+\contentsline {chapter}{LIST OF FIGURES}{xi}{chapter*.8}%
+\contentsline {chapter}{LIST OF TABLES}{xii}{chapter*.9}%
+\contentsline {chapter}{LIST OF ABBREVIATIONS}{xiii}{chapter*.10}%
 \contentsline {chapter}{\numberline {1}INTRODUCTION}{1}{chapter.1}%
 \contentsline {section}{\numberline {1.1}Introduction}{1}{section.1.1}%
 \contentsline {section}{\numberline {1.2}Problem Statement}{1}{section.1.2}%
@@ -37,4 +37,4 @@
 \contentsline {section}{\numberline {5.2}Expected Outcome}{15}{section.5.2}%
 \textbf {APPENDIX A}
 \contentsline {section}{\numberline {A.1}Project Schedule}{16}{section.1..1}%
-\contentsline {chapter}{REFERENCES}{17}{appendix*.19}%
+\contentsline {chapter}{REFERENCES}{17}{appendix*.18}%
