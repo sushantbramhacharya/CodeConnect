@@ -15,7 +15,8 @@
 \contentsline {section}{\numberline {1.5}Report Organisation}{2}{section.1.5}%
 \contentsline {chapter}{\numberline {2}BACKGROUND AND LITERATURE REVIEW}{3}{chapter.2}%
 \contentsline {section}{\numberline {2.1}Background Study}{3}{section.2.1}%
-\contentsline {section}{\numberline {2.2}Literature Review}{3}{section.2.2}%
+\contentsline {section}{\numberline {2.2}Limitation}{3}{section.2.2}%
+\contentsline {section}{\numberline {2.3}Literature Review}{3}{section.2.3}%
 \contentsline {chapter}{\numberline {3}METHODOLOGY}{6}{chapter.3}%
 \contentsline {section}{\numberline {3.1}System Development Approach}{6}{section.3.1}%
 \contentsline {section}{\numberline {3.2}Requirement Analysis}{6}{section.3.2}%
