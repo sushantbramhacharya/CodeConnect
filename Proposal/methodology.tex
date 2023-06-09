@@ -2,37 +2,45 @@
 \begin{document}
 
 \section{Methodology}
-\subsection{Waterfall Model}
-For the development of this project, waterfall model was choosen among all the other as the waterfall methodology is a software development life cycle (SDLC) model that is characterized by a linear, sequential approach to development. In other words, each phase of the waterfall model must be completed before the next phase can begin which makes the workflow of the project well formatted.The waterfall methodology has five phases:
-Requirements gathering and analysis,Design,Implementation,Testing,Deployment.\\
+\subsection{Incremental Model}
+An incremental approach, also known as an iterative or step-by-step approach, is a development or problem-solving method that breaks down a larger task or project into smaller, manageable increments or steps. Rather than attempting to tackle the entire task at once, an incremental approach focuses on making incremental progress by completing and delivering smaller portions of work in a series of iterations.\\
 \begin{itemize}
-    \item Requirements gathering and analysis: In this phase, the project team gathers and analyzes the requirements for the software product. This includes identifying the needs of the users and stakeholders, as well as the functional and non-functional requirements for the software.
-    \item Design: In this phase, the project team creates a detailed design for the software product. This includes creating diagrams, specifications, and other documentation that will be used to build the software.
-    \item Implementation: In this phase, the project team builds the software product according to the design. This includes coding, testing, and debugging the software.
-    \item Testing: In this phase, the project team tests the software product to ensure that it meets the requirements. This includes unit testing, integration testing, and system testing.
-    \item Deployment: In this phase, the software product is deployed to production and made available to users.
+    \item Initial Planning and Requirements Gathering
+    \item Increment Planning and Design
+    \item Development and Implementation
+    \item Testing and Quality Assurance
+    \item Evaluation and Feedback
+    \item Iterative Development and Refinement
+    \item Deployment and Release
+    \item Repeat the Process for Subsequent Increments
 \end{itemize}
 
 \subsection{Feasibility study}
+A feasibility study is a systematic and structured analysis conducted to determine the viability and practicality of a proposed project plan. It serves as an evaluation tool to assess whether the project can be successfully implemented and if it aligns with the organization's goals and objectives. It involves gathering and analyzing relevant information to determine if the project is technically feasible, operationally feasible, economically feasible, and scheduling feasible.
 \subsubsection{Economical Feasibility}
-Since the proposed system has a mobile application supported
-on both Android and iOS, we will be using free and open-source cross platform
-software development tools such as Flutter, PHP, MySQL and Figma. We will only need some economy for server for hosting.
+Since the proposed system has a web application, we will be using free and open-source software development tools such as HTML,CSS,JS, PHP, MySQL and Figma. We will only need some economy for server for hosting.
 \subsubsection{Operational Feasibility}
 Operational feasibility for the proposed system focuses ease of use. As the system is designed to be interactive, users do not require in-depth knowledge of the mobile app to navigate and utilize its features. The user interface (UI) is specifically designed to be user-friendly, ensuring a smooth and intuitive experience. This approach minimizes the need for extensive training and reduces potential resistance from users.  
 \subsubsection{Technical Feasibility}
-There are several development technologies available. For frontend development, we have Flutter as a cross-platform framework. For backend development, we have PHP along with the MySQL database. In our application, we have utilized Flutter for the frontend and PHP with MySQL for the backend. Both Flutter and PHP are open-source technologies and are supported by large companies with vibrant communities. This ensures that technical support and resources are readily available. Considering the chosen technologies and their strong community backing, the project is technically feasible.
+There are several development technologies available. For frontend development, we have HTML,CSS,JS. For backend development, we have PHP along with the MySQL database. In our application, we have utilized HTML,CSS,JS, for the frontend and PHP with MySQL for the backend. Both HTML,CSS,JS, and PHP are open-source technologies and are supported by large companies with vibrant communities. This ensures that technical support and resources are readily available. Considering the chosen technologies and their strong community backing, the project is technically feasible.
 \subsection{System development tools}
 \subsubsection{Figma}
 Figma is a cloud-based design and prototyping tool that empowers teams to collaborate on UI/UX design projects in real-time. It offers a user-friendly interface and powerful features that make it a popular choice among designers. With Figma, designers can create and share interactive prototypes, design components, and design systems. Its cloud-based nature allows for seamless collaboration, enabling multiple team members to work on the same design simultaneously. Figma supports version control, ensuring that design iterations can be easily tracked and managed. 
-\subsubsection{Flutter}
-Flutter is a framework for developing cross-platform apps, utilizing the Dart language and its advanced features. During app development and debugging, Flutter employs Just in Time compilation, enabling "hot reload" functionality, allowing developers to inject modifications to source files into a running application. The core of Flutter's engine, primarily written in C++, leverages Google's Skia graphics library to provide low-level rendering support. Additionally, Flutter interfaces with platform-specific SDKs, such as those for Android and iOS, facilitating seamless integration with native capabilities. It encompasses essential libraries for animation, graphics, file and network I/O, accessibility support, plugin architecture, and includes a Dart runtime and compile toolchain.
+\subsubsection{HTML/CSS}
+HTML and CSS are two of the most important languages for creating web pages. HTML stands for HyperText Markup Language, and it is used to structure the content of a web page. CSS stands for Cascading Style Sheets, and it is used to control the appearance of a web page.
+HTML is a markup language, which means that it is used to mark up text with tags. These tags tell the web browser how to display the text. For example, the h1 tag tells the web browser to display the text as a heading, while the p tag tells the web browser to display the text as a paragraph.
+CSS is a style sheet language, which means that it is used to define styles for HTML elements. These styles can control the font, size, color, and other properties of HTML elements. For example, the following CSS code would set the font size of all paragraphs to 16px:
+
 \subsubsection{MySQL}
 MySQL is a robust relational database management system that offers a range of features for efficient data storage and retrieval. It supports transactions with ACID properties, ensuring Atomicity, Consistency, Isolation, and Durability. MySQL provides essential capabilities such as automatically updatable views, triggers, foreign keys, and stored procedures, allowing for complex data manipulation and logic implementation. It is compatible with various operating systems, including Windows, Linux, macOS, FreeBSD, and OpenBSD. 
 \subsubsection{Git/Github}
 Git is a distributed version control system that is both free and open-source, designed to handle projects of all sizes efficiently and swiftly. It simplifies collaboration by enabling multiple individuals to contribute changes that can be seamlessly merged into a single source. When using Git, the software runs locally on your computer, storing your files and their complete history. Alternatively, you can utilize online hosts like GitHub to store a copy of your files and their revision history. This central repository allows you to easily upload your changes and download updates from other developers, promoting seamless collaboration. Git facilitates automatic merging of changes, allowing multiple individuals to work on different sections of the same file and later merge their modifications without losing any work.
-\subsubsection{Node js}
-Node.js is a powerful and popular JavaScript runtime environment that allows developers to build scalable and efficient server-side applications. It leverages the event-driven, non-blocking I/O model, making it well-suited for handling concurrent requests and real-time applications. Node.js has a rich ecosystem of modules and packages available through npm (Node Package Manager), enabling developers to easily integrate third-party libraries and tools into their projects. With its ability to run JavaScript code on the server, Node.js provides a unified language and runtime environment for full-stack development.
-\subsubsection{Express js}
-Node.js is a server-side JavaScript runtime, and when combined with the Express.js framework, it offers a flexible and scalable backend solution. It provides a wide range of libraries and modules to build RESTful APIs, handle authentication, manage data storage, and handle other server-side functionalities required for a social media app.
+\subsubsection{PHP}
+PHP is a server-side scripting language that is used to create dynamic and interactive web pages. It is a free and open-source language that is widely used by web developers. PHP can be used to process form data, generate dynamic content, and connect to databases. It is also used to create content management systems (CMS) and e-commerce platforms.
+PHP is a powerful and flexible language that is easy to learn and use. It is a great choice for web developers who want to create dynamic and interactive web pages.
+\subsubsection{JavaScript}
+JavaScript is a client-side scripting language that is used to create interactive web pages. It is a powerful and versatile language that can be used to do a wide variety of things, including adding animation and interactivity to web pages, validating form data, processing user input, making Ajax requests to the server, and creating games and other interactive applications.
+\subsubsection{AJAX}
+Ajax, which stands for Asynchronous JavaScript and XML, is a technique used in web development to create interactive and dynamic web applications. It allows for data to be exchanged between the client-side and server-side of an application without having to reload the entire webpage.
+
 \end{document}
