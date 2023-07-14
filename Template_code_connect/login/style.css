@@ -147,3 +147,34 @@ input[type=password]:focus {
     outline: none;
     border-color: #aed6ff;
 }
+.mbl-logo{
+    display: none;
+}
+@media (max-width: 1100px) {
+   .right{
+    flex-basis: 50%;
+   } 
+   .left{
+    flex-basis: 50%;
+   }
+  }
+  @media (max-width: 880px) {
+    .left{
+        display: none;
+    }
+    .login-form {
+        width: 100%;
+        padding-right: 5%;
+        box-sizing: border-box;
+    }
+    .right{
+        flex-basis: 100%;
+        justify-self: center;
+    }
+    .mbl-logo{
+        display: block;
+        width: 80%;
+        margin: 0 auto;
+    }
+  }
+
