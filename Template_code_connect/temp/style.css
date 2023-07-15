@@ -1,0 +1,95 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@300&family=Poppins:ital,wght@1,300&display=swap');
+  @import url('https://fonts.googleapis.com/css2?family=Inter:wght@300&family=Poppins&display=swap');
+  @import url('https://fonts.googleapis.com/css2?family=Inter:wght@300&display=swap');
+  @import url('https://fonts.googleapis.com/css2?family=Source+Code+Pro&display=swap');
+  body{
+    font-family: Poppins;
+  }
+
+/*post*/
+.newsfeed {
+  max-width: 800px;
+  margin: 0 auto;
+
+}
+.profile-section{
+  display: flex;
+  margin: 0;
+  align-items: center;
+}
+.profile-section h3{
+  display: block;
+  margin: 0;
+  color: #000;
+font-family: Poppins;
+font-size: 14px;
+font-style: normal;
+font-weight: 400;
+line-height: normal;
+}
+.profile-section p{
+  display: block;
+  margin: 0;
+  color: #636363;
+  font-family: Inter;
+  font-size: 10px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: normal;
+}
+.post {
+  border: 1px solid #ccc;
+  border-radius: 5px;
+  padding: 10px;
+  margin-bottom: 10px;
+}
+
+.post-header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+} 
+
+
+.post-header img {
+  width: 40px;
+  height: 40px;
+  border-radius: 50%;
+  margin-right: 10px;
+}
+
+
+.post-footer {
+  margin-top: 10px;
+}
+
+.post-footer a {
+  margin-right: 100px;
+  text-decoration: none;
+  color: #000000;
+}
+
+.code{
+    border-radius: 10px;
+    border: 1px solid rgba(173, 173, 173, 0.42);
+    background: #2F2F2F;
+    padding: 20px;
+    color:white ;
+    color: #FFF;
+    font-family: Source Code Pro;
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+}
+
+
+.post-description{
+  color: #000;
+  font-family: Inter;
+  font-size: 14px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: normal;
+  margin-left: 8%;
+}
