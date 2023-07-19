@@ -1,5 +1,5 @@
 import React, { Component } from 'react';
-import './style.module.css'
+import styles from './Login.module.css';
 
 class Login extends Component {
     constructor()
@@ -58,21 +58,21 @@ class Login extends Component {
     }
     
   render (){
-    return <div className="main">
-      <div className="left">
-        <img className="logo" src="./assets/logo.png" alt="logo" />
-        <p id="typing-animation" className="code" ></p>
+    return <div className={styles["main"]}>
+      <div className={styles["left"]}>
+        <img className={styles["logo"]} src="./assets/logo.png" alt="logo" />
+        <p id="typing-animation" className={styles["code"]} ></p>
 
       </div>
-      <div className="right">
-        <form className="login-form" action="">
-          <img className="logo mbl-logo" src="./assets/logo.png" alt="logo" />
+      <div className={styles["right"]}>
+        <form className={styles["login-form"]} action="">
+          <img className={styles["logo"]+" "+styles["mbl-logo"]} src="./assets/logo.png" alt="logo" />
           <label htmlFor="email">Email</label>
-          <input className="inputs" type="email" name="email" placeholder="Enter Your Email" id="email" />
+          <input className={styles["inputs"]} type="email" name="email" placeholder="Enter Your Email" id="email" />
           <label htmlFor="password">
-            Password <a className="link" href="">Forgot?</a>
+            Password <a className={styles["link"]} href="">Forgot?</a>
           </label>
-          <div className="inputs">
+          <div className={styles["inputs"]}>
             <input type="password" name="password" placeholder="Enter Your Password" id="password" />
             <svg xmlns="http://www.w3.org/2000/svg" width="24" height="25" viewBox="0 0 24 25" fill="none">
               <path
@@ -86,9 +86,9 @@ class Login extends Component {
             </svg>
           </div>
           <br />
-          <button className="login" name="login">Login Now</button>
+          <button className={styles["login"]} name="login">Login Now</button>
           <br />
-          <button className="login-social login" name="login-social">
+          <button className={styles["login-social"]+" "+styles["login"]} name="login-social">
             <svg xmlns="http://www.w3.org/2000/svg" width="20" height="21" viewBox="0 0 20 21" fill="none">
               <path
                 d="M19.805 10.7305C19.805 10.0507 19.7499 9.36724 19.6323 8.69849H10.2V12.5493H15.6014C15.3773 13.7913 14.6571 14.8899 13.6025 15.5881V18.0867H16.825C18.7173 16.345 19.805 13.7729 19.805 10.7305Z"
@@ -110,8 +110,8 @@ class Login extends Component {
             Login Now
           </button>
           <br />
-          <p className="sign-up">
-            Don't have an account ? <a className="link" href="">Sign Up</a>
+          <p className={styles["sign-up"]}>
+            Don't have an account ? <a className={styles["link"]} href="">Sign Up</a>
           </p>
         </form>
       </div>
