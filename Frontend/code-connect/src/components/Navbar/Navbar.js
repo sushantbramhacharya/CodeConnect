@@ -7,7 +7,7 @@ class Navbar extends Component {
         <div className={styles["navbar"]}>
         <div className={styles["left-section-nav"]}>
           <div className={styles["logo"]}>
-            <a href="#" className={styles["logo-full"]}><img src="/assets/logo_simple.png" alt="logo"/></a>
+            <a href="/" className={styles["logo-full"]}><img src="/assets/logo_simple.png" alt="logo"/></a>
             <a className={styles["logo-small"]} href="#"><img src="/assets/logo_small.png" alt="logo"/></a>
           </div>
           <div className={styles["search"]}>
@@ -20,13 +20,13 @@ class Navbar extends Component {
         </div>
           <ul className={styles["nav-links"]}>
             
-            <li><a href="#"><svg className={styles["icon"]} xmlns="http://www.w3.org/2000/svg" width="55" height="55" viewBox="0 0 55 55" fill="none">
+            <li><a href="/"><svg className={styles["icon"]} xmlns="http://www.w3.org/2000/svg" width="55" height="55" viewBox="0 0 55 55" fill="none">
               <path d="M41.8317 54.5575H13.1849C8.52974 54.5575 4.28385 50.9766 3.51652 46.3982L0.114699 26.0128C-0.448009 22.8412 1.11223 18.7743 3.64441 16.7536L21.3697 2.55807C24.797 -0.204317 30.1939 -0.178739 33.6469 2.58364L51.3722 16.7536C53.8788 18.7743 55.4134 22.8412 54.9019 26.0128L51.5 46.3726C50.7327 50.8999 46.3845 54.5575 41.8317 54.5575ZM27.4827 4.3485C26.127 4.3485 24.7714 4.75774 23.7739 5.55065L6.04871 19.7718C4.61636 20.9228 3.59326 23.583 3.90019 25.399L7.30201 45.7588C7.76241 48.4444 10.4481 50.7208 13.1849 50.7208H41.8317C44.5685 50.7208 47.2542 48.4444 47.7146 45.7332L51.1164 25.3734C51.3977 23.583 50.3746 20.8716 48.9679 19.7462L31.2426 5.57623C30.2195 4.75774 28.8383 4.3485 27.4827 4.3485Z" fill="white"/>
             </svg></a></li>
      
 
           
-            <li><a href="#"> <svg className={styles["icon"]} xmlns="http://www.w3.org/2000/svg" width="51" height="52" viewBox="0 0 51 52" fill="none">
+            <li><a href="/messages"> <svg className={styles["icon"]} xmlns="http://www.w3.org/2000/svg" width="51" height="52" viewBox="0 0 51 52" fill="none">
               <path d="M17.3668 42.3H16.1848C6.72825 42.3 2 39.9359 2 28.1152V16.2946C2 6.83811 6.72825 2.10986 16.1848 2.10986H35.0978C44.5543 2.10986 49.2825 6.83811 49.2825 16.2946V28.1152C49.2825 37.5717 44.5543 42.3 35.0978 42.3H33.9157C33.1828 42.3 32.4736 42.6546 32.0244 43.2456L28.4782 47.9739C26.9179 50.0543 24.3646 50.0543 22.8043 47.9739L19.2581 43.2456C18.8799 42.7255 18.0051 42.3 17.3668 42.3Z" stroke="white" stroke-width="3" stroke-miterlimit="10" stroke-linecap="round" stroke-linejoin="round"/>
               <path d="M35.0889 23.387H35.1091" stroke="white" stroke-width="4.044" stroke-linecap="round" stroke-linejoin="round"/>
               <path d="M25.6304 23.387H25.6508" stroke="white" stroke-width="4.044" stroke-linecap="round" stroke-linejoin="round"/>

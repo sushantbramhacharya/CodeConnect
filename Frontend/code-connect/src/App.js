@@ -6,7 +6,8 @@ function App() {
   return (
     <Router>
     <Switch>
-      <Route exact path="/" component={Home} />
+      <Route exact path="/" component={()=><Home endpoint={"/"}/>} />
+      <Route exact path="/messages" component={()=><Home endpoint={"/messages"}/>} />
       <Route path="/login" component={Login} />
     </Switch>
   </Router>
