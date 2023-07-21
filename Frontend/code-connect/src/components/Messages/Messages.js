@@ -2,11 +2,11 @@ import React, { Component } from 'react';
 import styles from './Messages.module.css';
 class Messages extends Component{
     render() {
-        return  <div>
+        return  <div className={styles["messenger"]}>
         <div className={styles["message-section"]}>
             <div className={styles["message-profile"]}>
                 <div>
-                    <img src="/img/guni.png" />
+                    <img className={styles["message-pic"]} src="/assets/guni.png" />
                     <p>Guniverere</p>
                 </div>
                 <a href="">
@@ -27,7 +27,7 @@ class Messages extends Component{
 
         <div className={styles.messages}>
             <div className={styles.message}>
-                <img src="/img/guni.png" />
+                <img className={styles["message-pic"]} src="/assets/guni.png" />
                 <div>
                     <p className={styles["messager-user-name"]}>Guniverere - <span>2:00pm</span> </p>
                     <div className={styles["message-text"]}>

@@ -5,7 +5,7 @@ class SideBar extends Component {
     render()
     {
         return <div className={styles["sidebar"]}>
-        <img src="/assets/guni.png" alt="guni" />
+        <img src="/assets/guni.png" className={styles["sidebar-pic"]} alt="guni" />
         <div className={styles["inner-sidebar"]}>
           <h1 className={styles["center"]}>Mandal</h1>
           <p className={styles["center"]}>HTML is my pro language</p>

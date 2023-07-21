@@ -2,6 +2,10 @@
 @import url('https://fonts.googleapis.com/css2?family=Inter:wght@300&family=Poppins&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Inter:wght@300&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Source+Code+Pro&display=swap');
+.messenger{
+    width: 60%;
+    padding-top: 20px;
+}
 .message-profile{
     border-radius: 10px;
     border: 1px solid rgba(173, 173, 173, 0.42);
@@ -23,17 +27,17 @@
     font-weight: 400;
     line-height: normal;
 }
-.message-profile img{
-border-radius: 53px;
-width: 60px;
-height: auto;
+.message-pic{
+    border-radius: 53px;
+    width: 60px;
+    height: 60px;
 }
 
 .messages{
     border-radius: 10px;
     border: 1px solid rgba(173, 173, 173, 0.42);
     background: #FFF;
-    height: 70vh;
+    height: 60vh;
     margin-top: 12px;
     padding: 10px 40px;
 }
@@ -58,10 +62,6 @@ height: auto;
     font-size: 18px;
     font-style: normal;
     margin: 0;
-}
-.message img{
-    width: auto;
-    height: 60px;
 }
 
 .message-text p{

@@ -125,13 +125,13 @@ body{
   box-sizing: border-box;
   margin-top: 150px;
 }
-.sidebar img{
+.sidebar-pic{
     position: absolute;
     top: -77px;
     left: 50%;
     transform: translateX(-50%);
-    width: auto;
-    height: 35%;
+    width: 10vw;
+    height: auto;
 }
 .inner-sidebar{
     margin-top: 45%;
