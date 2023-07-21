@@ -1,19 +1,19 @@
 import { Component } from "react";
-
+import styles from "./Posts.module.css";
 
 class Posts extends Component{
     render(){
-        return <div className="posts">
+        return <div className={styles["posts"]}>
         <h2>Posts</h2>
-        <div className="post-content">
-          <div className="newsfeed">
-            <div className="post">
-              <div className="post-header">
-                <div className="profile-section">
+        <div className={styles["post-content"]}>
+          <div className={styles["newsfeed"]}>
+            <div className={styles["post"]}>
+              <div className={styles["post-header"]}>
+                <div className={styles["profile-section"]}>
                   <a href="">
                     <img src="/assets/Profile-Picture.png" alt="Profile Picture" />
                   </a>
-                  <div className="profile-info-posts">
+                  <div className={styles["profile-info-posts"]}>
                     <a href="">
                       <h3>Bloomberg</h3>
                     </a>
@@ -21,19 +21,19 @@ class Posts extends Component{
                     <p>2023/02/02</p>
                   </div>
                 </div>
-                <a className="saved-posts" href="#">
+                <a className={styles["saved-posts"]} href="#">
                 <svg xmlns="http://www.w3.org/2000/svg" width="17" height="25" viewBox="0 0 17 25" fill="none">
               <path d="M12.7126 1H4.34491C2.50574 1 1 2.99185 1 5.42477V21.5874C1 23.6504 2.11856 24.5325 3.48449 23.5223L7.71135 20.4065C8.16308 20.0792 8.89445 20.0792 9.33542 20.4065L13.5623 23.5223C14.9282 24.5325 16.0468 23.6504 16.0468 21.5874V5.42477C16.0575 2.99185 14.5518 1 12.7126 1Z" stroke="#7E7E7E" stroke-linecap="round" stroke-linejoin="round"/>
               <path d="M16.0575 5.42477V21.5874C16.0575 23.6504 14.939 24.5182 13.573 23.5223L9.34619 20.4065C8.89446 20.0792 8.16307 20.0792 7.71135 20.4065L3.48449 23.5223C2.11856 24.5182 1 23.6504 1 21.5874V5.42477C1 2.99185 2.50574 1 4.34491 1H12.7126C14.5518 1 16.0575 2.99185 16.0575 5.42477Z" stroke="#7E7E7E" stroke-linecap="round" stroke-linejoin="round"/>
             </svg>
                 </a>
               </div>
-              <div className="post-content">
-                <p className="post-description">
+              <div className={styles["post-content"]}>
+                <p className={styles["post-description"]}>
                   Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
                   eiusmod tempor incididunt ut labore et dolore magna aliqua..
                 </p>
-                <p className="code">
+                <p className={styles["code"]}>
                   &lt;html&gt; <br />
                   &lt;head&gt; <br />
                   &lt;title&gt; <br />
@@ -47,7 +47,7 @@ class Posts extends Component{
                 </p>
               </div>
               <hr />
-              <div className="post-footer">
+              <div className={styles["post-footer"]}>
                 <a href="#">
                   {' '}
                   <img src="/assets/geek.png" alt="geek" /> Geek

@@ -1,21 +1,21 @@
 import { Component } from "react";
-
+import styles from "./SideBar.module.css";
 
 class SideBar extends Component {
     render()
     {
-        return <div className="sidebar">
+        return <div className={styles["sidebar"]}>
         <img src="/assets/guni.png" alt="guni" />
-        <div className="inner-sidebar">
-          <h1 className="center">Mandal</h1>
-          <p className="center">HTML is my pro language</p>
+        <div className={styles["inner-sidebar"]}>
+          <h1 className={styles["center"]}>Mandal</h1>
+          <p className={styles["center"]}>HTML is my pro language</p>
           <hr />
-          <h2 className="center">Connections</h2>
+          <h2 className={styles["center"]}>Connections</h2>
           <a href="">
-            <p className="center">177</p>
+            <p className={styles["center"]}>177</p>
           </a>
           <hr />
-          <div className="profile-section-buttons">
+          <div className={styles["profile-section-buttons"]}>
             <a href="">
             <svg xmlns="http://www.w3.org/2000/svg" width="17" height="25" viewBox="0 0 17 25" fill="none">
               <path d="M12.7126 1H4.34491C2.50574 1 1 2.99185 1 5.42477V21.5874C1 23.6504 2.11856 24.5325 3.48449 23.5223L7.71135 20.4065C8.16308 20.0792 8.89445 20.0792 9.33542 20.4065L13.5623 23.5223C14.9282 24.5325 16.0468 23.6504 16.0468 21.5874V5.42477C16.0575 2.99185 14.5518 1 12.7126 1Z" stroke="#7E7E7E" stroke-linecap="round" stroke-linejoin="round"/>
