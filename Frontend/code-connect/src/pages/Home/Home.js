@@ -14,8 +14,8 @@ class Home extends Component{
             <Navbar/>
             <div className={styles["container"]}>
             <SideBar/>
-            <Messages/>
-            {/* <Posts/> */}
+            {/* <Messages/> */}
+            <Posts/>
             <AdditionalContent/>
             </div>
             </div>
