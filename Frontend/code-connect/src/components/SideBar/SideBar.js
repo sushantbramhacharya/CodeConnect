@@ -2,13 +2,14 @@ import { Component } from "react";
 import styles from "./SideBar.module.css";
 
 class SideBar extends Component {
-    render()
-    {
+  render()
+  {
+      const {userData}=this.props;
         return <div className={styles["sidebar"]}>
         <img src="/assets/guni.png" className={styles["sidebar-pic"]} alt="guni" />
         <div className={styles["inner-sidebar"]}>
-          <h1 className={styles["center"]}>Mandal</h1>
-          <p className={styles["center"]}>HTML is my pro language</p>
+          <h1 className={styles["center"]}>{userData.Name}</h1>
+          <p className={styles["center"]}>{userData.Email}</p>
           <hr />
           <h2 className={styles["center"]}>Connections</h2>
           <a href="">
