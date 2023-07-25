@@ -19,25 +19,25 @@ function endpointCheck(endpoint) {
 class Home extends Component{
     
 
-    constructor()
+        constructor()
+        {
+            super();
+            this.state={
+                userData:{}
+            };
+        }
+    componentDidMount()
     {
-        super();
-        this.state={
-            userData:{}
-        };
+        const that=this;
+        fetch("http://localhost/test/user.php")
+        .then(resp=>resp.json())
+        .then((data)=>{
+        that.setState({userData:data});
+        })
+        .catch((err)=>{
+        console.log(err);
+        })
     }
-componentDidMount()
-{
-    const that=this;
-    fetch("http://localhost/test/user.php")
-    .then(resp=>resp.json())
-    .then((data)=>{
-      that.setState({userData:data});
-    })
-    .catch((err)=>{
-      console.log(err);
-    })
-}
 
     render(){
         const {userData}=this.state;

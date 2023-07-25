@@ -27,10 +27,10 @@ class Navbar extends Component {
 
           
             <li><a href="/messages"> <svg className={styles["icon"]} xmlns="http://www.w3.org/2000/svg" width="51" height="52" viewBox="0 0 51 52" fill="none">
-              <path d="M17.3668 42.3H16.1848C6.72825 42.3 2 39.9359 2 28.1152V16.2946C2 6.83811 6.72825 2.10986 16.1848 2.10986H35.0978C44.5543 2.10986 49.2825 6.83811 49.2825 16.2946V28.1152C49.2825 37.5717 44.5543 42.3 35.0978 42.3H33.9157C33.1828 42.3 32.4736 42.6546 32.0244 43.2456L28.4782 47.9739C26.9179 50.0543 24.3646 50.0543 22.8043 47.9739L19.2581 43.2456C18.8799 42.7255 18.0051 42.3 17.3668 42.3Z" stroke="white" stroke-width="3" stroke-miterlimit="10" stroke-linecap="round" stroke-linejoin="round"/>
-              <path d="M35.0889 23.387H35.1091" stroke="white" stroke-width="4.044" stroke-linecap="round" stroke-linejoin="round"/>
-              <path d="M25.6304 23.387H25.6508" stroke="white" stroke-width="4.044" stroke-linecap="round" stroke-linejoin="round"/>
-              <path d="M16.1714 23.387H16.1918" stroke="white" stroke-width="4.044" stroke-linecap="round" stroke-linejoin="round"/>
+              <path d="M17.3668 42.3H16.1848C6.72825 42.3 2 39.9359 2 28.1152V16.2946C2 6.83811 6.72825 2.10986 16.1848 2.10986H35.0978C44.5543 2.10986 49.2825 6.83811 49.2825 16.2946V28.1152C49.2825 37.5717 44.5543 42.3 35.0978 42.3H33.9157C33.1828 42.3 32.4736 42.6546 32.0244 43.2456L28.4782 47.9739C26.9179 50.0543 24.3646 50.0543 22.8043 47.9739L19.2581 43.2456C18.8799 42.7255 18.0051 42.3 17.3668 42.3Z" stroke="white" strokeWidth="3" strokeMiterlimit="10" strokeLinecap="round" strokeLinejoin="round"/>
+              <path d="M35.0889 23.387H35.1091" stroke="white" strokeWidth="4.044" strokeLinecap="round" strokeLinejoin="round"/>
+              <path d="M25.6304 23.387H25.6508" stroke="white" strokeWidth="4.044" strokeLinecap="round" strokeLinejoin="round"/>
+              <path d="M16.1714 23.387H16.1918" stroke="white" strokeWidth="4.044" strokeLinecap="round" strokeLinejoin="round"/>
             </svg></a></li>
          
 

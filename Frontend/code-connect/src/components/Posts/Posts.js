@@ -1,13 +1,47 @@
-import { Component } from "react";
+import React, { Component } from "react";
 import styles from "./Posts.module.css";
 
-class Posts extends Component{
-    render(){
-        return <div className={styles["posts"]}>
-        <h2>Posts</h2>
+class Posts extends Component {
+  constructor (){
+    super();
+    this.state = {
+      postDatas: []
+    };
+  }
+  
+
+  componentDidMount() {
+    
+    fetch("http://localhost/test/discussion.php")
+
+      .then((response) => response.json())
+      .then((data) => {
+        this.setState({
+          postDatas: data
+        });
+      })
+      .catch((error) => {
+        console.log(error);
+        
+        });
+      
+  }
+
+
+  
+  render() {
+    const { postDatas } = this.state;
+
+    function codeSplitter(data) {
+      if (data && data.code_post)
+        return data.code_post.split('cc_new');
+  }
+    return (
+      <div className={styles["posts"]}>
+        <h2 className={styles["center"]}>Post</h2>
         <div className={styles["post-content"]}>
           <div className={styles["newsfeed"]}>
-            <div className={styles["post"]}>
+          {postDatas.map((postData,index)=><div key={index} className={styles["post"]}>
               <div className={styles["post-header"]}>
                 <div className={styles["profile-section"]}>
                   <a href="">
@@ -15,7 +49,7 @@ class Posts extends Component{
                   </a>
                   <div className={styles["profile-info-posts"]}>
                     <a href="">
-                      <h3>Bloomberg</h3>
+                      <h3>{postData.uid}</h3>
                     </a>
                     <p>Loves Lolipop</p>
                     <p>2023/02/02</p>
@@ -23,27 +57,19 @@ class Posts extends Component{
                 </div>
                 <a className={styles["saved-posts"]} href="#">
                 <svg xmlns="http://www.w3.org/2000/svg" width="17" height="25" viewBox="0 0 17 25" fill="none">
-              <path d="M12.7126 1H4.34491C2.50574 1 1 2.99185 1 5.42477V21.5874C1 23.6504 2.11856 24.5325 3.48449 23.5223L7.71135 20.4065C8.16308 20.0792 8.89445 20.0792 9.33542 20.4065L13.5623 23.5223C14.9282 24.5325 16.0468 23.6504 16.0468 21.5874V5.42477C16.0575 2.99185 14.5518 1 12.7126 1Z" stroke="#7E7E7E" stroke-linecap="round" stroke-linejoin="round"/>
-              <path d="M16.0575 5.42477V21.5874C16.0575 23.6504 14.939 24.5182 13.573 23.5223L9.34619 20.4065C8.89446 20.0792 8.16307 20.0792 7.71135 20.4065L3.48449 23.5223C2.11856 24.5182 1 23.6504 1 21.5874V5.42477C1 2.99185 2.50574 1 4.34491 1H12.7126C14.5518 1 16.0575 2.99185 16.0575 5.42477Z" stroke="#7E7E7E" stroke-linecap="round" stroke-linejoin="round"/>
+              <path d="M12.7126 1H4.34491C2.50574 1 1 2.99185 1 5.42477V21.5874C1 23.6504 2.11856 24.5325 3.48449 23.5223L7.71135 20.4065C8.16308 20.0792 8.89445 20.0792 9.33542 20.4065L13.5623 23.5223C14.9282 24.5325 16.0468 23.6504 16.0468 21.5874V5.42477C16.0575 2.99185 14.5518 1 12.7126 1Z" stroke="#7E7E7E" strokeLinecap="round" strokeLinejoin="round"/>
+              <path d="M16.0575 5.42477V21.5874C16.0575 23.6504 14.939 24.5182 13.573 23.5223L9.34619 20.4065C8.89446 20.0792 8.16307 20.0792 7.71135 20.4065L3.48449 23.5223C2.11856 24.5182 1 23.6504 1 21.5874V5.42477C1 2.99185 2.50574 1 4.34491 1H12.7126C14.5518 1 16.0575 2.99185 16.0575 5.42477Z" stroke="#7E7E7E" strokeLinecap="round" strokeLinejoin="round"/>
             </svg>
                 </a>
               </div>
               <div className={styles["post-content"]}>
-                <p className={styles["post-description"]}>
-                  Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
-                  eiusmod tempor incididunt ut labore et dolore magna aliqua..
-                </p>
+              <p className={styles["center"]}>{postData.description_post}</p>
+
                 <p className={styles["code"]}>
-                  &lt;html&gt; <br />
-                  &lt;head&gt; <br />
-                  &lt;title&gt; <br />
-                  &lt;Hello World&gt; <br />
-                  &lt;/title&gt; <br />
-                  &lt;/head&gt; <br />
-                  &lt;body&gt; <br />
-                  &lt;h1&gt;Hellow world&lt;/h1&gt; <br />
-                  &lt;form&gt; <br />
-                  &lt;label for="fname"&gt;First name:&gt; &lt;/label&gt; <br />
+                {codeSplitter(postData).map((post, index) => (
+                <span key={index}>{post} <br/></span>
+                
+                    ))}
                 </p>
               </div>
               <hr />
@@ -63,22 +89,25 @@ class Posts extends Component{
                 <a href="#">
                   {' '}
                   <svg xmlns="http://www.w3.org/2000/svg" width="41" height="39" viewBox="0 0 41 39" fill="none">
-              <path d="M30.2207 8.53149C34.1403 11.1291 36.8448 15.2591 37.3936 20.0245" stroke="#292D32" stroke-opacity="0.62" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
-              <path d="M3.82227 20.1179C4.33181 15.3711 6.99714 11.2411 10.8775 8.62476" stroke="#292D32" stroke-opacity="0.62" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
-              <path d="M13.0332 36.1333C15.3066 37.2359 17.8935 37.8526 20.6176 37.8526C23.2438 37.8526 25.7131 37.292 27.9277 36.2641" stroke="#292D32" stroke-opacity="0.62" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
-              <path d="M20.6176 11.3905C23.6267 11.3905 26.0659 9.06451 26.0659 6.19524C26.0659 3.32599 23.6267 1 20.6176 1C17.6087 1 15.1694 3.32599 15.1694 6.19524C15.1694 9.06451 17.6087 11.3905 20.6176 11.3905Z" stroke="#292D32" stroke-opacity="0.62" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
-              <path d="M6.44824 34.2274C9.45721 34.2274 11.8965 31.9013 11.8965 29.0322C11.8965 26.1628 9.45721 23.8369 6.44824 23.8369C3.43926 23.8369 1 26.1628 1 29.0322C1 31.9013 3.43926 34.2274 6.44824 34.2274Z" stroke="#292D32" stroke-opacity="0.62" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
-              <path d="M34.5518 34.2274C37.5608 34.2274 40 31.9013 40 29.0322C40 26.1628 37.5608 23.8369 34.5518 23.8369C31.5429 23.8369 29.1035 26.1628 29.1035 29.0322C29.1035 31.9013 31.5429 34.2274 34.5518 34.2274Z" stroke="#292D32" stroke-opacity="0.62" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+              <path d="M30.2207 8.53149C34.1403 11.1291 36.8448 15.2591 37.3936 20.0245" stroke="#292D32" strokeOpacity="0.62" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round"/>
+              <path d="M3.82227 20.1179C4.33181 15.3711 6.99714 11.2411 10.8775 8.62476" stroke="#292D32" strokeOpacity="0.62" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round"/>
+              <path d="M13.0332 36.1333C15.3066 37.2359 17.8935 37.8526 20.6176 37.8526C23.2438 37.8526 25.7131 37.292 27.9277 36.2641" stroke="#292D32" strokeOpacity="0.62" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round"/>
+              <path d="M20.6176 11.3905C23.6267 11.3905 26.0659 9.06451 26.0659 6.19524C26.0659 3.32599 23.6267 1 20.6176 1C17.6087 1 15.1694 3.32599 15.1694 6.19524C15.1694 9.06451 17.6087 11.3905 20.6176 11.3905Z" stroke="#292D32" strokeOpacity="0.62" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round"/>
+              <path d="M6.44824 34.2274C9.45721 34.2274 11.8965 31.9013 11.8965 29.0322C11.8965 26.1628 9.45721 23.8369 6.44824 23.8369C3.43926 23.8369 1 26.1628 1 29.0322C1 31.9013 3.43926 34.2274 6.44824 34.2274Z" stroke="#292D32" strokeOpacity="0.62" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round"/>
+              <path d="M34.5518 34.2274C37.5608 34.2274 40 31.9013 40 29.0322C40 26.1628 37.5608 23.8369 34.5518 23.8369C31.5429 23.8369 29.1035 26.1628 29.1035 29.0322C29.1035 31.9013 31.5429 34.2274 34.5518 34.2274Z" stroke="#292D32" strokeOpacity="0.62" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round"/>
             </svg>{' '}
                   Share
                 </a>
               </div>
-            </div>
+            </div>)}
+            
             {/* Add more posts here */}
           </div>
         </div>
-      </div>;
+      </div>
+    );
     }
 }
+
 
 export default Posts;
