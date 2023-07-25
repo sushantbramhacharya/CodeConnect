@@ -1,55 +1,82 @@
 import React, { Component } from 'react';
 import styles from './Login.module.css';
+import axios from 'axios';
 
 class Login extends Component {
-    constructor()
-    {
-        super();
-    }
+  constructor(props) {
+    super(props);
+    this.state = {
+      email: '',
+      password: '',
+    };
+  }
+
+  handleSubmit = (e) => {
+    e.preventDefault();
+    const {  email, password } = this.state;
+    axios.post('http://localhost/test/auth.php', {  email, password }, { withCredentials: true })
+      .then((response) => {
+        if(response.data==="Success")
+        {
+          
+        }
+      })
+      .catch((error) => {
+
+        console.error('Error:', error);
+      });
+  };
+
+  handleChange = (e) => {
+    const { name, value } = e.target;
+    this.setState({
+      [name]: value,
+    });
+  };
   
     
-    componentDidMount()
-    {  
-        let texts = [
-            "<!--HTML-->\n<html>\n<body>\n<h1>Welcome To Code Connect</h1>\n</body>\n</html>",
-            "//JavaScript\nconsole.log(\"Code Connect\");",
-            "#Python\nprint(\"Code Connect\")",
-            "//JAVA\npublic class CodeConnect {\npublic static void main(String[] args) {\n   System.out.println(\"Code Connect\");\n    }\n}"
-        ];
-  
-        let delay = 100;
-        if(window.innerWidth<1303)
-        {
-            console.log(window.innerWidth)
-            texts = [
-                "//PHP\n<?php \necho \"Code Connect\";\n?>",
-                "//Ruby\nputs \"Hello, World!\";",
-                "#Python\nprint(\"Code Connect\")",
-                
-            ];
-        }
-        let animationElement = document.getElementById("typing-animation");
-  
-        function typeWriter(text, index, lineIndex) {
-            if (index < text.length) {
-            if (text.charAt(index) === '\n') {
-                animationElement.innerHTML += "<br>";
-                lineIndex++;
-            } else {
-                animationElement.innerHTML += text.charAt(index);
-            }
-            index++;
-            setTimeout(function() {
-                typeWriter(text, index, lineIndex);
-            }, delay);
-            } else {
-            setTimeout(function() {
-                animationElement.innerHTML = "";
-                var nextTextIndex = (texts.indexOf(text) + 1) % texts.length;
-                typeWriter(texts[nextTextIndex], 0, 0);
-            }, 1000); 
-            }
-  }
+  componentDidMount()
+  {  
+      let texts = [
+          "<!--HTML-->\n<html>\n<body>\n<h1>Welcome To Code Connect</h1>\n</body>\n</html>",
+          "//JavaScript\nconsole.log(\"Code Connect\");",
+          "#Python\nprint(\"Code Connect\")",
+          "//JAVA\npublic class CodeConnect {\npublic static void main(String[] args) {\n   System.out.println(\"Code Connect\");\n    }\n}"
+      ];
+
+      let delay = 100;
+      if(window.innerWidth<1303)
+      {
+          console.log(window.innerWidth)
+          texts = [
+              "//PHP\n<?php \necho \"Code Connect\";\n?>",
+              "//Ruby\nputs \"Hello, World!\";",
+              "#Python\nprint(\"Code Connect\")",
+              
+          ];
+      }
+      let animationElement = document.getElementById("typing-animation");
+
+      function typeWriter(text, index, lineIndex) {
+          if (index < text.length) {
+          if (text.charAt(index) === '\n') {
+              animationElement.innerHTML += "<br>";
+              lineIndex++;
+          } else {
+              animationElement.innerHTML += text.charAt(index);
+          }
+          index++;
+          setTimeout(function() {
+              typeWriter(text, index, lineIndex);
+          }, delay);
+          } else {
+          setTimeout(function() {
+              animationElement.innerHTML = "";
+              var nextTextIndex = (texts.indexOf(text) + 1) % texts.length;
+              typeWriter(texts[nextTextIndex], 0, 0);
+          }, 1000); 
+          }
+}
   
 
   typeWriter(texts[0], 0, 0);
@@ -57,7 +84,8 @@ class Login extends Component {
 
     }
     
-  render (){
+  render() {
+    const { email, password } = this.state;
     return <div className={styles["main"]}>
       <div className={styles["left"]}>
         <img className={styles["logo"]} src="./assets/logo.png" alt="logo" />
@@ -65,15 +93,15 @@ class Login extends Component {
 
       </div>
       <div className={styles["right"]}>
-        <form className={styles["login-form"]} action="">
+        <form className={styles["login-form"]} onSubmit={this.handleSubmit}>
           <img className={styles["logo"]+" "+styles["mbl-logo"]} src="./assets/logo.png" alt="logo" />
           <label htmlFor="email">Email</label>
-          <input className={styles["inputs"]} type="email" name="email" placeholder="Enter Your Email" id="email" />
+          <input className={styles["inputs"]} value={email} onChange={this.handleChange} type="email" name="email" placeholder="Enter Your Email" id="email" />
           <label htmlFor="password">
             Password <a className={styles["link"]} href="">Forgot?</a>
           </label>
           <div className={styles["inputs"]}>
-            <input type="password" name="password" placeholder="Enter Your Password" id="password" />
+            <input value={password} onChange={this.handleChange} type="password" name="password" placeholder="Enter Your Password" id="password" />
             <svg xmlns="http://www.w3.org/2000/svg" width="24" height="25" viewBox="0 0 24 25" fill="none">
               <path
                 d="M12 5.75C4.5 5.75 1.5 12.5 1.5 12.5C1.5 12.5 4.5 19.25 12 19.25C19.5 19.25 22.5 12.5 22.5 12.5C22.5 12.5 19.5 5.75 12 5.75Z"
@@ -88,7 +116,7 @@ class Login extends Component {
           <br />
           <button className={styles["login"]} name="login">Login Now</button>
           <br />
-          <button className={styles["login-social"]+" "+styles["login"]} name="login-social">
+          {/* <button className={styles["login-social"]+" "+styles["login"]} name="login-social">
             <svg xmlns="http://www.w3.org/2000/svg" width="20" height="21" viewBox="0 0 20 21" fill="none">
               <path
                 d="M19.805 10.7305C19.805 10.0507 19.7499 9.36724 19.6323 8.69849H10.2V12.5493H15.6014C15.3773 13.7913 14.6571 14.8899 13.6025 15.5881V18.0867H16.825C18.7173 16.345 19.805 13.7729 19.805 10.7305Z"
@@ -108,7 +136,7 @@ class Login extends Component {
               />
             </svg>
             Login Now
-          </button>
+          </button> */}
           <br />
           <p className={styles["sign-up"]}>
             Don't have an account ? <a className={styles["link"]} href="">Sign Up</a>
