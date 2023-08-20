@@ -40,6 +40,9 @@
 \usepackage{scrextend}
 \usepackage{etoolbox}
 \usepackage{appendix}
+\usepackage{ragged2e}
+\usepackage{tabularx}
+\newcolumntype{Y}{>{\raggedright\arraybackslash}X}
 
 
 
@@ -170,10 +173,10 @@
 
 \include{0ACover/0cover}
 \include{0ACover/1title}
-% \include{0ACover/2copyright}
 % \include{0ACover/3declaration}
 \include{0ACover/4recommendation} 
 \include{0ACover/5departmentAcceptance} % Approval letter
+% \include{LetterOfApprovalBCA/letter}
 \include{0HAbstract/abstract}
 \include{0ACover/6acknowledgement}
 

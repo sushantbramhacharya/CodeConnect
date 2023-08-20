@@ -1,6 +1,6 @@
-\chapter{IMPLEMENTATION and Testing}
+\chapter{IMPLEMENTATION AND TESTING}
 \section{Implementation}
-"Code Connect" is a delightful online space where programmers come together to share ideas and experiences. Using tools like HTML, CSS, and JavaScript, we've built a website that's easy to use and fun to explore. Behind the scenes, PHP and MySQL work like magic to handle all the information. With React.js, everything feels smooth and interactive, just like chatting with friends. It's not just about technology – it's about people connecting and learning from each other. Just like baking a tasty treat, we've mixed all these ingredients to create something special that everyone can enjoy.
+"Code Connect" is a delightful online space where programmers come together to share ideas and experiences. Using tools like HTML, CSS, and JavaScript, we've built a website that's easy to use and fun to explore. Behind the scenes, PHP and MySQL work like magic to handle all the information. With AJAX and JQuery, everything feels smooth and interactive, just like chatting with friends. It's not just about technology – it's about people connecting and learning from each other. Just like baking a tasty treat, we've mixed all these ingredients to create something special that everyone can enjoy.
 
 
 % (20\% of Report Length)
@@ -35,7 +35,6 @@ GitHub is a web-based platform pivotal to software development, offering version
 
     \item JavaScript (JS): JavaScript is a versatile scripting language used to add interactivity and dynamic behavior to web pages. It enables developers to create responsive features such as form validation, animations, pop-ups, and real-time updates. JS executes directly in the browser, allowing users to interact with web content without requiring page reloads. It's a crucial component for creating engaging and interactive web experiences.
 
-    \item React.js: React.js is a JavaScript library developed by Facebook for building user interfaces. It allows developers to create reusable UI components, which are building blocks that encapsulate specific functionality and can be used across different parts of a web application. React's virtual DOM (Document Object Model) optimizes rendering by updating only the necessary parts of the interface, leading to better performance. It encourages a component-based architecture, making it easier to manage and maintain complex user interfaces.
 \end{itemize}
 \textbf{MySQL}
 \newline
@@ -74,35 +73,86 @@ Navigating the realm of web design and user interface enhancement, I've been cap
 % \section{Testing}
 % \subsection{Test Cases for Unit Testing}
 % \subsection{Test Cases for System Testing}
-
+\newpage
 \section{Testing}
-\begin{tabular}{|c|l|l|l|}
-    \hline
-    Tests & Test Cases & Input & Output \\
-    \hline
-        1 & Incorrect email Format & sirja.com & Incorrect email \\
-        2 & Incorrect Password & 12345679 & Wrong Password \\
-        3 & Incorrect Confirm Password & 12345679/12345678 & Enter Same Password \\
-    \hline
-\end{tabular}
+\subsection{Unit Testing}
+Unit testing is a software testing technique where individual units or components of a software application are tested in isolation to ensure that they function correctly. These units can be functions, methods, classes, or even small modules. Unit testing aims to verify that each unit performs as expected, providing developers with confidence that their code works as intended and catches bugs early in the development process.
+\\
+\textbf{Authenication Unit}\\
+Here We are testing different test cases of authentication system in Code Connect with screenshots as required results:\\
+\textbf{1. Incorrect Password in login}\\
+Testing incorrect password in our system by providing wrong password\\
+\textbf{Test Inputs}\\
+Email:test@gmail.com \\
+Password:1234\\
+\textbf{Result}\\
+Incorrect email\\
+\textbf{2. Incorrect Confirm Password in SignUp}\\
+Testing incorrect confirm password in our system by providing not providing same confirm password\\
+\textbf{Test Inputs}\\
+Email:test@gmail.com \\
+Password:12345679\\
+Password:12345678\\
+\textbf{Result}\\
+Enter Same Password\\
+\textbf{3. Correct Credentials In Login}\\
+Testing incorrect confirm password in our system by providing not providing same confirm password\\
+\textbf{Test Inputs}\\
+Email:test@gmail.com \\
+Password:12345679\\
+\textbf{Result}\\
+Redirects to homepage\\
 
-\begin{figure}[ht]
-    \centering
-    \includegraphics[width=1\textwidth]{4ImplementationAndTesting/screenshots/email-err-signin.png}
-    \caption{Test Case 1}
-    \label{fig: Incorrect email Format}
 
-\end{figure}
-\begin{figure}[ht]
-    \centering
-    \includegraphics[width=1\textwidth]{4ImplementationAndTesting/screenshots/signin-pass-err.png}
-    \caption{Test Case 1}
-    \label{fig: Incorrect Password}
-\end{figure}
-\begin{figure}[ht]
-    \centering
-    \includegraphics[width=1\textwidth]{4ImplementationAndTesting/screenshots/signup-same-pass.png}
-    \caption{Test Case 1}
-    \label{fig: Incorrect Confirm Password}
-\end{figure}
+
+% \begin{tabular}{|c|l|l|l|}
+%     \hline
+%     Tests & Test Cases & Input & Output \\
+%     \hline
+%         1 & Incorrect email Format In Login& sirja.com & Incorrect email \\
+%         2 & Incorrect Password & 12345679 & Wrong Password \\
+%         3 & Incorrect email Format In SignUp & ram123.com & Incorrect Email Format \\
+%         4 & Incorrect Confirm Password & 12345679/12345678 & Enter Same Password \\
+%         5 & Correct Format In SignUp & Correct format info & Redirects to Login Page \\
+%         6 & Correct Credentials In Login & Correct Credentials & Redirects to homepage \\
+%     \hline 
+% \end{tabular}
+
+% \begin{figure}[ht]
+%     \centering
+%     \includegraphics[width=1\textwidth]{4ImplementationAndTesting/screenshots/email-err-signin.png}
+%     \caption{Incorrect email Format}
+%     \label{fig: Incorrect email Format}
+
+% \end{figure}
+% \begin{figure}[ht]
+%     \centering
+%     \includegraphics[width=1\textwidth]{4ImplementationAndTesting/screenshots/signin-pass-err.png}
+%     \caption{Incorrect Password}
+%     \label{fig: Incorrect Password}
+% \end{figure}
+% \begin{figure}[ht]
+%     \centering
+%     \includegraphics[width=1\textwidth]{4ImplementationAndTesting/screenshots/signup-same-pass.png}
+%     \caption{Incorrect email Format In SignUp}
+%     \label{fig: Incorrect email Format In SignUp}
+% \end{figure}
+% \begin{figure}[ht]
+%     \centering
+%     \includegraphics[width=1\textwidth]{4ImplementationAndTesting/screenshots/signup-pass-err.png}
+%     \caption{Incorrect Confirm Password}
+%     \label{fig: Incorrect Confirm Password}
+% \end{figure}
+% \begin{figure}[ht]
+%     \centering
+%     \includegraphics[width=1\textwidth]{ui_diagrams/desktop_login.png}
+%     \caption{Correct SignUp Info Output}
+%     \label{fig: Correct SignUp Info Output}
+% \end{figure}
+% \begin{figure}[ht]
+%     \centering
+%     \includegraphics[width=1\textwidth]{ui_diagrams/desktop_homepage.png}
+%     \caption{Correct Login Info Output}
+%     \label{fig: Correct Login Info Output}
+% \end{figure}
 
