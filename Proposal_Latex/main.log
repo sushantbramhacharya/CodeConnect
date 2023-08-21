@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 23.5) (preloaded format=pdflatex 2023.6.4)  20 AUG 2023 20:22
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 23.5) (preloaded format=pdflatex 2023.6.4)  21 AUG 2023 13:37
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -1313,8 +1313,29 @@ Package: array 2022/09/04 v2.5g Tabular extension package (FMi)
 \TX@delta=\dimen331
 \TX@cols=\count374
 \TX@ftn=\toks49
-)
-Package hyperref Info: Option `colorlinks' set `true' on input line 104.
+) (C:\Users\Senbuu\AppData\Local\Programs\MiKTeX\tex/latex/listings\listings.sty
+\lst@mode=\count375
+\lst@gtempboxa=\box122
+\lst@token=\toks50
+\lst@length=\count376
+\lst@currlwidth=\dimen332
+\lst@column=\count377
+\lst@pos=\count378
+\lst@lostspace=\dimen333
+\lst@width=\dimen334
+\lst@newlines=\count379
+\lst@lineno=\count380
+\lst@maxwidth=\dimen335
+ (C:\Users\Senbuu\AppData\Local\Programs\MiKTeX\tex/latex/listings\lstmisc.sty
+File: lstmisc.sty 2023/02/27 1.9 (Carsten Heinz)
+\c@lstnumber=\count381
+\lst@skipnumbers=\count382
+\lst@framebox=\box123
+) (C:\Users\Senbuu\AppData\Local\Programs\MiKTeX\tex/latex/listings\listings.cfg
+File: listings.cfg 2023/02/27 1.9 listings configuration
+))
+Package: listings 2023/02/27 1.9 (Carsten Heinz)
+Package hyperref Info: Option `colorlinks' set `true' on input line 115.
  (C:\Users\Senbuu\AppData\Local\Programs\MiKTeX\tex/latex/tocloft\tocloft.sty
 Package: tocloft 2017/08/31 v2.3i parameterised ToC, etc., typesetting
 Package tocloft Info: The document has chapter divisions on input line 51.
@@ -1347,55 +1368,55 @@ Package tocloft Info: The document has chapter divisions on input line 51.
 \cftbeforefigskip=\skip114
 \cftfigindent=\skip115
 \cftfignumwidth=\skip116
-\c@lofdepth=\count375
-\c@lotdepth=\count376
+\c@lofdepth=\count383
+\c@lotdepth=\count384
 \cftbeforelottitleskip=\skip117
 \cftafterlottitleskip=\skip118
 \cftbeforetabskip=\skip119
 \cfttabindent=\skip120
 \cfttabnumwidth=\skip121
 )
-LaTeX Font Info:    Trying to load font information for OT1+ptm on input line 170.
+LaTeX Font Info:    Trying to load font information for OT1+ptm on input line 181.
  (C:\Users\Senbuu\AppData\Local\Programs\MiKTeX\tex/latex/psnfss\ot1ptm.fd
 File: ot1ptm.fd 2001/06/04 font definitions for OT1/ptm.
 ) (C:\Users\Senbuu\AppData\Local\Programs\MiKTeX\tex/latex/l3backend\l3backend-pdftex.def
 File: l3backend-pdftex.def 2023-04-19 L3 backend support: PDF output (pdfTeX)
-\l__color_backend_stack_int=\count377
-\l__pdf_internal_box=\box122
-) (main.aux (0ACover/0cover.aux) (0ACover/1title.aux) (0ACover/4recommendation.aux) (0ACover/5departmentAcceptance.aux) (0HAbstract/abstract.aux) (0ACover/6acknowledgement.aux) (0IAbbreviations/abbreviations.aux) (1Introduction/introduction.aux) (2Literaturereview/literaturereview.aux) (3Methodology/methodology.aux) (4ImplementationAndTesting/ImplementationAndTesting.aux) (5ConclusionFuture/conclusion.aux))
+\l__color_backend_stack_int=\count385
+\l__pdf_internal_box=\box124
+) (main.aux (0ACover/0cover.aux) (0ACover/1title.aux) (0ACover/4recommendation.aux) (0ACover/5departmentAcceptance.aux) (LetterOfApprovalBCA/letter.aux) (0HAbstract/abstract.aux) (0ACover/6acknowledgement.aux) (0IAbbreviations/abbreviations.aux) (1Introduction/introduction.aux) (2Literaturereview/literaturereview.aux) (3Methodology/methodology.aux) (4ImplementationAndTesting/ImplementationAndTesting.aux) (5ConclusionFuture/conclusion.aux))
 \openout1 = `main.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 170.
-LaTeX Font Info:    ... okay on input line 170.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 170.
-LaTeX Font Info:    ... okay on input line 170.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 170.
-LaTeX Font Info:    ... okay on input line 170.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 170.
-LaTeX Font Info:    ... okay on input line 170.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 170.
-LaTeX Font Info:    ... okay on input line 170.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 170.
-LaTeX Font Info:    ... okay on input line 170.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 170.
-LaTeX Font Info:    ... okay on input line 170.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 170.
-LaTeX Font Info:    ... okay on input line 170.
-LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 170.
-LaTeX Font Info:    ... okay on input line 170.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 181.
+LaTeX Font Info:    ... okay on input line 181.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 181.
+LaTeX Font Info:    ... okay on input line 181.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 181.
+LaTeX Font Info:    ... okay on input line 181.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 181.
+LaTeX Font Info:    ... okay on input line 181.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 181.
+LaTeX Font Info:    ... okay on input line 181.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 181.
+LaTeX Font Info:    ... okay on input line 181.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 181.
+LaTeX Font Info:    ... okay on input line 181.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 181.
+LaTeX Font Info:    ... okay on input line 181.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 181.
+LaTeX Font Info:    ... okay on input line 181.
  (C:\Users\Senbuu\AppData\Local\Programs\MiKTeX\tex/context/base/mkii\supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
-\scratchcounter=\count378
-\scratchdimen=\dimen332
-\scratchbox=\box123
-\nofMPsegments=\count379
-\nofMParguments=\count380
-\everyMPshowfont=\toks50
-\MPscratchCnt=\count381
-\MPscratchDim=\dimen333
-\MPnumerator=\count382
-\makeMPintoPDFobject=\count383
-\everyMPtoPDFconversion=\toks51
+\scratchcounter=\count386
+\scratchdimen=\dimen336
+\scratchbox=\box125
+\nofMPsegments=\count387
+\nofMParguments=\count388
+\everyMPshowfont=\toks51
+\MPscratchCnt=\count389
+\MPscratchDim=\dimen337
+\MPnumerator=\count390
+\makeMPintoPDFobject=\count391
+\everyMPtoPDFconversion=\toks52
 ) (C:\Users\Senbuu\AppData\Local\Programs\MiKTeX\tex/latex/epstopdf-pkg\epstopdf-base.sty
 Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
 Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 485.
@@ -1436,21 +1457,21 @@ File: epstopdf-sys.cfg 2021/03/18 v2.0 Configuration of epstopdf for MiKTeX
 * \@reversemarginfalse
 * (1in=72.27pt=25.4mm, 1cm=28.453pt)
 
-LaTeX Info: Redefining \microtypecontext on input line 170.
-Package microtype Info: Applying patch `item' on input line 170.
-Package microtype Info: Applying patch `toc' on input line 170.
-Package microtype Info: Applying patch `eqnum' on input line 170.
+LaTeX Info: Redefining \microtypecontext on input line 181.
+Package microtype Info: Applying patch `item' on input line 181.
+Package microtype Info: Applying patch `toc' on input line 181.
+Package microtype Info: Applying patch `eqnum' on input line 181.
 
-Package microtype Warning: Unable to apply patch `footnote' on input line 170.
+Package microtype Warning: Unable to apply patch `footnote' on input line 181.
 
-Package microtype Info: Applying patch `verbatim' on input line 170.
+Package microtype Info: Applying patch `verbatim' on input line 181.
 Package microtype Info: Generating PDF output.
 Package microtype Info: Character protrusion enabled (level 2).
 Package microtype Info: Using default protrusion set `alltext'.
 Package microtype Info: Automatic font expansion enabled (level 2),
 (microtype)             stretch: 20, shrink: 20, step: 1, non-selected.
 Package microtype Info: Using default expansion set `alltext-nott'.
-LaTeX Info: Redefining \showhyphens on input line 170.
+LaTeX Info: Redefining \showhyphens on input line 181.
 Package microtype Info: No adjustment of tracking.
 Package microtype Info: No adjustment of interword spacing.
 Package microtype Info: No adjustment of character kerning.
@@ -1460,20 +1481,22 @@ File: mt-ptm.cfg 2006/04/20 v1.7 microtype config. file: Times (RS)
 Package caption Info: Begin \AtBeginDocument code.
 Package caption Info: float package is loaded.
 Package caption Info: hyperref package is loaded.
+Package caption Info: listings package is loaded.
 Package caption Info: scrextend package is loaded.
-\caption@addmargin@hsize=\dimen334
-\caption@addmargin@linewidth=\dimen335
+\caption@addmargin@hsize=\dimen338
+\caption@addmargin@linewidth=\dimen339
 Package caption Info: wrapfig package is loaded.
 Package caption Info: End \AtBeginDocument code.
-Package hyperref Info: Link coloring ON on input line 170.
+Package hyperref Info: Link coloring ON on input line 181.
  (main.out) (main.out)
 \@outlinefile=\write4
 \openout4 = `main.out'.
 
+\c@lstlisting=\count392
 \openout2 = `0ACover/0cover.aux'.
 
  (0ACover/0cover.tex
-<img/Graphics/TUlogo.png, id=198, 440.64626pt x 512.91624pt>
+<img/Graphics/TUlogo.png, id=202, 440.64626pt x 512.91624pt>
 File: img/Graphics/TUlogo.png Graphic file (type png)
 <use img/Graphics/TUlogo.png>
 Package pdftex.def Info: img/Graphics/TUlogo.png  used on input line 5.
@@ -1596,24 +1619,33 @@ Underfull \hbox (badness 10000) in paragraph at lines 12--20
 
 
 ])
+\openout2 = `LetterOfApprovalBCA/letter.aux'.
+
+ (LetterOfApprovalBCA/letter.tex
+File: img/Graphics/TUlogo.png Graphic file (type png)
+<use img/Graphics/TUlogo.png>
+Package pdftex.def Info: img/Graphics/TUlogo.png  used on input line 3.
+(pdftex.def)             Requested size: 90.3375pt x 105.1485pt.
+
+Overfull \hbox (11.32283pt too wide) in paragraph at lines 14--16
+\OT1/ptm/m/n/12 (-20) This is to cer-tify that this project pre-pared by Amit Ma-har-jan and Sushant Bramhacharya
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 14--16
+
+ []
+
+(C:\Users\Senbuu\AppData\Local\Programs\MiKTeX\tex/latex/psnfss\ot1ztmcm.fd) (C:\Users\Senbuu\AppData\Local\Programs\MiKTeX\tex/latex/psnfss\omlztmcm.fd) (C:\Users\Senbuu\AppData\Local\Programs\MiKTeX\tex/latex/psnfss\omsztmcm.fd) (C:\Users\Senbuu\AppData\Local\Programs\MiKTeX\tex/latex/psnfss\omxztmcm.fd) (C:\Users\Senbuu\AppData\Local\Programs\MiKTeX\tex/latex/microtype\mt-msa.cfg) (C:\Users\Senbuu\AppData\Local\Programs\MiKTeX\tex/latex/microtype\mt-msb.cfg)) [5
+
+
+
+
+]
 \openout2 = `0HAbstract/abstract.aux'.
 
  (0HAbstract/abstract.tex
 Underfull \hbox (badness 10000) in paragraph at lines 8--20
-
- []
-
-[5
-
-
-
-
-
-])
-\openout2 = `0ACover/6acknowledgement.aux'.
-
- (0ACover/6acknowledgement.tex)
-Underfull \hbox (badness 10000) in paragraph at lines 22--181
 
  []
 
@@ -1622,38 +1654,20 @@ Underfull \hbox (badness 10000) in paragraph at lines 22--181
 
 
 
-] (main.toc
-LaTeX Font Info:    Trying to load font information for OT1+ztmcm on input line 10.
- (C:\Users\Senbuu\AppData\Local\Programs\MiKTeX\tex/latex/psnfss\ot1ztmcm.fd
-File: ot1ztmcm.fd 2000/01/03 Fontinst v1.801 font definitions for OT1/ztmcm.
-)
-Package microtype Info: Loading generic protrusion settings for font family
-(microtype)             `ztmcm' (encoding: OT1).
-(microtype)             For optimal results, create family-specific settings.
-(microtype)             See the microtype manual for details.
-LaTeX Font Info:    Trying to load font information for OML+ztmcm on input line 10.
- (C:\Users\Senbuu\AppData\Local\Programs\MiKTeX\tex/latex/psnfss\omlztmcm.fd
-File: omlztmcm.fd 2000/01/03 Fontinst v1.801 font definitions for OML/ztmcm.
-)
-LaTeX Font Info:    Trying to load font information for OMS+ztmcm on input line 10.
- (C:\Users\Senbuu\AppData\Local\Programs\MiKTeX\tex/latex/psnfss\omsztmcm.fd
-File: omsztmcm.fd 2000/01/03 Fontinst v1.801 font definitions for OMS/ztmcm.
-)
-LaTeX Font Info:    Trying to load font information for OMX+ztmcm on input line 10.
- (C:\Users\Senbuu\AppData\Local\Programs\MiKTeX\tex/latex/psnfss\omxztmcm.fd
-File: omxztmcm.fd 2000/01/03 Fontinst v1.801 font definitions for OMX/ztmcm.
-) (C:\Users\Senbuu\AppData\Local\Programs\MiKTeX\tex/latex/microtype\mt-msa.cfg
-File: mt-msa.cfg 2006/02/04 v1.1 microtype config. file: AMS symbols (a) (RS)
-) (C:\Users\Senbuu\AppData\Local\Programs\MiKTeX\tex/latex/microtype\mt-msb.cfg
-File: mt-msb.cfg 2005/06/01 v1.0 microtype config. file: AMS symbols (b) (RS)
-)
-LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <12> not available
-(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 10.
-LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <9> not available
-(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 10.
-LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <7> not available
-(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 10.
- [7
+])
+\openout2 = `0ACover/6acknowledgement.aux'.
+
+ (0ACover/6acknowledgement.tex)
+Underfull \hbox (badness 10000) in paragraph at lines 22--192
+
+ []
+
+[7
+
+
+
+
+] (main.toc [8
 
 
 
@@ -1661,16 +1675,9 @@ LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <7> not available
 \tf@toc=\write5
 \openout5 = `main.toc'.
 
- [8] (main.lof)
+ [9] (main.lof)
 \tf@lof=\write6
 \openout6 = `main.lof'.
-
- [9
-
-
-] (main.lot)
-\tf@lot=\write7
-\openout7 = `main.lot'.
 
  [10
 
@@ -1766,19 +1773,24 @@ Chapter 3.
 
 
 ] [10] [11] [12]
-<Diagrams/er.drawio.png, id=404, 1531.7225pt x 1034.86626pt>
+<Diagrams/er.drawio.png, id=411, 1531.7225pt x 1034.86626pt>
 File: Diagrams/er.drawio.png Graphic file (type png)
 <use Diagrams/er.drawio.png>
 Package pdftex.def Info: Diagrams/er.drawio.png  used on input line 59.
-(pdftex.def)             Requested size: 421.11981pt x 284.52756pt.
- [13 <./Diagrams/er.drawio.png>]
-<Diagrams/DFD.drawio.png, id=410, 442.65375pt x 352.31625pt>
+(pdftex.def)             Requested size: 631.7031pt x 426.79134pt.
+
+Overfull \hbox (28.02596pt too wide) in paragraph at lines 58--60
+[][] 
+ []
+
+[13] [14 <./Diagrams/er.drawio.png>]
+<Diagrams/DFD.drawio.png, id=422, 442.65375pt x 352.31625pt>
 File: Diagrams/DFD.drawio.png Graphic file (type png)
 <use Diagrams/DFD.drawio.png>
 Package pdftex.def Info: Diagrams/DFD.drawio.png  used on input line 67.
 (pdftex.def)             Requested size: 285.98564pt x 227.62204pt.
- [14 <./Diagrams/DFD.drawio.png>]
-<Diagrams/Main_Block.png, id=417, 512.91624pt x 282.05376pt>
+ [15 <./Diagrams/DFD.drawio.png>]
+<Diagrams/Main_Block.png, id=428, 512.91624pt x 282.05376pt>
 File: Diagrams/Main_Block.png Graphic file (type png)
 <use Diagrams/Main_Block.png>
 Package pdftex.def Info: Diagrams/Main_Block.png  used on input line 75.
@@ -1788,24 +1800,24 @@ Overfull \hbox (15.16835pt too wide) in paragraph at lines 75--76
 [][] 
  []
 
-[15 <./Diagrams/Main_Block.png>]
-<Diagrams/schema.png, id=423, 568.1225pt x 527.9725pt>
+[16 <./Diagrams/Main_Block.png>]
+<Diagrams/schema.png, id=434, 568.1225pt x 527.9725pt>
 File: Diagrams/schema.png Graphic file (type png)
 <use Diagrams/schema.png>
 Package pdftex.def Info: Diagrams/schema.png  used on input line 91.
 (pdftex.def)             Requested size: 398.01244pt x 369.88582pt.
- [16 <./Diagrams/schema.png>]
-<ui_diagrams/desktop_login.png, id=428, 1154.51324pt x 578.76225pt>
+ [17 <./Diagrams/schema.png>]
+<ui_diagrams/desktop_login.png, id=439, 1154.51324pt x 578.76225pt>
 File: ui_diagrams/desktop_login.png Graphic file (type png)
 <use ui_diagrams/desktop_login.png>
 Package pdftex.def Info: ui_diagrams/desktop_login.png  used on input line 100.
 (pdftex.def)             Requested size: 397.30336pt x 199.16928pt.
-<ui_diagrams/desktop_homepage.png, id=429, 1155.1155pt x 561.89925pt>
+<ui_diagrams/desktop_homepage.png, id=440, 1155.1155pt x 561.89925pt>
 File: ui_diagrams/desktop_homepage.png Graphic file (type png)
 <use ui_diagrams/desktop_homepage.png>
 Package pdftex.def Info: ui_diagrams/desktop_homepage.png  used on input line 105.
 (pdftex.def)             Requested size: 397.73975pt x 193.47882pt.
-<ui_diagrams/desktop_messages.png, id=430, 813.0375pt x 359.54324pt>
+<ui_diagrams/desktop_messages.png, id=441, 813.0375pt x 359.54324pt>
 File: ui_diagrams/desktop_messages.png Graphic file (type png)
 <use ui_diagrams/desktop_messages.png>
 Package pdftex.def Info: ui_diagrams/desktop_messages.png  used on input line 110.
@@ -1815,17 +1827,18 @@ Overfull \hbox (38.7548pt too wide) in paragraph at lines 110--111
  [][] 
  []
 
-<ui_diagrams/mobile_login.png, id=431, 224.63925pt x 399.29175pt>
+<ui_diagrams/mobile_login.png, id=442, 224.63925pt x 399.29175pt>
 File: ui_diagrams/mobile_login.png Graphic file (type png)
 <use ui_diagrams/mobile_login.png>
 Package pdftex.def Info: ui_diagrams/mobile_login.png  used on input line 115.
 (pdftex.def)             Requested size: 128.0594pt x 227.62204pt.
-[17 <./ui_diagrams/desktop_login.png> <./ui_diagrams/desktop_homepage.png>] [18 <./ui_diagrams/desktop_messages.png> <./ui_diagrams/mobile_login.png>]
-File: Diagrams/DFD.drawio.png Graphic file (type png)
-<use Diagrams/DFD.drawio.png>
-Package pdftex.def Info: Diagrams/DFD.drawio.png  used on input line 123.
-(pdftex.def)             Requested size: 285.98564pt x 227.62204pt.
- [19])
+[18 <./ui_diagrams/desktop_login.png> <./ui_diagrams/desktop_homepage.png>] [19 <./ui_diagrams/desktop_messages.png> <./ui_diagrams/mobile_login.png>]
+<Diagrams/physical_dfd.png, id=455, 1315.91624pt x 502.87875pt>
+File: Diagrams/physical_dfd.png Graphic file (type png)
+<use Diagrams/physical_dfd.png>
+Package pdftex.def Info: Diagrams/physical_dfd.png  used on input line 123.
+(pdftex.def)             Requested size: 595.63055pt x 227.62204pt.
+ [20] [21 <./Diagrams/physical_dfd.png>])
 \openout2 = `4ImplementationAndTesting/ImplementationAndTesting.aux'.
 
  (4ImplementationAndTesting/ImplementationAndTesting.tex
@@ -1845,12 +1858,12 @@ Underfull \hbox (badness 10000) in paragraph at lines 15--32
 
  []
 
-[20
+[22
 
 
 
 
-] [21]
+] [23]
 Overfull \hbox (2.42859pt too wide) in paragraph at lines 39--48
 \OT1/ptm/m/n/12 (-20) MySQL is an amaz-ing open-source re-la-tional database man-age-ment sys-tem (RDBMS)
  []
@@ -1865,7 +1878,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 39--48
 
  []
 
-[22]
+[24]
 Underfull \hbox (badness 10000) in paragraph at lines 49--76
 
  []
@@ -1885,88 +1898,89 @@ Underfull \hbox (badness 10000) in paragraph at lines 49--76
 
  []
 
-[23] [24] [25] [26]
+[25] [26] [27] [28]
 Underfull \hbox (badness 10000) in paragraph at lines 79--105
 
  []
 
-[27]) [28]
+[29]) [30]
 \openout2 = `5ConclusionFuture/conclusion.aux'.
 
  (5ConclusionFuture/conclusion.tex
 Chapter 5.
-<Outcome-ss/homepage.png, id=486, 847.36575pt x 419.76825pt>
+<Outcome-ss/homepage.png, id=503, 847.36575pt x 419.76825pt>
 File: Outcome-ss/homepage.png Graphic file (type png)
 <use Outcome-ss/homepage.png>
 Package pdftex.def Info: Outcome-ss/homepage.png  used on input line 13.
 (pdftex.def)             Requested size: 398.76538pt x 197.5409pt.
-<Outcome-ss/geek.png, id=487, 863.02425pt x 251.13824pt>
+<Outcome-ss/geek.png, id=504, 863.02425pt x 251.13824pt>
 File: Outcome-ss/geek.png Graphic file (type png)
 <use Outcome-ss/geek.png>
 Package pdftex.def Info: Outcome-ss/geek.png  used on input line 22.
-(pdftex.def)             Requested size: 199.38269pt x 58.01732pt.
-[29
+(pdftex.def)             Requested size: 358.8864pt x 104.43501pt.
+[31
 
 
 
 
  <./Outcome-ss/homepage.png>]
-<Outcome-ss/ungeek.png, id=493, 863.02425pt x 251.7405pt>
+<Outcome-ss/ungeek.png, id=510, 863.02425pt x 251.7405pt>
 File: Outcome-ss/ungeek.png Graphic file (type png)
 <use Outcome-ss/ungeek.png>
 Package pdftex.def Info: Outcome-ss/ungeek.png  used on input line 31.
-(pdftex.def)             Requested size: 199.38269pt x 58.15645pt.
-<Outcome-ss/self-profile.png, id=494, 790.152pt x 418.56375pt>
+(pdftex.def)             Requested size: 358.8864pt x 104.68546pt.
+<Outcome-ss/self-profile.png, id=511, 790.152pt x 418.56375pt>
 File: Outcome-ss/self-profile.png Graphic file (type png)
 <use Outcome-ss/self-profile.png>
 Package pdftex.def Info: Outcome-ss/self-profile.png  used on input line 40.
 (pdftex.def)             Requested size: 398.76538pt x 211.24208pt.
- [30 <./Outcome-ss/geek.png> <./Outcome-ss/ungeek.png>]
-<Outcome-ss/messanger.png, id=501, 850.97925pt x 373.99725pt>
+ [32 <./Outcome-ss/geek.png> <./Outcome-ss/ungeek.png>]
+<Outcome-ss/messanger.png, id=519, 850.97925pt x 373.99725pt>
 File: Outcome-ss/messanger.png Graphic file (type png)
 <use Outcome-ss/messanger.png>
 Package pdftex.def Info: Outcome-ss/messanger.png  used on input line 49.
 (pdftex.def)             Requested size: 398.76538pt x 175.25371pt.
-<Outcome-ss/search.png, id=502, 867.84225pt x 133.6995pt>
+<Outcome-ss/search.png, id=520, 867.84225pt x 133.6995pt>
 File: Outcome-ss/search.png Graphic file (type png)
 <use Outcome-ss/search.png>
 Package pdftex.def Info: Outcome-ss/search.png  used on input line 58.
-(pdftex.def)             Requested size: 199.38269pt x 30.71555pt.
- [31 <./Outcome-ss/self-profile.png> <./Outcome-ss/messanger.png>]
-<Outcome-ss/notification.png, id=509, 533.5935pt x 410.7345pt>
+(pdftex.def)             Requested size: 358.8864pt x 55.29044pt.
+ [33 <./Outcome-ss/self-profile.png> <./Outcome-ss/messanger.png>]
+<Outcome-ss/notification.png, id=527, 533.5935pt x 410.7345pt>
 File: Outcome-ss/notification.png Graphic file (type png)
 <use Outcome-ss/notification.png>
 Package pdftex.def Info: Outcome-ss/notification.png  used on input line 67.
 (pdftex.def)             Requested size: 199.38269pt x 153.47353pt.
-<Outcome-ss/post.png, id=510, 380.622pt x 425.1885pt>
+<Outcome-ss/post.png, id=528, 380.622pt x 425.1885pt>
 File: Outcome-ss/post.png Graphic file (type png)
 <use Outcome-ss/post.png>
 Package pdftex.def Info: Outcome-ss/post.png  used on input line 76.
 (pdftex.def)             Requested size: 199.38269pt x 222.73422pt.
-<Outcome-ss/other-user-profile.png, id=511, 865.43324pt x 367.97475pt>
+ [34 <./Outcome-ss/search.png> <./Outcome-ss/notification.png>]
+<Outcome-ss/other-user-profile.png, id=535, 865.43324pt x 367.97475pt>
 File: Outcome-ss/other-user-profile.png Graphic file (type png)
 <use Outcome-ss/other-user-profile.png>
 Package pdftex.def Info: Outcome-ss/other-user-profile.png  used on input line 85.
 (pdftex.def)             Requested size: 398.76538pt x 169.55118pt.
- [32 <./Outcome-ss/search.png> <./Outcome-ss/notification.png>] [33 <./Outcome-ss/post.png> <./Outcome-ss/other-user-profile.png>]
-<Outcome-ss/connection-request.png, id=525, 233.07076pt x 422.7795pt>
+ [35 <./Outcome-ss/post.png> <./Outcome-ss/other-user-profile.png>]
+<Outcome-ss/connection-request.png, id=542, 233.07076pt x 422.7795pt>
 File: Outcome-ss/connection-request.png Graphic file (type png)
 <use Outcome-ss/connection-request.png>
 Package pdftex.def Info: Outcome-ss/connection-request.png  used on input line 94.
 (pdftex.def)             Requested size: 109.88112pt x 199.31358pt.
-<Outcome-ss/accept-request.png, id=526, 208.3785pt x 423.38174pt>
+<Outcome-ss/accept-request.png, id=543, 208.3785pt x 423.38174pt>
 File: Outcome-ss/accept-request.png Graphic file (type png)
 <use Outcome-ss/accept-request.png>
 Package pdftex.def Info: Outcome-ss/accept-request.png  used on input line 103.
 (pdftex.def)             Requested size: 98.09688pt x 199.31358pt.
- [34 <./Outcome-ss/connection-request.png>]
-<Outcome-ss/result-after-accepting.png, id=532, 220.4235pt x 419.76825pt>
+ [36 <./Outcome-ss/connection-request.png>]
+<Outcome-ss/result-after-accepting.png, id=549, 220.4235pt x 419.76825pt>
 File: Outcome-ss/result-after-accepting.png Graphic file (type png)
 <use Outcome-ss/result-after-accepting.png>
 Package pdftex.def Info: Outcome-ss/result-after-accepting.png  used on input line 112.
 (pdftex.def)             Requested size: 104.65851pt x 199.31358pt.
-) [35 <./Outcome-ss/accept-request.png> <./Outcome-ss/result-after-accepting.png>] [36] (Appendix/appendix1.tex
-<Diagrams/Gantt_Chart.png, id=543, 770.88pt x 578.16pt>
+) [37 <./Outcome-ss/accept-request.png> <./Outcome-ss/result-after-accepting.png>] [38] (Appendix/appendix1.tex
+<Diagrams/Gantt_Chart.png, id=561, 770.88pt x 578.16pt>
 File: Diagrams/Gantt_Chart.png Graphic file (type png)
 <use Diagrams/Gantt_Chart.png>
 Package pdftex.def Info: Diagrams/Gantt_Chart.png  used on input line 5.
@@ -1976,33 +1990,64 @@ Overfull \hbox (2.73608pt too wide) in paragraph at lines 5--6
  [][] 
  []
 
-) (Appendix/appendix2.tex) [37
+(C:\Users\Senbuu\AppData\Local\Programs\MiKTeX\tex/latex/listings\lstlang1.sty
+File: lstlang1.sty 2023/02/27 1.9 listings language file
+) (C:\Users\Senbuu\AppData\Local\Programs\MiKTeX\tex/latex/listings\lstlang2.sty
+File: lstlang2.sty 2023/02/27 1.9 listings language file
+)
+Underfull \hbox (badness 10000) in paragraph at lines 34--35
+
+ []
+
+Package microtype Info: Loading generic protrusion settings for font family
+(microtype)             `cmtt' (encoding: OT1).
+(microtype)             For optimal results, create family-specific settings.
+(microtype)             See the microtype manual for details.
+
+Overfull \hbox (38.15952pt too wide) in paragraph at lines 37--37
+ []\OT1/cmtt/m/n/12 git clone https://github.com/sushantbramhacharya/CodeConnectBE.git[] 
+ []
+
+[39
 
 
 
- <./Diagrams/Gantt_Chart.png>] (main.bbl)
+ <./Diagrams/Gantt_Chart.png>]
+Underfull \hbox (badness 10000) in paragraph at lines 38--39
 
-Package caption Warning: Unused \captionsetup[table] on input line 134.
-See the caption package documentation for explanation.
+ []
 
-[38
 
-] (main.aux (0ACover/0cover.aux) (0ACover/1title.aux) (0ACover/4recommendation.aux) (0ACover/5departmentAcceptance.aux) (0HAbstract/abstract.aux) (0ACover/6acknowledgement.aux) (0IAbbreviations/abbreviations.aux) (1Introduction/introduction.aux) (2Literaturereview/literaturereview.aux) (3Methodology/methodology.aux) (4ImplementationAndTesting/ImplementationAndTesting.aux) (5ConclusionFuture/conclusion.aux))
+Overfull \hbox (38.15952pt too wide) in paragraph at lines 41--41
+ []\OT1/cmtt/m/n/12 git clone https://github.com/sushantbramhacharya/CodeConnectDB.git[] 
+ []
+
+LaTeX Font Info:    Trying to load font information for TS1+cmtt on input line 51.
+(C:\Users\Senbuu\AppData\Local\Programs\MiKTeX\tex/latex/base\ts1cmtt.fd
+File: ts1cmtt.fd 2022/07/10 v2.5l Standard LaTeX font definitions
+)
+Package microtype Info: Loading generic protrusion settings for font family
+(microtype)             `cmtt' (encoding: TS1).
+(microtype)             For optimal results, create family-specific settings.
+(microtype)             See the microtype manual for details.
+) (Appendix/appendix2.tex) [40] (main.bbl) [41
+
+] (main.aux (0ACover/0cover.aux) (0ACover/1title.aux) (0ACover/4recommendation.aux) (0ACover/5departmentAcceptance.aux) (LetterOfApprovalBCA/letter.aux) (0HAbstract/abstract.aux) (0ACover/6acknowledgement.aux) (0IAbbreviations/abbreviations.aux) (1Introduction/introduction.aux) (2Literaturereview/literaturereview.aux) (3Methodology/methodology.aux) (4ImplementationAndTesting/ImplementationAndTesting.aux) (5ConclusionFuture/conclusion.aux))
 Package rerunfilecheck Info: File `main.out' has not changed.
-(rerunfilecheck)             Checksum: 64B81198E60CFE426F651A739500423C;6737.
+(rerunfilecheck)             Checksum: 9782C65AD4EBE803951D3D80A0003044;7151.
  ) 
 Here is how much of TeX's memory you used:
- 34554 strings out of 476411
- 683202 string characters out of 5788663
- 1866845 words of memory out of 5000000
- 53853 multiletter control sequences out of 15000+600000
- 537170 words of font info for 193 fonts, out of 8000000 for 9000
+ 38155 strings out of 476411
+ 741128 string characters out of 5788663
+ 1873845 words of memory out of 5000000
+ 57376 multiletter control sequences out of 15000+600000
+ 540889 words of font info for 208 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 108i,8n,117p,1587b,577s stack positions out of 10000i,1000n,20000p,200000b,200000s
-<C:/Users/Senbuu/AppData/Local/Programs/MiKTeX/fonts/type1/urw/times/utmb8a.pfb><C:/Users/Senbuu/AppData/Local/Programs/MiKTeX/fonts/type1/urw/times/utmr8a.pfb><C:/Users/Senbuu/AppData/Local/Programs/MiKTeX/fonts/type1/urw/times/utmri8a.pfb>
-Output written on main.pdf (49 pages, 2101143 bytes).
+ 108i,10n,117p,1587b,3402s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ <C:\Users\Senbuu\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\tctt1095.pk><C:/Users/Senbuu/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmtt10.pfb><C:/Users/Senbuu/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmtt12.pfb><C:/Users/Senbuu/AppData/Local/Programs/MiKTeX/fonts/type1/urw/times/utmb8a.pfb><C:/Users/Senbuu/AppData/Local/Programs/MiKTeX/fonts/type1/urw/times/utmr8a.pfb><C:/Users/Senbuu/AppData/Local/Programs/MiKTeX/fonts/type1/urw/times/utmri8a.pfb>
+Output written on main.pdf (52 pages, 2171559 bytes).
 PDF statistics:
- 601 PDF objects out of 1000 (max. 8388607)
- 127 named destinations out of 1000 (max. 500000)
- 34811 words of extra memory for PDF output out of 35830 (max. 10000000)
+ 664 PDF objects out of 1000 (max. 8388607)
+ 155 named destinations out of 1000 (max. 500000)
+ 44552 words of extra memory for PDF output out of 51595 (max. 10000000)
 

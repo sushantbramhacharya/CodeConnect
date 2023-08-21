@@ -42,6 +42,17 @@
 \usepackage{appendix}
 \usepackage{ragged2e}
 \usepackage{tabularx}
+
+
+\usepackage{listings}
+
+
+\definecolor{dkgreen}{rgb}{0,0.6,0}
+\definecolor{gray}{rgb}{0.5,0.5,0.5}
+\definecolor{mauve}{rgb}{0.58,0,0.82}
+
+
+
 \newcolumntype{Y}{>{\raggedright\arraybackslash}X}
 
 
@@ -162,7 +173,7 @@
 \newcommand{\theroll}{
   % LEC077BCA01\\LEC077BCA08
 }
-\date{June, 2023}
+\date{August, 2023}
 \newcommand{\thesupervisor}{Er. Sandesh Sharan Poudel}
 
 
@@ -176,7 +187,7 @@
 % \include{0ACover/3declaration}
 \include{0ACover/4recommendation} 
 \include{0ACover/5departmentAcceptance} % Approval letter
-% \include{LetterOfApprovalBCA/letter}
+\include{LetterOfApprovalBCA/letter}
 \include{0HAbstract/abstract}
 \include{0ACover/6acknowledgement}
 
@@ -205,12 +216,13 @@
 \clearpage
 
 
-\chapter*{\centerline{LIST OF TABLES}}
-\addcontentsline{toc}{chapter}{LIST OF TABLES}
-\def\listtablename{\empty}
-\addtocontents{lot}{\protect\noaddvspace}
-\listoftables
-\clearpage
+% List of tables
+% \chapter*{\centerline{LIST OF TABLES}}
+% \addcontentsline{toc}{chapter}{LIST OF TABLES}
+% \def\listtablename{\empty}
+% \addtocontents{lot}{\protect\noaddvspace}
+% \listoftables
+% \clearpage
 
 
 

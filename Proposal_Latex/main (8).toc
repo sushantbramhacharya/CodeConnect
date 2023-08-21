@@ -4,7 +4,8 @@
 \contentsline {chapter}{ACKNOWLEDGMENT}{vii}{chapter*.6}%
 \contentsline {chapter}{TABLE OF CONTENTS}{viii}{chapter*.7}%
 \contentsline {chapter}{LIST OF FIGURES}{x}{chapter*.8}%
-\contentsline {chapter}{LIST OF ABBREVIATIONS}{xi}{chapter*.9}%
+\contentsline {chapter}{LIST OF TABLES}{xi}{chapter*.9}%
+\contentsline {chapter}{LIST OF ABBREVIATIONS}{xii}{chapter*.10}%
 \contentsline {chapter}{\numberline {1}INTRODUCTION}{1}{chapter.1}%
 \contentsline {section}{\numberline {1.1}Introduction}{1}{section.1.1}%
 \contentsline {section}{\numberline {1.2}Problem Statement}{1}{section.1.2}%
@@ -46,6 +47,5 @@
 \contentsline {section}{\numberline {5.3}Conclusion}{38}{section.5.3}%
 \textbf {APPENDIX A}
 \contentsline {section}{\numberline {A.1}Project Schedule}{39}{section.1..1}%
-\contentsline {section}{\numberline {A.2}Setup Guide to run Code Connect Locally}{39}{section.1..2}%
-\contentsline {section}{\numberline {A.3}MySQL Connection in our CodeConnect PHP}{40}{section.1..3}%
-\contentsline {chapter}{REFERENCES}{41}{appendix*.33}%
+\contentsline {section}{\numberline {A.2}AJAX and jQuery}{39}{section.1..2}%
+\contentsline {chapter}{REFERENCES}{40}{appendix*.34}%
