@@ -48,4 +48,5 @@
 \contentsline {section}{\numberline {A.1}Project Schedule}{39}{section.1..1}%
 \contentsline {section}{\numberline {A.2}Setup Guide to run Code Connect Locally}{39}{section.1..2}%
 \contentsline {section}{\numberline {A.3}MySQL Connection in our CodeConnect PHP}{40}{section.1..3}%
-\contentsline {chapter}{REFERENCES}{41}{appendix*.33}%
+\contentsline {section}{\numberline {A.4}Supervisor Consultation Form}{41}{section.1..4}%
+\contentsline {chapter}{REFERENCES}{42}{appendix*.34}%
