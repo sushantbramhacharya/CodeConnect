@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 23.5) (preloaded format=pdflatex 2023.6.4)  22 AUG 2023 15:47
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 23.5) (preloaded format=pdflatex 2023.6.4)  1 OCT 2023 18:04
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -108,6 +108,9 @@ Package: natbib 2010/09/13 8.31b (PWD, AO)
 \bibsep=\skip58
 LaTeX Info: Redefining \cite on input line 694.
 \c@NAT@ctr=\count269
+) (C:\Latex\tex/latex/url\url.sty
+\Urlmuskip=\muskip16
+Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
 ) (C:\Latex\tex/latex/microtype\microtype.sty
 Package: microtype 2023/03/13 v3.1a Micro-typographical refinements (RS)
  (C:\Latex\tex/latex/etoolbox\etoolbox.sty
@@ -710,7 +713,7 @@ LaTeX Info: Redefining \smash on input line 940.
 LaTeX Info: Redefining \relbar on input line 970.
 LaTeX Info: Redefining \Relbar on input line 971.
 \c@MaxMatrixCols=\count293
-\dotsspace@=\muskip16
+\dotsspace@=\muskip17
 \c@parentequation=\count294
 \dspbrk@lvl=\count295
 \tag@help=\toks30
@@ -798,10 +801,6 @@ Package hyperref Info: Backreferencing OFF on input line 4202.
 Package hyperref Info: Implicit mode ON; LaTeX internals redefined.
 Package hyperref Info: Bookmarks ON on input line 4449.
 \c@Hy@tempcnt=\count303
- (C:\Latex\tex/latex/url\url.sty
-\Urlmuskip=\muskip17
-Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
-)
 LaTeX Info: Redefining \url on input line 4787.
 \XeTeXLinkMargin=\dimen185
  (C:\Latex\tex/generic/bitset\bitset.sty
@@ -1334,7 +1333,7 @@ File: lstmisc.sty 2023/02/27 1.9 (Carsten Heinz)
 File: listings.cfg 2023/02/27 1.9 listings configuration
 ))
 Package: listings 2023/02/27 1.9 (Carsten Heinz)
-Package hyperref Info: Option `colorlinks' set `true' on input line 115.
+Package hyperref Info: Option `colorlinks' set `true' on input line 116.
  (C:\Latex\tex/latex/tocloft\tocloft.sty
 Package: tocloft 2017/08/31 v2.3i parameterised ToC, etc., typesetting
 Package tocloft Info: The document has chapter divisions on input line 51.
@@ -1375,34 +1374,119 @@ Package tocloft Info: The document has chapter divisions on input line 51.
 \cfttabindent=\skip120
 \cfttabnumwidth=\skip121
 )
-LaTeX Font Info:    Trying to load font information for OT1+ptm on input line 181.
+LaTeX Font Info:    Trying to load font information for OT1+ptm on input line 182.
  (C:\Latex\tex/latex/psnfss\ot1ptm.fd
 File: ot1ptm.fd 2001/06/04 font definitions for OT1/ptm.
 ) (C:\Latex\tex/latex/l3backend\l3backend-pdftex.def
 File: l3backend-pdftex.def 2023-04-19 L3 backend support: PDF output (pdfTeX)
 \l__color_backend_stack_int=\count385
 \l__pdf_internal_box=\box124
-) (main.aux (0ACover/0cover.aux) (0ACover/1title.aux) (0ACover/4recommendation.aux) (0ACover/5departmentAcceptance.aux) (LetterOfApprovalBCA/letter.aux) (0HAbstract/abstract.aux) (0ACover/6acknowledgement.aux) (0IAbbreviations/abbreviations.aux) (1Introduction/introduction.aux) (2Literaturereview/literaturereview.aux) (3Methodology/methodology.aux) (4ImplementationAndTesting/ImplementationAndTesting.aux) (5ConclusionFuture/conclusion.aux))
+) (main.aux (0ACover/0cover.aux) (0ACover/1title.aux) (0ACover/4recommendation.aux) (0ACover/5departmentAcceptance.aux) (LetterOfApprovalBCA/letter.aux) (0ACover/6acknowledgement.aux) (0HAbstract/abstract.aux) (0IAbbreviations/abbreviations.aux) (1Introduction/introduction.aux) (2Literaturereview/literaturereview.aux) (3Methodology/methodology.aux) (4ImplementationAndTesting/ImplementationAndTesting.aux
+
+LaTeX Warning: Label `' multiply defined.
+
+
+LaTeX Warning: Label `' multiply defined.
+
+
+LaTeX Warning: Label `' multiply defined.
+
+
+LaTeX Warning: Label `' multiply defined.
+
+
+LaTeX Warning: Label `' multiply defined.
+
+
+LaTeX Warning: Label `' multiply defined.
+
+
+LaTeX Warning: Label `' multiply defined.
+
+
+LaTeX Warning: Label `' multiply defined.
+
+
+LaTeX Warning: Label `' multiply defined.
+
+
+LaTeX Warning: Label `' multiply defined.
+
+
+LaTeX Warning: Label `' multiply defined.
+
+
+LaTeX Warning: Label `' multiply defined.
+
+
+LaTeX Warning: Label `' multiply defined.
+
+
+LaTeX Warning: Label `' multiply defined.
+
+
+LaTeX Warning: Label `' multiply defined.
+
+
+LaTeX Warning: Label `' multiply defined.
+
+
+LaTeX Warning: Label `' multiply defined.
+
+
+LaTeX Warning: Label `' multiply defined.
+
+
+LaTeX Warning: Label `' multiply defined.
+
+
+LaTeX Warning: Label `' multiply defined.
+
+
+LaTeX Warning: Label `' multiply defined.
+
+
+LaTeX Warning: Label `' multiply defined.
+
+
+LaTeX Warning: Label `' multiply defined.
+
+
+LaTeX Warning: Label `' multiply defined.
+
+
+LaTeX Warning: Label `' multiply defined.
+
+
+LaTeX Warning: Label `' multiply defined.
+
+
+LaTeX Warning: Label `' multiply defined.
+
+
+LaTeX Warning: Label `' multiply defined.
+
+) (5ConclusionFuture/conclusion.aux))
 \openout1 = `main.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 181.
-LaTeX Font Info:    ... okay on input line 181.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 181.
-LaTeX Font Info:    ... okay on input line 181.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 181.
-LaTeX Font Info:    ... okay on input line 181.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 181.
-LaTeX Font Info:    ... okay on input line 181.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 181.
-LaTeX Font Info:    ... okay on input line 181.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 181.
-LaTeX Font Info:    ... okay on input line 181.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 181.
-LaTeX Font Info:    ... okay on input line 181.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 181.
-LaTeX Font Info:    ... okay on input line 181.
-LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 181.
-LaTeX Font Info:    ... okay on input line 181.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 182.
+LaTeX Font Info:    ... okay on input line 182.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 182.
+LaTeX Font Info:    ... okay on input line 182.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 182.
+LaTeX Font Info:    ... okay on input line 182.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 182.
+LaTeX Font Info:    ... okay on input line 182.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 182.
+LaTeX Font Info:    ... okay on input line 182.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 182.
+LaTeX Font Info:    ... okay on input line 182.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 182.
+LaTeX Font Info:    ... okay on input line 182.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 182.
+LaTeX Font Info:    ... okay on input line 182.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 182.
+LaTeX Font Info:    ... okay on input line 182.
  (C:\Latex\tex/context/base/mkii\supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
 \scratchcounter=\count386
@@ -1456,21 +1540,21 @@ File: epstopdf-sys.cfg 2021/03/18 v2.0 Configuration of epstopdf for MiKTeX
 * \@reversemarginfalse
 * (1in=72.27pt=25.4mm, 1cm=28.453pt)
 
-LaTeX Info: Redefining \microtypecontext on input line 181.
-Package microtype Info: Applying patch `item' on input line 181.
-Package microtype Info: Applying patch `toc' on input line 181.
-Package microtype Info: Applying patch `eqnum' on input line 181.
+LaTeX Info: Redefining \microtypecontext on input line 182.
+Package microtype Info: Applying patch `item' on input line 182.
+Package microtype Info: Applying patch `toc' on input line 182.
+Package microtype Info: Applying patch `eqnum' on input line 182.
 
-Package microtype Warning: Unable to apply patch `footnote' on input line 181.
+Package microtype Warning: Unable to apply patch `footnote' on input line 182.
 
-Package microtype Info: Applying patch `verbatim' on input line 181.
+Package microtype Info: Applying patch `verbatim' on input line 182.
 Package microtype Info: Generating PDF output.
 Package microtype Info: Character protrusion enabled (level 2).
 Package microtype Info: Using default protrusion set `alltext'.
 Package microtype Info: Automatic font expansion enabled (level 2),
 (microtype)             stretch: 20, shrink: 20, step: 1, non-selected.
 Package microtype Info: Using default expansion set `alltext-nott'.
-LaTeX Info: Redefining \showhyphens on input line 181.
+LaTeX Info: Redefining \showhyphens on input line 182.
 Package microtype Info: No adjustment of tracking.
 Package microtype Info: No adjustment of interword spacing.
 Package microtype Info: No adjustment of character kerning.
@@ -1486,7 +1570,7 @@ Package caption Info: scrextend package is loaded.
 \caption@addmargin@linewidth=\dimen339
 Package caption Info: wrapfig package is loaded.
 Package caption Info: End \AtBeginDocument code.
-Package hyperref Info: Link coloring ON on input line 181.
+Package hyperref Info: Link coloring ON on input line 182.
  (main.out) (main.out)
 \@outlinefile=\write4
 \openout4 = `main.out'.
@@ -1495,7 +1579,7 @@ Package hyperref Info: Link coloring ON on input line 181.
 \openout2 = `0ACover/0cover.aux'.
 
  (0ACover/0cover.tex
-<img/Graphics/TUlogo.png, id=322, 440.64626pt x 512.91624pt>
+<img/Graphics/TUlogo.png, id=330, 440.64626pt x 512.91624pt>
 File: img/Graphics/TUlogo.png Graphic file (type png)
 <use img/Graphics/TUlogo.png>
 Package pdftex.def Info: img/Graphics/TUlogo.png  used on input line 5.
@@ -1641,10 +1725,10 @@ Underfull \hbox (badness 10000) in paragraph at lines 14--16
 
 
 ]
-\openout2 = `0HAbstract/abstract.aux'.
+\openout2 = `0ACover/6acknowledgement.aux'.
 
- (0HAbstract/abstract.tex
-Underfull \hbox (badness 10000) in paragraph at lines 8--21
+ (0ACover/6acknowledgement.tex)
+Underfull \hbox (badness 10000) in paragraph at lines 22--192
 
  []
 
@@ -1653,11 +1737,11 @@ Underfull \hbox (badness 10000) in paragraph at lines 8--21
 
 
 
-])
-\openout2 = `0ACover/6acknowledgement.aux'.
+]
+\openout2 = `0HAbstract/abstract.aux'.
 
- (0ACover/6acknowledgement.tex)
-Underfull \hbox (badness 10000) in paragraph at lines 22--192
+ (0HAbstract/abstract.tex
+Underfull \hbox (badness 10000) in paragraph at lines 8--21
 
  []
 
@@ -1666,7 +1750,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 22--192
 
 
 
-] (main.toc [8
+]) (main.toc [8
 
 
 
@@ -1681,7 +1765,14 @@ Underfull \hbox (badness 10000) in paragraph at lines 22--192
  [11
 
 
-]
+] (main.lot [12
+
+
+])
+\tf@lot=\write7
+\openout7 = `main.lot'.
+
+ [13]
 \openout2 = `0IAbbreviations/abbreviations.aux'.
 
  (0IAbbreviations/abbreviations.tex
@@ -1689,7 +1780,7 @@ Overfull \hbox (164.71997pt too wide) in paragraph at lines 9--31
 [][] 
  []
 
-) [12
+) [14
 
 
 
@@ -1726,201 +1817,940 @@ Chapter 3.
 
 
 
-] [9] [10] [11]
-<Diagrams/er.drawio.png, id=568, 1531.7225pt x 1034.86626pt>
+] [9] [10] [11] [12]
+<Diagrams/er.drawio.png, id=656, 1531.7225pt x 1034.86626pt>
 File: Diagrams/er.drawio.png Graphic file (type png)
 <use Diagrams/er.drawio.png>
-Package pdftex.def Info: Diagrams/er.drawio.png  used on input line 61.
+Package pdftex.def Info: Diagrams/er.drawio.png  used on input line 72.
 (pdftex.def)             Requested size: 631.7031pt x 426.79134pt.
 
-Overfull \hbox (28.02596pt too wide) in paragraph at lines 60--62
+Overfull \hbox (28.02596pt too wide) in paragraph at lines 71--73
 [][] 
  []
 
-[12] [13 <./Diagrams/er.drawio.png>]
-<Diagrams/DFD.drawio.png, id=579, 442.65375pt x 352.31625pt>
+[13] [14 <./Diagrams/er.drawio.png>]
+<Diagrams/DFD.drawio.png, id=666, 442.65375pt x 352.31625pt>
 File: Diagrams/DFD.drawio.png Graphic file (type png)
 <use Diagrams/DFD.drawio.png>
-Package pdftex.def Info: Diagrams/DFD.drawio.png  used on input line 72.
+Package pdftex.def Info: Diagrams/DFD.drawio.png  used on input line 83.
 (pdftex.def)             Requested size: 250.23491pt x 199.16928pt.
- [14 <./Diagrams/DFD.drawio.png>]
-<Diagrams/Main_Block.png, id=585, 512.91624pt x 282.05376pt>
+ [15 <./Diagrams/DFD.drawio.png>]
+<Diagrams/Main_Block.png, id=672, 512.91624pt x 282.05376pt>
 File: Diagrams/Main_Block.png Graphic file (type png)
 <use Diagrams/Main_Block.png>
-Package pdftex.def Info: Diagrams/Main_Block.png  used on input line 80.
+Package pdftex.def Info: Diagrams/Main_Block.png  used on input line 91.
 (pdftex.def)             Requested size: 413.93373pt x 227.62204pt.
 
-Overfull \hbox (15.16835pt too wide) in paragraph at lines 80--81
+Overfull \hbox (15.16835pt too wide) in paragraph at lines 91--92
 [][] 
  []
 
-[15 <./Diagrams/Main_Block.png>]
-<Diagrams/Activity.drawio.png, id=591, 674.52pt x 1286.8075pt>
+[16 <./Diagrams/Main_Block.png>]
+<Diagrams/Activity.drawio.png, id=678, 674.52pt x 1286.8075pt>
 File: Diagrams/Activity.drawio.png Graphic file (type png)
 <use Diagrams/Activity.drawio.png>
-Package pdftex.def Info: Diagrams/Activity.drawio.png  used on input line 88.
+Package pdftex.def Info: Diagrams/Activity.drawio.png  used on input line 99.
 (pdftex.def)             Requested size: 223.71414pt x 426.79134pt.
- [16 <./Diagrams/Activity.drawio.png>]
-<Diagrams/schema.png, id=597, 568.1225pt x 527.9725pt>
+ [17 <./Diagrams/Activity.drawio.png>]
+<Diagrams/schema.png, id=685, 568.1225pt x 527.9725pt>
 File: Diagrams/schema.png Graphic file (type png)
 <use Diagrams/schema.png>
-Package pdftex.def Info: Diagrams/schema.png  used on input line 96.
+Package pdftex.def Info: Diagrams/schema.png  used on input line 107.
 (pdftex.def)             Requested size: 398.01244pt x 369.88582pt.
- [17 <./Diagrams/schema.png>]
-<ui_diagrams/desktop_login.png, id=602, 1154.51324pt x 578.76225pt>
+ [18 <./Diagrams/schema.png>]
+<ui_diagrams/desktop_login.png, id=690, 1154.51324pt x 578.76225pt>
 File: ui_diagrams/desktop_login.png Graphic file (type png)
 <use ui_diagrams/desktop_login.png>
-Package pdftex.def Info: ui_diagrams/desktop_login.png  used on input line 107.
+Package pdftex.def Info: ui_diagrams/desktop_login.png  used on input line 118.
 (pdftex.def)             Requested size: 397.30336pt x 199.16928pt.
 
-Underfull \hbox (badness 10000) in paragraph at lines 102--109
+Underfull \hbox (badness 10000) in paragraph at lines 113--120
 
  []
 
-<ui_diagrams/desktop_homepage.png, id=603, 1155.1155pt x 561.89925pt>
-File: ui_diagrams/desktop_homepage.png Graphic file (type png)
-<use ui_diagrams/desktop_homepage.png>
-Package pdftex.def Info: ui_diagrams/desktop_homepage.png  used on input line 113.
-(pdftex.def)             Requested size: 397.73975pt x 193.47882pt.
-[18 <./ui_diagrams/desktop_login.png>]
-<ui_diagrams/desktop_messages.png, id=609, 813.0375pt x 359.54324pt>
-File: ui_diagrams/desktop_messages.png Graphic file (type png)
-<use ui_diagrams/desktop_messages.png>
-Package pdftex.def Info: ui_diagrams/desktop_messages.png  used on input line 119.
-(pdftex.def)             Requested size: 437.52019pt x 193.47882pt.
-
-Overfull \hbox (38.7548pt too wide) in paragraph at lines 119--120
- [][] 
- []
-
-[19 <./ui_diagrams/desktop_homepage.png> <./ui_diagrams/desktop_messages.png>]
-<ui_diagrams/mobile_login.png, id=617, 224.63925pt x 399.29175pt>
+<Outcome-ss/homepage.png, id=691, 1156.32pt x 578.16pt>
+File: Outcome-ss/homepage.png Graphic file (type png)
+<use Outcome-ss/homepage.png>
+Package pdftex.def Info: Outcome-ss/homepage.png  used on input line 124.
+(pdftex.def)             Requested size: 386.95056pt x 193.47882pt.
+[19 <./ui_diagrams/desktop_login.png>]
+<Outcome-ss/messenger-full-block.png, id=697, 1114.76476pt x 575.14874pt>
+File: Outcome-ss/messenger-full-block.png Graphic file (type png)
+<use Outcome-ss/messenger-full-block.png>
+Package pdftex.def Info: Outcome-ss/messenger-full-block.png  used on input line 130.
+(pdftex.def)             Requested size: 375.00066pt x 193.47882pt.
+ [20 <./Outcome-ss/homepage.png> <./Outcome-ss/messenger-full-block.png>]
+<ui_diagrams/mobile_login.png, id=704, 224.63925pt x 399.29175pt>
 File: ui_diagrams/mobile_login.png Graphic file (type png)
 <use ui_diagrams/mobile_login.png>
-Package pdftex.def Info: ui_diagrams/mobile_login.png  used on input line 126.
+Package pdftex.def Info: ui_diagrams/mobile_login.png  used on input line 137.
 (pdftex.def)             Requested size: 128.0594pt x 227.62204pt.
- [20 <./ui_diagrams/mobile_login.png>]
-<Diagrams/physical_dfd.png, id=623, 1315.91624pt x 502.87875pt>
+ [21 <./ui_diagrams/mobile_login.png>]
+<Diagrams/physical_dfd.png, id=710, 1315.91624pt x 502.87875pt>
 File: Diagrams/physical_dfd.png Graphic file (type png)
 <use Diagrams/physical_dfd.png>
-Package pdftex.def Info: Diagrams/physical_dfd.png  used on input line 138.
+Package pdftex.def Info: Diagrams/physical_dfd.png  used on input line 149.
 (pdftex.def)             Requested size: 595.63055pt x 227.62204pt.
- [21] [22 <./Diagrams/physical_dfd.png>])
+ [22] [23 <./Diagrams/physical_dfd.png>])
 \openout2 = `4ImplementationAndTesting/ImplementationAndTesting.aux'.
 
  (4ImplementationAndTesting/ImplementationAndTesting.tex
 Chapter 4.
-[23
+[24
 
 
 
 
-] [24]
+] [25]
 Overfull \hbox (2.42859pt too wide) in paragraph at lines 30--31
 []\OT1/ptm/m/n/12 (-20) MySQL is an amaz-ing open-source re-la-tional database man-age-ment sys-tem (RDBMS)
  []
 
-[25] [26] [27] [28]
-Overfull \hbox (2.30377pt too wide) in paragraph at lines 56--56
+[26] [27] [28] [29]
+Overfull \hbox (2.30377pt too wide) in paragraph at lines 61--61
 []|\OT1/ptm/m/n/12 (-20) Tests| 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 60--60
-[]|\OT1/ptm/m/n/12 (+20) Incorrect Con-firm
+Underfull \hbox (badness 10000) in paragraph at lines 65--65
+[]|\OT1/ptm/m/n/12 (+20) Incorrect Con-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 60--62
+Underfull \hbox (badness 3179) in paragraph at lines 65--65
+\OT1/ptm/m/n/12 (+20) firm Pass-word in
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 65--67
 \OT1/ptm/m/n/12 (+20) Pass-word:12345679
  []
 
-[29]) [30]
+
+Underfull \hbox (badness 2529) in paragraph at lines 67--67
+[]|\OT1/ptm/m/n/12 (+20) Enter Same Pass-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 67--68
+[]|\OT1/ptm/m/n/12 (+20) Enter Same
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 70--71
+[]|\OT1/ptm/m/n/12 (+20) Redirects to
+ []
+
+
+Overfull \hbox (53.89322pt too wide) in paragraph at lines 59--73
+[][] 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 52--73
+
+ []
+
+[30]
+Overfull \hbox (2.30377pt too wide) in paragraph at lines 81--81
+[]|\OT1/ptm/m/n/12 (-20) Tests| 
+ []
+
+Package microtype Info: Loading generic protrusion settings for font family
+(microtype)             `cmtt' (encoding: OT1).
+(microtype)             For optimal results, create family-specific settings.
+(microtype)             See the microtype manual for details.
+
+Underfull \hbox (badness 10000) in paragraph at lines 83--83
+[]|[][]$\OT1/cmtt/m/n/12 http : / /
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 83--83
+\OT1/cmtt/m/n/12 localhost /
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 83--83
+\OT1/cmtt/m/n/12 codeconnect /
+ []
+
+
+Overfull \hbox (39.43944pt too wide) in paragraph at lines 79--86
+[][] 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 75--86
+
+ []
+
+[31]
+Overfull \hbox (2.30377pt too wide) in paragraph at lines 94--94
+[]|\OT1/ptm/m/n/12 (-20) Tests| 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 96--96
+[]|[][]$\OT1/cmtt/m/n/12 http : / /
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 96--96
+\OT1/cmtt/m/n/12 localhost /
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 96--96
+\OT1/cmtt/m/n/12 codeconnect /
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 96--96
+[]|\OT1/ptm/m/n/12 (+20) CodeConnect
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 96--97
+[]|\OT1/ptm/m/n/12 (+20) CodeConnect
+ []
+
+
+Overfull \hbox (39.43944pt too wide) in paragraph at lines 92--99
+[][] 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 88--99
+
+ []
+
+
+Overfull \hbox (2.30377pt too wide) in paragraph at lines 107--107
+[]|\OT1/ptm/m/n/12 (-20) Tests| 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 109--109
+[]|[][]$\OT1/cmtt/m/n/12 http : / /
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 109--109
+\OT1/cmtt/m/n/12 localhost /
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 109--109
+\OT1/cmtt/m/n/12 codeconnect /
+ []
+
+
+Overfull \hbox (39.43944pt too wide) in paragraph at lines 105--112
+[][] 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 101--112
+
+ []
+
+
+Overfull \hbox (2.30377pt too wide) in paragraph at lines 120--120
+[]|\OT1/ptm/m/n/12 (-20) Tests| 
+ []
+
+
+Overfull \hbox (39.43944pt too wide) in paragraph at lines 118--125
+[][] 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 114--125
+
+ []
+
+[32]
+Overfull \hbox (2.30377pt too wide) in paragraph at lines 133--133
+[]|\OT1/ptm/m/n/12 (-20) Tests| 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 135--136
+[]|\OT1/ptm/m/n/12 (+20) Display the
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 135--136
+\OT1/ptm/m/n/12 (+20) con-ver-sa-tion
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 135--136
+\OT1/ptm/m/n/12 (+20) with that
+ []
+
+
+Overfull \hbox (39.43944pt too wide) in paragraph at lines 131--138
+[][] 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 127--138
+
+ []
+
+
+Overfull \hbox (2.30377pt too wide) in paragraph at lines 146--146
+[]|\OT1/ptm/m/n/12 (-20) Tests| 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 148--148
+[]|\OT1/ptm/m/n/12 (+20) Code Con-nect
+ []
+
+
+Overfull \hbox (39.43944pt too wide) in paragraph at lines 144--151
+[][] 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 140--151
+
+ []
+
+
+Overfull \hbox (2.30377pt too wide) in paragraph at lines 159--159
+[]|\OT1/ptm/m/n/12 (-20) Tests| 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 161--161
+[]|\OT1/ptm/m/n/12 (+20) Code Con-nect
+ []
+
+
+Overfull \hbox (39.43944pt too wide) in paragraph at lines 157--164
+[][] 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 153--164
+
+ []
+
+[33]
+Overfull \hbox (2.30377pt too wide) in paragraph at lines 172--172
+[]|\OT1/ptm/m/n/12 (-20) Tests| 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 174--174
+[]|\OT1/ptm/m/n/12 (+20) Show posts of
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 174--174
+[]|\OT1/ptm/m/n/12 (+20) Shows Posts of
+ []
+
+
+Overfull \hbox (39.43944pt too wide) in paragraph at lines 170--177
+[][] 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 166--177
+
+ []
+
+
+Overfull \hbox (2.30377pt too wide) in paragraph at lines 185--185
+[]|\OT1/ptm/m/n/12 (-20) Tests| 
+ []
+
+
+Overfull \hbox (39.43944pt too wide) in paragraph at lines 183--190
+[][] 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 179--190
+
+ []
+
+
+Overfull \hbox (2.30377pt too wide) in paragraph at lines 198--198
+[]|\OT1/ptm/m/n/12 (-20) Tests| 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 200--201
+[]|\OT1/ptm/m/n/12 (+20) Opens Posts
+ []
+
+
+Overfull \hbox (39.43944pt too wide) in paragraph at lines 196--203
+[][] 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 192--203
+
+ []
+
+
+Overfull \hbox (2.30377pt too wide) in paragraph at lines 211--211
+[]|\OT1/ptm/m/n/12 (-20) Tests| 
+ []
+
+
+Underfull \hbox (badness 4859) in paragraph at lines 213--213
+\OT1/ptm/m/n/12 (+20) Post and Cod-ing
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 213--213
+\OT1/ptm/m/n/12 (+20) in C Code sec-
+ []
+
+
+Overfull \hbox (39.43944pt too wide) in paragraph at lines 209--216
+[][] 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 205--216
+
+ []
+
+[34]
+Overfull \hbox (2.30377pt too wide) in paragraph at lines 224--224
+[]|\OT1/ptm/m/n/12 (-20) Tests| 
+ []
+
+
+Underfull \hbox (badness 4279) in paragraph at lines 226--226
+\OT1/ptm/m/n/12 (+20) pro-file, Click on
+ []
+
+
+Overfull \hbox (39.43944pt too wide) in paragraph at lines 222--229
+[][] 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 218--229
+
+ []
+
+
+Overfull \hbox (2.30377pt too wide) in paragraph at lines 237--237
+[]|\OT1/ptm/m/n/12 (-20) Tests| 
+ []
+
+
+Overfull \hbox (39.43944pt too wide) in paragraph at lines 235--242
+[][] 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 231--242
+
+ []
+
+
+Overfull \hbox (2.30377pt too wide) in paragraph at lines 250--250
+[]|\OT1/ptm/m/n/12 (-20) Tests| 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 252--252
+[]|\OT1/ptm/m/n/12 (+20) Un-Geeking on
+ []
+
+
+Underfull \hbox (badness 4479) in paragraph at lines 252--252
+[]|\OT1/ptm/m/n/12 (+20) Deletion of geek
+ []
+
+
+Underfull \hbox (badness 2486) in paragraph at lines 252--253
+\OT1/ptm/m/n/12 (+20) count of that
+ []
+
+
+Overfull \hbox (39.43944pt too wide) in paragraph at lines 248--255
+[][] 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 244--255
+
+ []
+
+[35]
+Overfull \hbox (2.30377pt too wide) in paragraph at lines 263--263
+[]|\OT1/ptm/m/n/12 (-20) Tests| 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 265--265
+[]|\OT1/ptm/m/n/12 (+20) Commenting on
+ []
+
+
+Underfull \hbox (badness 2582) in paragraph at lines 265--265
+\OT1/ptm/m/n/12 (+20) on that par-tic-u-lar
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 265--266
+[]|\OT1/ptm/m/n/12 (+20) comment of
+ []
+
+
+Underfull \hbox (badness 2486) in paragraph at lines 265--266
+\OT1/ptm/m/n/12 (+20) users on that
+ []
+
+
+Overfull \hbox (39.43944pt too wide) in paragraph at lines 261--268
+[][] 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 257--268
+
+ []
+
+
+Overfull \hbox (2.30377pt too wide) in paragraph at lines 276--276
+[]|\OT1/ptm/m/n/12 (-20) Tests| 
+ []
+
+
+Underfull \hbox (badness 4120) in paragraph at lines 278--278
+[]|\OT1/ptm/m/n/12 (+20) Deletion of com-
+ []
+
+
+Underfull \hbox (badness 4954) in paragraph at lines 278--279
+\OT1/ptm/m/n/12 (+20) ment of that
+ []
+
+
+Overfull \hbox (39.43944pt too wide) in paragraph at lines 274--281
+[][] 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 270--281
+
+ []
+
+
+Overfull \hbox (2.30377pt too wide) in paragraph at lines 289--289
+[]|\OT1/ptm/m/n/12 (-20) Tests| 
+ []
+
+
+Overfull \hbox (39.43944pt too wide) in paragraph at lines 287--294
+[][] 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 283--294
+
+ []
+
+[36]
+Overfull \hbox (2.30377pt too wide) in paragraph at lines 302--302
+[]|\OT1/ptm/m/n/12 (-20) Tests| 
+ []
+
+
+Underfull \hbox (badness 1975) in paragraph at lines 304--304
+[]|\OT1/ptm/m/n/12 (+20) Press save but-ton
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 304--305
+[]|\OT1/ptm/m/n/12 (+20) Removes the
+ []
+
+
+Overfull \hbox (39.43944pt too wide) in paragraph at lines 300--307
+[][] 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 296--307
+
+ []
+
+
+Overfull \hbox (2.30377pt too wide) in paragraph at lines 315--315
+[]|\OT1/ptm/m/n/12 (-20) Tests| 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 317--317
+[]|\OT1/ptm/m/n/12 (+20) Visiting Pro-file
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 317--317
+[]|\OT1/ptm/m/n/12 (+20) Press on Pro-file
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 317--317
+\OT1/ptm/m/n/12 (+20) Dash-board but-
+ []
+
+
+Underfull \hbox (badness 4872) in paragraph at lines 317--317
+\OT1/ptm/m/n/12 (+20) ton af-ter vis-it-ing
+ []
+
+
+Underfull \hbox (badness 5203) in paragraph at lines 317--317
+[]|\OT1/ptm/m/n/12 (+20) Show the pro-file
+ []
+
+
+Overfull \hbox (39.43944pt too wide) in paragraph at lines 313--320
+[][] 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 309--320
+
+ []
+
+
+Overfull \hbox (2.30377pt too wide) in paragraph at lines 328--328
+[]|\OT1/ptm/m/n/12 (-20) Tests| 
+ []
+
+
+Underfull \hbox (badness 1584) in paragraph at lines 330--330
+[]|\OT1/ptm/m/n/12 (+20) Update Ba-sic Ac-
+ []
+
+
+Overfull \hbox (39.43944pt too wide) in paragraph at lines 326--333
+[][] 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 322--333
+
+ []
+
+[37]
+Overfull \hbox (2.30377pt too wide) in paragraph at lines 341--341
+[]|\OT1/ptm/m/n/12 (-20) Tests| 
+ []
+
+
+Underfull \hbox (badness 6559) in paragraph at lines 343--343
+[]|\OT1/ptm/m/n/12 (+20) Press on Up-date
+ []
+
+
+Overfull \hbox (39.43944pt too wide) in paragraph at lines 339--346
+[][] 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 335--346
+
+ []
+
+
+Overfull \hbox (2.30377pt too wide) in paragraph at lines 354--354
+[]|\OT1/ptm/m/n/12 (-20) Tests| 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 356--356
+[]|\OT1/ptm/m/n/12 (+20) Update Cer-ti-fi-ca-
+ []
+
+
+Underfull \hbox (badness 6559) in paragraph at lines 356--356
+[]|\OT1/ptm/m/n/12 (+20) Press on Up-date
+ []
+
+
+Overfull \hbox (39.43944pt too wide) in paragraph at lines 352--359
+[][] 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 348--359
+
+ []
+
+
+Overfull \hbox (2.30377pt too wide) in paragraph at lines 367--367
+[]|\OT1/ptm/m/n/12 (-20) Tests| 
+ []
+
+
+Underfull \hbox (badness 6559) in paragraph at lines 369--369
+[]|\OT1/ptm/m/n/12 (+20) Press on Up-date
+ []
+
+
+Underfull \hbox (badness 1478) in paragraph at lines 369--369
+\OT1/ptm/m/n/12 (+20) skills but-ton af-ter
+ []
+
+
+Overfull \hbox (39.43944pt too wide) in paragraph at lines 365--372
+[][] 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 361--372
+
+ []
+
+[38]
+Overfull \hbox (2.30377pt too wide) in paragraph at lines 380--380
+[]|\OT1/ptm/m/n/12 (-20) Tests| 
+ []
+
+
+Overfull \hbox (39.43944pt too wide) in paragraph at lines 378--385
+[][] 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 374--385
+
+ []
+
+
+Overfull \hbox (2.30377pt too wide) in paragraph at lines 393--393
+[]|\OT1/ptm/m/n/12 (-20) Tests| 
+ []
+
+
+Underfull \hbox (badness 2486) in paragraph at lines 395--395
+\OT1/ptm/m/n/12 (+20) but-ton that is lo-
+ []
+
+
+Underfull \hbox (badness 3623) in paragraph at lines 395--395
+[]|\OT1/ptm/m/n/12 (+20) Open No-ti-fi-ca-tion
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 395--396
+[]|\OT1/ptm/m/n/12 (+20) Open No-ti-fi-
+ []
+
+
+Underfull \hbox (badness 4120) in paragraph at lines 395--396
+\OT1/ptm/m/n/12 (+20) ca-tion Pan-nel
+ []
+
+
+Underfull \hbox (badness 6268) in paragraph at lines 395--396
+\OT1/ptm/m/n/12 (+20) the nec-es-sary
+ []
+
+
+Overfull \hbox (39.43944pt too wide) in paragraph at lines 391--398
+[][] 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 387--398
+
+ []
+
+
+Overfull \hbox (2.30377pt too wide) in paragraph at lines 406--406
+[]|\OT1/ptm/m/n/12 (-20) Tests| 
+ []
+
+
+Underfull \hbox (badness 1831) in paragraph at lines 408--408
+\OT1/ptm/m/n/12 (+20) that is lo-cated at
+ []
+
+
+Underfull \hbox (badness 1275) in paragraph at lines 408--409
+\OT1/ptm/m/n/12 (+20) that par-tic-u-lar
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 408--409
+\OT1/ptm/m/n/12 (+20) con-nec-tion
+ []
+
+
+Overfull \hbox (39.43944pt too wide) in paragraph at lines 404--411
+[][] 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 400--411
+
+ []
+
+[39]
+Overfull \hbox (2.30377pt too wide) in paragraph at lines 419--419
+[]|\OT1/ptm/m/n/12 (-20) Tests| 
+ []
+
+
+Underfull \hbox (badness 1275) in paragraph at lines 421--422
+\OT1/ptm/m/n/12 (+20) that par-tic-u-lar
+ []
+
+
+Overfull \hbox (39.43944pt too wide) in paragraph at lines 417--424
+[][] 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 413--424
+
+ []
+
+
+Overfull \hbox (2.30377pt too wide) in paragraph at lines 432--432
+[]|\OT1/ptm/m/n/12 (-20) Tests| 
+ []
+
+
+Underfull \hbox (badness 2486) in paragraph at lines 434--434
+\OT1/ptm/m/n/12 (+20) but-ton that is lo-
+ []
+
+
+Underfull \hbox (badness 1622) in paragraph at lines 434--435
+\OT1/ptm/m/n/12 (+20) tem and redi-
+ []
+
+
+Overfull \hbox (39.43944pt too wide) in paragraph at lines 430--437
+[][] 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 426--437
+
+ []
+
+[40]) [41]
 \openout2 = `5ConclusionFuture/conclusion.aux'.
 
  (5ConclusionFuture/conclusion.tex
 Chapter 5.
-<Outcome-ss/homepage.png, id=666, 847.36575pt x 419.76825pt>
 File: Outcome-ss/homepage.png Graphic file (type png)
 <use Outcome-ss/homepage.png>
-Package pdftex.def Info: Outcome-ss/homepage.png  used on input line 7.
-(pdftex.def)             Requested size: 398.76538pt x 197.5409pt.
-<Outcome-ss/geek.png, id=667, 863.02425pt x 251.13824pt>
+Package pdftex.def Info: Outcome-ss/homepage.png  used on input line 9.
+(pdftex.def)             Requested size: 398.76538pt x 199.3772pt.
+<Outcome-ss/geek.png, id=809, 723.9045pt x 344.487pt>
 File: Outcome-ss/geek.png Graphic file (type png)
 <use Outcome-ss/geek.png>
-Package pdftex.def Info: Outcome-ss/geek.png  used on input line 16.
-(pdftex.def)             Requested size: 358.8864pt x 104.43501pt.
-[31
+Package pdftex.def Info: Outcome-ss/geek.png  used on input line 18.
+(pdftex.def)             Requested size: 358.8864pt x 170.78703pt.
+[42
 
 
 
-
- <./Outcome-ss/homepage.png>]
-<Outcome-ss/ungeek.png, id=674, 863.02425pt x 251.7405pt>
-File: Outcome-ss/ungeek.png Graphic file (type png)
-<use Outcome-ss/ungeek.png>
-Package pdftex.def Info: Outcome-ss/ungeek.png  used on input line 25.
-(pdftex.def)             Requested size: 358.8864pt x 104.68546pt.
-<Outcome-ss/self-profile.png, id=675, 790.152pt x 418.56375pt>
-File: Outcome-ss/self-profile.png Graphic file (type png)
-<use Outcome-ss/self-profile.png>
-Package pdftex.def Info: Outcome-ss/self-profile.png  used on input line 34.
-(pdftex.def)             Requested size: 398.76538pt x 211.24208pt.
- [32 <./Outcome-ss/geek.png> <./Outcome-ss/ungeek.png>]
-<Outcome-ss/messanger.png, id=682, 850.97925pt x 373.99725pt>
-File: Outcome-ss/messanger.png Graphic file (type png)
-<use Outcome-ss/messanger.png>
-Package pdftex.def Info: Outcome-ss/messanger.png  used on input line 43.
-(pdftex.def)             Requested size: 398.76538pt x 175.25371pt.
-<Outcome-ss/search.png, id=683, 867.84225pt x 133.6995pt>
-File: Outcome-ss/search.png Graphic file (type png)
-<use Outcome-ss/search.png>
-Package pdftex.def Info: Outcome-ss/search.png  used on input line 52.
-(pdftex.def)             Requested size: 358.8864pt x 55.29044pt.
- [33 <./Outcome-ss/self-profile.png> <./Outcome-ss/messanger.png>]
-<Outcome-ss/notification.png, id=690, 533.5935pt x 410.7345pt>
-File: Outcome-ss/notification.png Graphic file (type png)
-<use Outcome-ss/notification.png>
-Package pdftex.def Info: Outcome-ss/notification.png  used on input line 61.
-(pdftex.def)             Requested size: 199.38269pt x 153.47353pt.
-<Outcome-ss/post.png, id=691, 380.622pt x 425.1885pt>
-File: Outcome-ss/post.png Graphic file (type png)
-<use Outcome-ss/post.png>
-Package pdftex.def Info: Outcome-ss/post.png  used on input line 70.
-(pdftex.def)             Requested size: 199.38269pt x 222.73422pt.
- [34 <./Outcome-ss/search.png> <./Outcome-ss/notification.png>]
-<Outcome-ss/other-user-profile.png, id=698, 1154.51324pt x 458.31226pt>
-File: Outcome-ss/other-user-profile.png Graphic file (type png)
-<use Outcome-ss/other-user-profile.png>
-Package pdftex.def Info: Outcome-ss/other-user-profile.png  used on input line 78.
-(pdftex.def)             Requested size: 398.76538pt x 158.29971pt.
- [35 <./Outcome-ss/post.png>]
-<Outcome-ss/connection-request.png, id=704, 233.07076pt x 422.7795pt>
-File: Outcome-ss/connection-request.png Graphic file (type png)
-<use Outcome-ss/connection-request.png>
-Package pdftex.def Info: Outcome-ss/connection-request.png  used on input line 87.
-(pdftex.def)             Requested size: 109.88112pt x 199.31358pt.
-<Outcome-ss/accept-request.png, id=705, 208.3785pt x 423.38174pt>
-File: Outcome-ss/accept-request.png Graphic file (type png)
-<use Outcome-ss/accept-request.png>
-Package pdftex.def Info: Outcome-ss/accept-request.png  used on input line 95.
-(pdftex.def)             Requested size: 98.09688pt x 199.31358pt.
- [36 <./Outcome-ss/other-user-profile.png> <./Outcome-ss/connection-request.png>]
-<Outcome-ss/result-after-accepting.png, id=712, 220.4235pt x 419.76825pt>
-File: Outcome-ss/result-after-accepting.png Graphic file (type png)
-<use Outcome-ss/result-after-accepting.png>
-Package pdftex.def Info: Outcome-ss/result-after-accepting.png  used on input line 103.
-(pdftex.def)             Requested size: 104.65851pt x 199.31358pt.
- [37 <./Outcome-ss/accept-request.png> <./Outcome-ss/result-after-accepting.png>]
-Chapter 6.
-[38
 
 ]
-Chapter 7.
-) [39
+<Outcome-ss/ungeek.png, id=814, 863.02425pt x 251.7405pt>
+File: Outcome-ss/ungeek.png Graphic file (type png)
+<use Outcome-ss/ungeek.png>
+Package pdftex.def Info: Outcome-ss/ungeek.png  used on input line 27.
+(pdftex.def)             Requested size: 358.8864pt x 104.68546pt.
+<Outcome-ss/self-profile.png, id=815, 1156.32pt x 528.17325pt>
+File: Outcome-ss/self-profile.png Graphic file (type png)
+<use Outcome-ss/self-profile.png>
+Package pdftex.def Info: Outcome-ss/self-profile.png  used on input line 36.
+(pdftex.def)             Requested size: 398.76538pt x 182.13937pt.
+ [43 <./Outcome-ss/geek.png> <./Outcome-ss/ungeek.png>]
+File: Outcome-ss/messenger-full-block.png Graphic file (type png)
+<use Outcome-ss/messenger-full-block.png>
+Package pdftex.def Info: Outcome-ss/messenger-full-block.png  used on input line 45.
+(pdftex.def)             Requested size: 398.76538pt x 205.73698pt.
+<Outcome-ss/search-bar.png, id=822, 1029.8475pt x 161.403pt>
+File: Outcome-ss/search-bar.png Graphic file (type png)
+<use Outcome-ss/search-bar.png>
+Package pdftex.def Info: Outcome-ss/search-bar.png  used on input line 54.
+(pdftex.def)             Requested size: 358.8864pt x 56.2456pt.
+ [44 <./Outcome-ss/self-profile.png>]
+<Outcome-ss/notification.png, id=828, 350.5095pt x 177.66376pt>
+File: Outcome-ss/notification.png Graphic file (type png)
+<use Outcome-ss/notification.png>
+Package pdftex.def Info: Outcome-ss/notification.png  used on input line 63.
+(pdftex.def)             Requested size: 199.38269pt x 101.06335pt.
+<Outcome-ss/post.png, id=829, 380.622pt x 425.1885pt>
+File: Outcome-ss/post.png Graphic file (type png)
+<use Outcome-ss/post.png>
+Package pdftex.def Info: Outcome-ss/post.png  used on input line 72.
+(pdftex.def)             Requested size: 199.38269pt x 222.73422pt.
+ [45 <./Outcome-ss/search-bar.png> <./Outcome-ss/notification.png>]
+<Outcome-ss/saved-posts-list.png, id=836, 690.78075pt x 519.1395pt>
+File: Outcome-ss/saved-posts-list.png Graphic file (type png)
+<use Outcome-ss/saved-posts-list.png>
+Package pdftex.def Info: Outcome-ss/saved-posts-list.png  used on input line 81.
+(pdftex.def)             Requested size: 199.38269pt x 149.84158pt.
+<Outcome-ss/friends-posts.png, id=837, 907.59074pt x 506.49225pt>
+File: Outcome-ss/friends-posts.png Graphic file (type png)
+<use Outcome-ss/friends-posts.png>
+Package pdftex.def Info: Outcome-ss/friends-posts.png  used on input line 90.
+(pdftex.def)             Requested size: 199.38269pt x 111.26634pt.
+ [46 <./Outcome-ss/post.png> <./Outcome-ss/saved-posts-list.png>]
+<Outcome-ss/public-posts.png, id=844, 900.36375pt x 573.94424pt>
+File: Outcome-ss/public-posts.png Graphic file (type png)
+<use Outcome-ss/public-posts.png>
+Package pdftex.def Info: Outcome-ss/public-posts.png  used on input line 99.
+(pdftex.def)             Requested size: 199.38269pt x 127.09134pt.
+<Outcome-ss/other-user-profile.png, id=845, 1156.32pt x 540.21825pt>
+File: Outcome-ss/other-user-profile.png Graphic file (type png)
+<use Outcome-ss/other-user-profile.png>
+Package pdftex.def Info: Outcome-ss/other-user-profile.png  used on input line 107.
+(pdftex.def)             Requested size: 398.76538pt x 186.29306pt.
+ [47 <./Outcome-ss/friends-posts.png> <./Outcome-ss/public-posts.png>]
+<Outcome-ss/connection-request.png, id=853, 233.07076pt x 422.7795pt>
+File: Outcome-ss/connection-request.png Graphic file (type png)
+<use Outcome-ss/connection-request.png>
+Package pdftex.def Info: Outcome-ss/connection-request.png  used on input line 116.
+(pdftex.def)             Requested size: 109.88112pt x 199.31358pt.
+<Outcome-ss/accept-request.png, id=854, 208.3785pt x 423.38174pt>
+File: Outcome-ss/accept-request.png Graphic file (type png)
+<use Outcome-ss/accept-request.png>
+Package pdftex.def Info: Outcome-ss/accept-request.png  used on input line 124.
+(pdftex.def)             Requested size: 98.09688pt x 199.31358pt.
+ [48 <./Outcome-ss/other-user-profile.png> <./Outcome-ss/connection-request.png>]
+<Outcome-ss/result-after-accepting.png, id=861, 220.4235pt x 419.76825pt>
+File: Outcome-ss/result-after-accepting.png Graphic file (type png)
+<use Outcome-ss/result-after-accepting.png>
+Package pdftex.def Info: Outcome-ss/result-after-accepting.png  used on input line 132.
+(pdftex.def)             Requested size: 104.65851pt x 199.31358pt.
+ [49 <./Outcome-ss/accept-request.png> <./Outcome-ss/result-after-accepting.png>] [50]
+Chapter 6.
+)
+Underfull \hbox (badness 10000) in paragraph at lines 143--248
+
+ []
+
+[51
 
 ] (Appendix/appendix1.tex
-<Diagrams/Gantt_Chart.png, id=728, 770.88pt x 578.16pt>
+<Diagrams/Gantt_Chart.png, id=876, 770.88pt x 578.16pt>
 File: Diagrams/Gantt_Chart.png Graphic file (type png)
 <use Diagrams/Gantt_Chart.png>
 Package pdftex.def Info: Diagrams/Gantt_Chart.png  used on input line 5.
@@ -1939,16 +2769,12 @@ Underfull \hbox (badness 10000) in paragraph at lines 34--35
 
  []
 
-Package microtype Info: Loading generic protrusion settings for font family
-(microtype)             `cmtt' (encoding: OT1).
-(microtype)             For optimal results, create family-specific settings.
-(microtype)             See the microtype manual for details.
 
 Overfull \hbox (38.15952pt too wide) in paragraph at lines 37--37
  []\OT1/cmtt/m/n/12 git clone https://github.com/sushantbramhacharya/CodeConnectBE.git[] 
  []
 
-[40
+[52
 
 
 
@@ -1970,7 +2796,7 @@ Package microtype Info: Loading generic protrusion settings for font family
 (microtype)             `cmtt' (encoding: TS1).
 (microtype)             For optimal results, create family-specific settings.
 (microtype)             See the microtype manual for details.
-<Appendix/supervisor-form.jpg, id=741, 2912.8825pt x 4119.39pt>
+<Appendix/supervisor-form.jpg, id=889, 2912.8825pt x 4119.39pt>
 File: Appendix/supervisor-form.jpg Graphic file (type jpg)
 <use Appendix/supervisor-form.jpg>
 Package pdftex.def Info: Appendix/supervisor-form.jpg  used on input line 67.
@@ -1980,24 +2806,27 @@ Overfull \hbox (2.73608pt too wide) in paragraph at lines 67--68
  [][] 
  []
 
-) (Appendix/appendix2.tex [41]) [42 <./Appendix/supervisor-form.jpg>] (main.bbl) [43
+) (Appendix/appendix2.tex [53]) [54 <./Appendix/supervisor-form.jpg>] (main.bbl) [55
 
-] (main.aux (0ACover/0cover.aux) (0ACover/1title.aux) (0ACover/4recommendation.aux) (0ACover/5departmentAcceptance.aux) (LetterOfApprovalBCA/letter.aux) (0HAbstract/abstract.aux) (0ACover/6acknowledgement.aux) (0IAbbreviations/abbreviations.aux) (1Introduction/introduction.aux) (2Literaturereview/literaturereview.aux) (3Methodology/methodology.aux) (4ImplementationAndTesting/ImplementationAndTesting.aux) (5ConclusionFuture/conclusion.aux))
+] (main.aux (0ACover/0cover.aux) (0ACover/1title.aux) (0ACover/4recommendation.aux) (0ACover/5departmentAcceptance.aux) (LetterOfApprovalBCA/letter.aux) (0ACover/6acknowledgement.aux) (0HAbstract/abstract.aux) (0IAbbreviations/abbreviations.aux) (1Introduction/introduction.aux) (2Literaturereview/literaturereview.aux) (3Methodology/methodology.aux) (4ImplementationAndTesting/ImplementationAndTesting.aux) (5ConclusionFuture/conclusion.aux))
+
+LaTeX Warning: There were multiply-defined labels.
+
 Package rerunfilecheck Info: File `main.out' has not changed.
-(rerunfilecheck)             Checksum: 207FEC698295F4D80FB2D9688B1A56E3;10940.
+(rerunfilecheck)             Checksum: 3720FEB79971111E3DE614D0E2834568;11329.
  ) 
 Here is how much of TeX's memory you used:
- 38270 strings out of 476411
- 724905 string characters out of 5806022
+ 38353 strings out of 476411
+ 726357 string characters out of 5806022
  1874845 words of memory out of 5000000
- 57425 multiletter control sequences out of 15000+600000
- 541933 words of font info for 226 fonts, out of 8000000 for 9000
+ 57444 multiletter control sequences out of 15000+600000
+ 542482 words of font info for 234 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 108i,10n,117p,1631b,3402s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 108i,12n,117p,1631b,3402s stack positions out of 10000i,1000n,20000p,200000b,200000s
  <C:\Users\Acer\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\tctt1095.pk><C:/Latex/fonts/type1/public/amsfonts/cm/cmtt10.pfb><C:/Latex/fonts/type1/public/amsfonts/cm/cmtt12.pfb><C:/Latex/fonts/type1/urw/times/utmb8a.pfb><C:/Latex/fonts/type1/urw/times/utmr8a.pfb><C:/Latex/fonts/type1/urw/times/utmri8a.pfb>
-Output written on main.pdf (55 pages, 9774666 bytes).
+Output written on main.pdf (69 pages, 9712230 bytes).
 PDF statistics:
- 844 PDF objects out of 1000 (max. 8388607)
- 191 named destinations out of 1000 (max. 500000)
- 44802 words of extra memory for PDF output out of 51595 (max. 10000000)
+ 1002 PDF objects out of 1200 (max. 8388607)
+ 239 named destinations out of 1000 (max. 500000)
+ 44823 words of extra memory for PDF output out of 51595 (max. 10000000)
 

@@ -41,6 +41,8 @@ In the domain of web development and database connectivity, the mysqli\_connect 
 In the context of web design and typography exploration, I've had the privilege of discovering the transformative capabilities of Google Fonts. As I delve into this subject for our report, I'm genuinely impressed by the role Google Fonts plays in revolutionizing the way that is approached text presentation on the web. The vast array of fonts available at our fingertips, curated with precision and diversity, has left a lasting impression on me. Google Fonts not only addresses the creative aspirations of designers but also places user experience at the forefront by promoting accessible and visually appealing text choices. With an intuitive interface and seamless integration, the process of embedding selected fonts into projects feels intuitive and user-friendly. The cherry on top is a performance optimization, ensuring that the aesthetic enhancements don't compromise website speed. My exploration of Google Fonts underscores its significance as a valuable asset in the design arsenal, enhancing both the aesthetics and accessibility of web content in a meaningful way.
 \subsection{Font Awesome }
 Navigating the realm of web design and user interface enhancement, I've been captivated by the remarkable utility that Font Awesome offers. As I delve into the depths of this report, I find myself immersed in the significance of Font Awesome's icon library in modern web development. The array of icons, meticulously crafted and encompassing a wide spectrum of categories, has truly left an impression on me. Font Awesome not only simplifies the process of integrating icons into web projects, but it also adds a layer of visual appeal and functionality that resonates with users. The convenience of using CSS classes to seamlessly incorporate icons and the option to customize their size, color, and style gives designers a dynamic toolbox for creative expression. What intrigues me further is its compatibility with various frameworks and platforms, making it a versatile choice for both beginners and seasoned developers. As I examine the impact of Font Awesome on enhancing user experiences, I'm struck by its ability to add depth and meaning to digital interfaces, making it an indispensable asset in the journey of crafting captivating and user-centric web applications.
+\subsection{Bootstrap}
+We have used small portion of bootstrap for quick development of profile dashboard. Bootstrap is a widely-used front-end framework that simplifies web development by providing a collection of pre-designed HTML, CSS, and JavaScript components. With its responsive design, ready-made elements, and customization options, Bootstrap enables developers to create mobile-friendly and visually appealing websites and web applications with ease.
 % \subsection{Implementation Details of Modules}
 % \section{Testing}
 % \subsection{Test Cases for Unit Testing}
@@ -51,21 +53,388 @@ Unit testing is a software testing technique where individual units or component
 \\
 \textbf{Authenication Unit}\\
 Here testing different test cases of authentication system in Code Connect is performed with screenshots as required results:\\
-\begin{tabular}{|p{0.3in}|p{1.5in}|p{1.5in}|p{1.5in}|}
-    \hline
-    Tests & Test Cases & Input & Output \\
-    \hline
-        1 & Incorrect Password& Email:test@gmail.com Password:1234& Incorrect Password \\
+\begin{table}[H]
+    \caption{Authenication Unit Testing}
+        \label{}
+    \begin{tabular}{|p{0.3in}|p{1.3in}|p{1.5in}|p{1.3in}|p{1in}|}
         \hline
-        2 & Incorrect Confirm Password in SignUp & Email:test@gmail.com
-        Password:12345679
-        Password:12345678 & Enter Same Password \\
+        Tests & Test Cases & Input & Expected Output & Actual Output \\
         \hline
-        3 & Correct Credentials In Login & Email:test@gmail.com
-        Password:12345679 & Redirects to homepage \\
-        \hline
+            1 & Incorrect Password& Email:test@gmail.com Password:1234& Incorrect Password& Incorrect Password \\
+            \hline
+            2 & Incorrect Confirm Password in SignUp & Email:test@gmail.com
+            Password:12345679
+            Password:12345678 & Enter Same Password & Enter Same Password \\
+            \hline
+            3 & Correct Credentials In Login & Email:test@gmail.com
+            Password:12345679 & Redirects to homepage & Redirects to homepage \\
+            \hline
 \end{tabular}
+\end{table}
 
+\textbf{Launch Application when user is not logged-in}\\
+\begin{table}[H]
+    \caption{Launch Application when user is not logged-in Testing}
+        \label{}
+    \begin{tabular}{|p{0.3in}|p{1.3in}|p{1.3in}|p{1.3in}|p{1in}|}
+        \hline
+        Tests & Test Cases & Input &Expected Output & Actual Output \\
+        \hline
+            1 & Launch application& \url{http://localhost/codeconnect/login/}& Log-In page& Log-In page \\
+            \hline
+\end{tabular}
+\end{table}
+
+\textbf{Launch Application when user is already logged-in}\\
+\begin{table}[H]
+    \caption{Launch Application when user is already logged-in Testing}
+        \label{}
+    \begin{tabular}{|p{0.3in}|p{1.3in}|p{1.3in}|p{1.3in}|p{1in}|}
+        \hline
+        Tests & Test Cases & Input &Expected Output & Actual Output \\
+        \hline
+            1 & Launch application& \url{http://localhost/codeconnect/home/}& CodeConnect Home page& CodeConnect Home page \\
+            \hline
+\end{tabular}
+\end{table}
+
+\textbf{Code Connect Messenger}\\
+\begin{table}[H]
+    \caption{Code Connect Messenger Testing}
+        \label{}
+    \begin{tabular}{|p{0.3in}|p{1.3in}|p{1.3in}|p{1.3in}|p{1in}|}
+        \hline
+        Tests & Test Cases & Input &Expected Output & Actual Output \\
+        \hline
+            1 & Code Connect Messenger& \url{http://localhost/codeconnect/messenger/}& Code Connect Messenger&  Code Connect Messenger \\
+            \hline
+\end{tabular}
+\end{table}
+
+\textbf{Send Message}\\
+\begin{table}[H]
+    \caption{Code Connect Send Message to other user Testing}
+        \label{}
+    \begin{tabular}{|p{0.3in}|p{1.3in}|p{1.3in}|p{1.3in}|p{1in}|}
+        \hline
+        Tests & Test Cases & Input &Expected Output & Actual Output \\
+        \hline
+            1 & send message& click on messenger button and click on other user that is located at the left side to start a conversations& Sends message to that particular user& Sends message to that particular user \\
+            \hline
+\end{tabular}
+\end{table}
+
+\textbf{Receive Message}\\
+\begin{table}[H]
+    \caption{Code Connect Receive Message from other user Testing}
+        \label{}
+    \begin{tabular}{|p{0.3in}|p{1.3in}|p{1.3in}|p{1.3in}|p{1in}|}
+        \hline
+        Tests & Test Cases & Input &Expected Output & Actual Output \\
+        \hline
+            1 & Receive message& click on messenger button and click on other user that is located at the left side to see the conversation& Display the conversation with that particular user& Display the conversation with that particular user\\
+            \hline
+\end{tabular}
+\end{table}
+
+\textbf{Code Connect Search User}\\
+\begin{table}[H]
+    \caption{Code Connect Search User Testing}
+        \label{}
+    \begin{tabular}{|p{0.3in}|p{1.3in}|p{1.3in}|p{1.3in}|p{1in}|}
+        \hline
+        Tests & Test Cases & Input &Expected Output & Actual Output \\
+        \hline
+            1 & Code Connect Search User& Si& Name of user starting from "Si"& Sirjan Shrestha \\
+            \hline
+\end{tabular}
+\end{table}
+
+\textbf{Code Connect Search Posts}\\
+\begin{table}[H]
+    \caption{Code Connect Search Posts Testing}
+        \label{}
+    \begin{tabular}{|p{0.3in}|p{1.3in}|p{1.3in}|p{1.3in}|p{1in}|}
+        \hline
+        Tests & Test Cases & Input &Expected Output & Actual Output \\
+        \hline
+            1 & Code Connect Search Posts& python& Posts that have content of python& python posts \\
+            \hline
+\end{tabular}
+\end{table}
+
+\textbf{Show posts of friends only}\\
+\begin{table}[H]
+    \caption{Show posts of friends only Testing}
+        \label{}
+    \begin{tabular}{|p{0.3in}|p{1.3in}|p{1.3in}|p{1.3in}|p{1in}|}
+        \hline
+        Tests & Test Cases & Input &Expected Output & Actual Output \\
+        \hline
+            1 &Show posts of friends only& Click on the Friends Only button located at post section& Shows Posts of Friends only& Shows posts of friends only \\
+            \hline
+\end{tabular}
+\end{table}
+
+\textbf{Show all posts}\\
+\begin{table}[H]
+    \caption{Show all posts Testing}
+        \label{}
+    \begin{tabular}{|p{0.3in}|p{1.3in}|p{1.3in}|p{1.3in}|p{1in}|}
+        \hline
+        Tests & Test Cases & Input &Expected Output & Actual Output \\
+        \hline
+            1 &Show all posts& Click on the Public button located at post section& Shows Posts of all users& Shows posts of all users \\
+            \hline
+\end{tabular}
+\end{table}
+
+\textbf{Make Posts}\\
+\begin{table}[H]
+    \caption{Make Posts Testing}
+        \label{}
+    \begin{tabular}{|p{0.3in}|p{1.3in}|p{1.3in}|p{1.3in}|p{1in}|}
+        \hline
+        Tests & Test Cases & Input &Expected Output & Actual Output \\
+        \hline
+            1 & make posts& Click on post button& Open Post Menu& Opens Posts Menu \\
+            \hline
+\end{tabular}
+\end{table}
+
+\textbf{Making Post including content on both Post and Coding section}\\
+\begin{table}[H]
+    \caption{Making Post including content on both Post and Coding section Testing}
+        \label{}
+    \begin{tabular}{|p{0.3in}|p{1.3in}|p{1.3in}|p{1.3in}|p{1in}|}
+        \hline
+        Tests & Test Cases & Input &Expected Output & Actual Output \\
+        \hline
+            1 & Making Post including content on both Post and Coding section& Post section:coding in C Code section: printf("Hello World");& post including both of the section& made post including both of the section\\
+            \hline
+\end{tabular}
+\end{table}
+
+\textbf{Delete Posts}\\
+\begin{table}[H]
+    \caption{Delete Posts Testing}
+        \label{}
+    \begin{tabular}{|p{0.3in}|p{1.3in}|p{1.3in}|p{1.3in}|p{1in}|}
+        \hline
+        Tests & Test Cases & Input &Expected Output & Actual Output \\
+        \hline
+            1 & Delete posts&After visiting self profile, Click on delete post button& Deletion of that particular post& Delets the post \\
+            \hline
+\end{tabular}
+\end{table}
+
+\textbf{Geeking on post}\\
+\begin{table}[H]
+    \caption{Geeking on post Testing}
+        \label{}
+    \begin{tabular}{|p{0.3in}|p{1.3in}|p{1.3in}|p{1.3in}|p{1in}|}
+        \hline
+        Tests & Test Cases & Input &Expected Output & Actual Output \\
+        \hline
+            1 & Geeking on Posts & Press Geek button& count Geek of users on post & counts Geek of users on post \\
+            \hline
+\end{tabular}
+\end{table}
+
+\textbf{Un-Geeking on post}\\
+\begin{table}[H]
+    \caption{Un-Geeking on post Testing}
+        \label{}
+    \begin{tabular}{|p{0.3in}|p{1.3in}|p{1.3in}|p{1.3in}|p{1in}|}
+        \hline
+        Tests & Test Cases & Input &Expected Output & Actual Output \\
+        \hline
+            1 & Un-Geeking on Posts & Press Geek button again & Deletion of geek count of that user &Delets the geek count of that user \\
+            \hline
+\end{tabular}
+\end{table}
+
+\textbf{Commenting on post}\\
+\begin{table}[H]
+    \caption{Commenting on post Testing}
+        \label{}
+    \begin{tabular}{|p{0.3in}|p{1.3in}|p{1.3in}|p{1.3in}|p{1in}|}
+        \hline
+        Tests & Test Cases & Input &Expected Output & Actual Output \\
+        \hline
+            1 &Commenting on post & Press comment button and write comment & comment of users on that particular post & comment of users on that particular post \\
+            \hline
+\end{tabular}
+\end{table}
+
+\textbf{Deleting Comment on post}\\
+\begin{table}[H]
+    \caption{Deleting Comment on post Testing}
+        \label{}
+    \begin{tabular}{|p{0.3in}|p{1.3in}|p{1.3in}|p{1.3in}|p{1in}|}
+        \hline
+        Tests & Test Cases & Input &Expected Output & Actual Output \\
+        \hline
+            1 &Deleting Comment on post & Press delete button & Deletion of comment of that user& Delets the comment of that user \\
+            \hline
+\end{tabular}
+\end{table}
+
+\textbf{Saving post}\\
+\begin{table}[H]
+    \caption{Saving post Testing}
+        \label{}
+    \begin{tabular}{|p{0.3in}|p{1.3in}|p{1.3in}|p{1.3in}|p{1in}|}
+        \hline
+        Tests & Test Cases & Input &Expected Output & Actual Output \\
+        \hline
+            1 &Saving post & Press save button located at right side of post & Save the posts & Saves that post \\
+            \hline
+\end{tabular}
+\end{table}
+
+\textbf{Un-Saving post}\\
+\begin{table}[H]
+    \caption{Un-Saving post Testing}
+        \label{}
+    \begin{tabular}{|p{0.3in}|p{1.3in}|p{1.3in}|p{1.3in}|p{1in}|}
+        \hline
+        Tests & Test Cases & Input &Expected Output & Actual Output \\
+        \hline
+            1 &Un-Saving post & Press save button again that is located at right side of post & Removes the saved post &  Removes the saved post  \\
+            \hline
+\end{tabular}
+\end{table}
+
+\textbf{Profile Dashboard}\\
+\begin{table}[H]
+    \caption{Profile Dashboard Testing}
+        \label{}
+    \begin{tabular}{|p{0.3in}|p{1.3in}|p{1.3in}|p{1.3in}|p{1in}|}
+        \hline
+        Tests & Test Cases & Input &Expected Output & Actual Output \\
+        \hline
+            1 &Visiting Profile Dashboard & Press on Profile Dashboard button after visiting self-profile &Show the profile Dashboard menu &Opens the profile Dashboard menu  \\
+            \hline
+\end{tabular}
+\end{table}
+
+\textbf{Update Basic Account Details}\\
+\begin{table}[H]
+    \caption{Update Basic Account Details Testing}
+        \label{}
+    \begin{tabular}{|p{0.3in}|p{1.3in}|p{1.3in}|p{1.3in}|p{1in}|}
+        \hline
+        Tests & Test Cases & Input &Expected Output & Actual Output \\
+        \hline
+            1 &Update Basic Account Details & Press on Update Basic Account Details button after visiting profile dashboard &Opens the form that helps the user to update their basic informations  &Opens the form that helps the user to update their basic informations  \\
+            \hline
+\end{tabular}
+\end{table}
+
+\textbf{Update Projects}\\
+\begin{table}[H]
+    \caption{Update Projects Testing}
+        \label{}
+    \begin{tabular}{|p{0.3in}|p{1.3in}|p{1.3in}|p{1.3in}|p{1in}|}
+        \hline
+        Tests & Test Cases & Input &Expected Output & Actual Output \\
+        \hline
+            1 &Update Projects & Press on Update Projects button after visiting profile dashboard &Opens the form that helps the user to update their Projects  &Opens the form that helps the user to update their Projects  \\
+            \hline
+\end{tabular}
+\end{table}
+
+\textbf{Update Certification}\\
+\begin{table}[H]
+    \caption{Update Certification Testing}
+        \label{}
+    \begin{tabular}{|p{0.3in}|p{1.3in}|p{1.3in}|p{1.3in}|p{1in}|}
+        \hline
+        Tests & Test Cases & Input &Expected Output & Actual Output \\
+        \hline
+            1 &Update Certification & Press on Update Certification button after visiting profile dashboard &Opens the form that helps the user to update their Certifications  &Opens the form that helps the user to update their Certifications  \\
+            \hline
+\end{tabular}
+\end{table}
+
+\textbf{Update Skills}\\
+\begin{table}[H]
+    \caption{Update Skills Testing}
+        \label{}
+    \begin{tabular}{|p{0.3in}|p{1.3in}|p{1.3in}|p{1.3in}|p{1in}|}
+        \hline
+        Tests & Test Cases & Input &Expected Output & Actual Output \\
+        \hline
+            1 &Update Skills & Press on Update skills button after visiting profile dashboard &Opens the form that helps the user to update their skills  &Opens the form that helps the user to update their skills  \\
+            \hline
+\end{tabular}
+\end{table}
+
+\textbf{Update CV}\\
+\begin{table}[H]
+    \caption{Update CV Testing}
+        \label{}
+    \begin{tabular}{|p{0.3in}|p{1.3in}|p{1.3in}|p{1.3in}|p{1in}|}
+        \hline
+        Tests & Test Cases & Input &Expected Output & Actual Output \\
+        \hline
+            1 &Update CV & Press on Update CV button after visiting profile dashboard &Opens the form that helps the user to update their CV  &Opens the form that helps the user to update their CV  \\
+            \hline
+\end{tabular}
+\end{table}
+
+\textbf{Code Connect Notification}\\
+\begin{table}[H]
+    \caption{Code Connect Notification Testing}
+        \label{}
+    \begin{tabular}{|p{0.3in}|p{1.3in}|p{1.3in}|p{1.3in}|p{1in}|}
+        \hline
+        Tests & Test Cases & Input &Expected Output & Actual Output \\
+        \hline
+            1 &Notification & Press on Notifiation button that is located at nav-bar &Open Notification Pannel that shows all the necessary notification &Open Notification Pannel that shows all the necessary notification \\
+            \hline
+\end{tabular}
+\end{table}
+
+\textbf{Send connection request}\\
+\begin{table}[H]
+    \caption{Send connection request Testing}
+        \label{}
+    \begin{tabular}{|p{0.3in}|p{1.3in}|p{1.3in}|p{1.3in}|p{1in}|}
+        \hline
+        Tests & Test Cases & Input &Expected Output & Actual Output \\
+        \hline
+            1 &Send connection request & After visiting other user's profile, Press on connect button that is located at side bard  &Send connection request to that particular user &Sends connection request to that particular user and shows connection reuested \\
+            \hline
+\end{tabular}
+\end{table}
+
+\textbf{Accept connection request}\\
+\begin{table}[H]
+    \caption{Accept connection request Testing}
+        \label{}
+    \begin{tabular}{|p{0.3in}|p{1.3in}|p{1.3in}|p{1.3in}|p{1in}|}
+        \hline
+        Tests & Test Cases & Input &Expected Output & Actual Output \\
+        \hline
+            1 &Accept connection request & Click on Accept Request button &Accept connection request of that particular user &Accept connection request of that particular user and adds that user to the connection list \\
+            \hline
+\end{tabular}
+\end{table}
+
+\textbf{User Log-Out}\\
+\begin{table}[H]
+    \caption{User Log-Out Testing}
+        \label{}
+    \begin{tabular}{|p{0.3in}|p{1.3in}|p{1.3in}|p{1.3in}|p{1in}|}
+        \hline
+        Tests & Test Cases & Input &Expected Output & Actual Output \\
+        \hline
+            1 &User Log-Out & Click on Log-Out button that is located at the nav-bar &Logs the user out of the system &Logs the user out of the system and redirect the user to Log-In page \\
+            \hline
+\end{tabular}
+\end{table}
 % \begin{figure}[ht]
 %     \centering
 %     \includegraphics[width=1\textwidth]{4ImplementationAndTesting/screenshots/email-err-signin.png}
