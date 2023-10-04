@@ -1,14 +1,14 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 23.5) (preloaded format=pdflatex 2023.6.4)  1 OCT 2023 18:04
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 23.5) (preloaded format=pdflatex 2023.6.4)  4 OCT 2023 09:39
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
  %&-line parsing enabled.
-**c:/project/Proposal_Latex/main.tex
-(c:/project/Proposal_Latex/main.tex
+**d:/Project/Proposal_Latex/main.tex
+(d:/Project/Proposal_Latex/main.tex
 LaTeX2e <2022-11-01> patch level 1
-L3 programming layer <2023-05-15> (C:\Latex\tex/latex/base\report.cls
+L3 programming layer <2023-05-15> (C:\Users\Senbuu\AppData\Local\Programs\MiKTeX\tex/latex/base\report.cls
 Document Class: report 2022/07/02 v1.4n Standard LaTeX document class
-(C:\Latex\tex/latex/base\size12.clo
+(C:\Users\Senbuu\AppData\Local\Programs\MiKTeX\tex/latex/base\size12.clo
 File: size12.clo 2022/07/02 v1.4n Standard LaTeX file (size option)
 )
 \c@part=\count185
@@ -23,33 +23,33 @@ File: size12.clo 2022/07/02 v1.4n Standard LaTeX file (size option)
 \abovecaptionskip=\skip48
 \belowcaptionskip=\skip49
 \bibindent=\dimen140
-) (C:\Latex\tex/latex/multirow\multirow.sty
+) (C:\Users\Senbuu\AppData\Local\Programs\MiKTeX\tex/latex/multirow\multirow.sty
 Package: multirow 2021/03/15 v2.8 Span multiple rows of a table
 \multirow@colwidth=\skip50
 \multirow@cntb=\count194
 \multirow@dima=\skip51
 \bigstrutjot=\dimen141
-) (C:\Latex\tex/latex/graphics\rotating.sty
+) (C:\Users\Senbuu\AppData\Local\Programs\MiKTeX\tex/latex/graphics\rotating.sty
 Package: rotating 2016/08/11 v2.16d rotated objects in LaTeX
- (C:\Latex\tex/latex/graphics\graphicx.sty
+ (C:\Users\Senbuu\AppData\Local\Programs\MiKTeX\tex/latex/graphics\graphicx.sty
 Package: graphicx 2021/09/16 v1.2d Enhanced LaTeX Graphics (DPC,SPQR)
- (C:\Latex\tex/latex/graphics\keyval.sty
+ (C:\Users\Senbuu\AppData\Local\Programs\MiKTeX\tex/latex/graphics\keyval.sty
 Package: keyval 2022/05/29 v1.15 key=value parser (DPC)
 \KV@toks@=\toks16
-) (C:\Latex\tex/latex/graphics\graphics.sty
+) (C:\Users\Senbuu\AppData\Local\Programs\MiKTeX\tex/latex/graphics\graphics.sty
 Package: graphics 2022/03/10 v1.4e Standard LaTeX Graphics (DPC,SPQR)
- (C:\Latex\tex/latex/graphics\trig.sty
+ (C:\Users\Senbuu\AppData\Local\Programs\MiKTeX\tex/latex/graphics\trig.sty
 Package: trig 2021/08/11 v1.11 sin cos tan (DPC)
-) (C:\Latex\tex/latex/graphics-cfg\graphics.cfg
+) (C:\Users\Senbuu\AppData\Local\Programs\MiKTeX\tex/latex/graphics-cfg\graphics.cfg
 File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
 )
 Package graphics Info: Driver file: pdftex.def on input line 107.
- (C:\Latex\tex/latex/graphics-def\pdftex.def
+ (C:\Users\Senbuu\AppData\Local\Programs\MiKTeX\tex/latex/graphics-def\pdftex.def
 File: pdftex.def 2022/09/22 v1.2b Graphics/color driver for pdftex
 ))
 \Gin@req@height=\dimen142
 \Gin@req@width=\dimen143
-) (C:\Latex\tex/latex/base\ifthen.sty
+) (C:\Users\Senbuu\AppData\Local\Programs\MiKTeX\tex/latex/base\ifthen.sty
 Package: ifthen 2022/04/13 v1.1d Standard LaTeX ifthen package (DPC)
 )
 \c@r@tfl@t=\count195
@@ -57,13 +57,13 @@ Package: ifthen 2022/04/13 v1.1d Standard LaTeX ifthen package (DPC)
 \rotFPbot=\skip53
 \rot@float@box=\box51
 \rot@mess@toks=\toks17
-) (C:\Latex\tex/latex/tools\hhline.sty
+) (C:\Users\Senbuu\AppData\Local\Programs\MiKTeX\tex/latex/tools\hhline.sty
 Package: hhline 2020/01/04 v2.04 Table rule package (DPC)
-) (C:\Latex\tex/latex/geometry\geometry.sty
+) (C:\Users\Senbuu\AppData\Local\Programs\MiKTeX\tex/latex/geometry\geometry.sty
 Package: geometry 2020/01/02 v5.9 Page Geometry
- (C:\Latex\tex/generic/iftex\ifvtex.sty
+ (C:\Users\Senbuu\AppData\Local\Programs\MiKTeX\tex/generic/iftex\ifvtex.sty
 Package: ifvtex 2019/10/25 v1.7 ifvtex legacy package. Use iftex instead.
- (C:\Latex\tex/generic/iftex\iftex.sty
+ (C:\Users\Senbuu\AppData\Local\Programs\MiKTeX\tex/generic/iftex\iftex.sty
 Package: iftex 2022/02/03 v1.0f TeX engine tests
 ))
 \Gm@cnth=\count196
@@ -78,12 +78,12 @@ Package: iftex 2022/02/03 v1.0f TeX engine tests
 \Gm@layouthoffset=\dimen150
 \Gm@layoutvoffset=\dimen151
 \Gm@dimlist=\toks18
- (C:\Latex\tex/latex/geometry\geometry.cfg)) (C:\Latex\tex/latex/titling\titling.sty
+ (C:\Users\Senbuu\AppData\Local\Programs\MiKTeX\tex/latex/geometry\geometry.cfg)) (C:\Users\Senbuu\AppData\Local\Programs\MiKTeX\tex/latex/titling\titling.sty
 Package: titling 2009/09/04 v2.1d maketitle typesetting
 \thanksmarkwidth=\skip54
 \thanksmargin=\skip55
 \droptitle=\skip56
-) (C:\Latex\tex/latex/booktabs\booktabs.sty
+) (C:\Users\Senbuu\AppData\Local\Programs\MiKTeX\tex/latex/booktabs\booktabs.sty
 Package: booktabs 2020/01/12 v1.61803398 Publication quality tables
 \heavyrulewidth=\dimen152
 \lightrulewidth=\dimen153
@@ -102,18 +102,18 @@ Package: booktabs 2020/01/12 v1.61803398 Publication quality tables
 \@thisruleclass=\count267
 \@lastruleclass=\count268
 \@thisrulewidth=\dimen164
-) (C:\Latex\tex/latex/natbib\natbib.sty
+) (C:\Users\Senbuu\AppData\Local\Programs\MiKTeX\tex/latex/natbib\natbib.sty
 Package: natbib 2010/09/13 8.31b (PWD, AO)
 \bibhang=\skip57
 \bibsep=\skip58
 LaTeX Info: Redefining \cite on input line 694.
 \c@NAT@ctr=\count269
-) (C:\Latex\tex/latex/url\url.sty
+) (C:\Users\Senbuu\AppData\Local\Programs\MiKTeX\tex/latex/url\url.sty
 \Urlmuskip=\muskip16
 Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
-) (C:\Latex\tex/latex/microtype\microtype.sty
+) (C:\Users\Senbuu\AppData\Local\Programs\MiKTeX\tex/latex/microtype\microtype.sty
 Package: microtype 2023/03/13 v3.1a Micro-typographical refinements (RS)
- (C:\Latex\tex/latex/etoolbox\etoolbox.sty
+ (C:\Users\Senbuu\AppData\Local\Programs\MiKTeX\tex/latex/etoolbox\etoolbox.sty
 Package: etoolbox 2020/10/05 v2.5k e-TeX tools for LaTeX (JAW)
 \etb@tempcnta=\count270
 )
@@ -128,33 +128,33 @@ LaTeX Info: Redefining \textls on input line 1368.
 \MT@outer@kern=\dimen165
 LaTeX Info: Redefining \textmicrotypecontext on input line 1988.
 \MT@listname@count=\count272
- (C:\Latex\tex/latex/microtype\microtype-pdftex.def
+ (C:\Users\Senbuu\AppData\Local\Programs\MiKTeX\tex/latex/microtype\microtype-pdftex.def
 File: microtype-pdftex.def 2023/03/13 v3.1a Definitions specific to pdftex (RS)
 LaTeX Info: Redefining \lsstyle on input line 902.
 LaTeX Info: Redefining \lslig on input line 902.
 \MT@outer@space=\skip59
 )
 Package microtype Info: Loading configuration file microtype.cfg.
- (C:\Latex\tex/latex/microtype\microtype.cfg
+ (C:\Users\Senbuu\AppData\Local\Programs\MiKTeX\tex/latex/microtype\microtype.cfg
 File: microtype.cfg 2023/03/13 v3.1a microtype main configuration file (RS)
-)) (C:\Latex\tex/latex/base\inputenc.sty
+)) (C:\Users\Senbuu\AppData\Local\Programs\MiKTeX\tex/latex/base\inputenc.sty
 Package: inputenc 2021/02/14 v1.3d Input encoding file
 \inpenc@prehook=\toks21
 \inpenc@posthook=\toks22
- (C:\Latex\tex/latex/ucs\utf8x.def
+ (C:\Users\Senbuu\AppData\Local\Programs\MiKTeX\tex/latex/ucs\utf8x.def
 File: utf8x.def 2022/08/07 UCS: Input encoding UTF-8
 
 
 Package ucs Info: utf8x disabled, assuming standard utf8 processing
 (ucs)             load ucs package to force utf8x processing.
 
-(C:\Latex\tex/latex/base\utf8.def
+(C:\Users\Senbuu\AppData\Local\Programs\MiKTeX\tex/latex/base\utf8.def
 File: utf8.def 2022/06/07 v1.3c UTF-8 support
 Now handling font encoding OML ...
 ... no UTF-8 mapping file for font encoding OML
 Now handling font encoding OMS ...
 ... processing UTF-8 mapping file for font encoding OMS
- (C:\Latex\tex/latex/base\omsenc.dfu
+ (C:\Users\Senbuu\AppData\Local\Programs\MiKTeX\tex/latex/base\omsenc.dfu
 File: omsenc.dfu 2022/06/07 v1.3c UTF-8 support
    defining Unicode char U+00A7 (decimal 167)
    defining Unicode char U+00B6 (decimal 182)
@@ -165,7 +165,7 @@ File: omsenc.dfu 2022/06/07 v1.3c UTF-8 support
 )
 Now handling font encoding OT1 ...
 ... processing UTF-8 mapping file for font encoding OT1
- (C:\Latex\tex/latex/base\ot1enc.dfu
+ (C:\Users\Senbuu\AppData\Local\Programs\MiKTeX\tex/latex/base\ot1enc.dfu
 File: ot1enc.dfu 2022/06/07 v1.3c UTF-8 support
    defining Unicode char U+00A0 (decimal 160)
    defining Unicode char U+00A1 (decimal 161)
@@ -213,7 +213,7 @@ File: ot1enc.dfu 2022/06/07 v1.3c UTF-8 support
 )
 Now handling font encoding T1 ...
 ... processing UTF-8 mapping file for font encoding T1
- (C:\Latex\tex/latex/base\t1enc.dfu
+ (C:\Users\Senbuu\AppData\Local\Programs\MiKTeX\tex/latex/base\t1enc.dfu
 File: t1enc.dfu 2022/06/07 v1.3c UTF-8 support
    defining Unicode char U+00A0 (decimal 160)
    defining Unicode char U+00A1 (decimal 161)
@@ -492,7 +492,7 @@ File: t1enc.dfu 2022/06/07 v1.3c UTF-8 support
 )
 Now handling font encoding TS1 ...
 ... processing UTF-8 mapping file for font encoding TS1
- (C:\Latex\tex/latex/base\ts1enc.dfu
+ (C:\Users\Senbuu\AppData\Local\Programs\MiKTeX\tex/latex/base\ts1enc.dfu
 File: ts1enc.dfu 2022/06/07 v1.3c UTF-8 support
    defining Unicode char U+00A2 (decimal 162)
    defining Unicode char U+00A3 (decimal 163)
@@ -584,13 +584,13 @@ Now handling font encoding U ...
    defining Unicode char U+2122 (decimal 8482)
    defining Unicode char U+2423 (decimal 9251)
    defining Unicode char U+FEFF (decimal 65279)
-))) (C:\Latex\tex/latex/xcolor\xcolor.sty
+))) (C:\Users\Senbuu\AppData\Local\Programs\MiKTeX\tex/latex/xcolor\xcolor.sty
 Package: xcolor 2022/06/12 v2.14 LaTeX color extensions (UK)
- (C:\Latex\tex/latex/graphics-cfg\color.cfg
+ (C:\Users\Senbuu\AppData\Local\Programs\MiKTeX\tex/latex/graphics-cfg\color.cfg
 File: color.cfg 2016/01/02 v1.6 sample color configuration
 )
 Package xcolor Info: Driver file: pdftex.def on input line 227.
- (C:\Latex\tex/latex/graphics\mathcolor.ltx)
+ (C:\Users\Senbuu\AppData\Local\Programs\MiKTeX\tex/latex/graphics\mathcolor.ltx)
 Package xcolor Info: Model `cmy' substituted by `cmy0' on input line 1353.
 Package xcolor Info: Model `hsb' substituted by `rgb' on input line 1357.
 Package xcolor Info: Model `RGB' extended on input line 1369.
@@ -600,19 +600,19 @@ Package xcolor Info: Model `tHsb' substituted by `hsb' on input line 1373.
 Package xcolor Info: Model `HSB' substituted by `hsb' on input line 1374.
 Package xcolor Info: Model `Gray' substituted by `gray' on input line 1375.
 Package xcolor Info: Model `wave' substituted by `hsb' on input line 1376.
-) (C:\Latex\tex/latex/datetime2\datetime2.sty
+) (C:\Users\Senbuu\AppData\Local\Programs\MiKTeX\tex/latex/datetime2\datetime2.sty
 Package: datetime2 2021/03/21 v1.5.7 (NLCT) date and time formats
- (C:\Latex\tex/latex/tracklang\tracklang.sty
+ (C:\Users\Senbuu\AppData\Local\Programs\MiKTeX\tex/latex/tracklang\tracklang.sty
 Package: tracklang 2022/12/13 v1.6.1 (NLCT) Track Languages
- (C:\Latex\tex/generic/tracklang\tracklang.tex)) (C:\Latex\tex/latex/xkeyval\xkeyval.sty
+ (C:\Users\Senbuu\AppData\Local\Programs\MiKTeX\tex/generic/tracklang\tracklang.tex)) (C:\Users\Senbuu\AppData\Local\Programs\MiKTeX\tex/latex/xkeyval\xkeyval.sty
 Package: xkeyval 2022/06/16 v2.9 package option processing (HA)
- (C:\Latex\tex/generic/xkeyval\xkeyval.tex (C:\Latex\tex/generic/xkeyval\xkvutils.tex
+ (C:\Users\Senbuu\AppData\Local\Programs\MiKTeX\tex/generic/xkeyval\xkeyval.tex (C:\Users\Senbuu\AppData\Local\Programs\MiKTeX\tex/generic/xkeyval\xkvutils.tex
 \XKV@toks=\toks23
 \XKV@tempa@toks=\toks24
 )
 \XKV@depth=\count273
 File: xkeyval.tex 2014/12/03 v2.7a key=value parser (HA)
-))) (C:\Latex\tex/latex/enumitem\enumitem.sty
+))) (C:\Users\Senbuu\AppData\Local\Programs\MiKTeX\tex/latex/enumitem\enumitem.sty
 Package: enumitem 2019/06/20 v3.9 Customized lists
 \labelindent=\skip60
 \enit@outerparindent=\dimen166
@@ -620,9 +620,9 @@ Package: enumitem 2019/06/20 v3.9 Customized lists
 \enit@inbox=\box53
 \enit@count@id=\count274
 \enitdp@description=\count275
-) (C:\Latex\tex/latex/caption\caption.sty
+) (C:\Users\Senbuu\AppData\Local\Programs\MiKTeX\tex/latex/caption\caption.sty
 Package: caption 2023/03/12 v3.6j Customizing captions (AR)
- (C:\Latex\tex/latex/caption\caption3.sty
+ (C:\Users\Senbuu\AppData\Local\Programs\MiKTeX\tex/latex/caption\caption3.sty
 Package: caption3 2023/03/12 v2.4 caption3 kernel (AR)
 \caption@tempdima=\dimen167
 \captionmargin=\dimen168
@@ -637,11 +637,11 @@ Package caption Info: Standard document class detected.
 \c@caption@flags=\count276
 \c@continuedfloat=\count277
 Package caption Info: rotating package is loaded.
-) (C:\Latex\tex/latex/setspace\setspace.sty
+) (C:\Users\Senbuu\AppData\Local\Programs\MiKTeX\tex/latex/setspace\setspace.sty
 Package: setspace 2022/12/04 v6.7b set line spacing
-) (C:\Latex\tex/latex/algorithmicx\algpseudocode.sty
+) (C:\Users\Senbuu\AppData\Local\Programs\MiKTeX\tex/latex/algorithmicx\algpseudocode.sty
 Package: algpseudocode 
- (C:\Latex\tex/latex/algorithmicx\algorithmicx.sty
+ (C:\Users\Senbuu\AppData\Local\Programs\MiKTeX\tex/latex/algorithmicx\algorithmicx.sty
 Package: algorithmicx 2005/04/27 v1.2 Algorithmicx
 
 Document Style algorithmicx 1.2 - a greatly improved `algorithmic' style
@@ -657,9 +657,9 @@ Document Style algorithmicx 1.2 - a greatly improved `algorithmic' style
 \ALG@tmplength=\skip63
 )
 Document Style - pseudocode environments for use with the `algorithmicx' style
-) (C:\Latex\tex/latex/algorithms\algorithm.sty
+) (C:\Users\Senbuu\AppData\Local\Programs\MiKTeX\tex/latex/algorithms\algorithm.sty
 Package: algorithm 2009/08/24 v0.1 Document Style `algorithm' - floating environment
- (C:\Latex\tex/latex/float\float.sty
+ (C:\Users\Senbuu\AppData\Local\Programs\MiKTeX\tex/latex/float\float.sty
 Package: float 2001/11/08 v1.3d Float enhancements (AL)
 \c@float@type=\count285
 \float@exts=\toks26
@@ -669,21 +669,21 @@ Package: float 2001/11/08 v1.3d Float enhancements (AL)
 )
 \@float@every@algorithm=\toks28
 \c@algorithm=\count286
-) (C:\Latex\tex/latex/amsmath\amsmath.sty
+) (C:\Users\Senbuu\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amsmath.sty
 Package: amsmath 2022/04/08 v2.17n AMS math features
 \@mathmargin=\skip64
 
 For additional information on amsmath, use the `?' option.
-(C:\Latex\tex/latex/amsmath\amstext.sty
+(C:\Users\Senbuu\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amstext.sty
 Package: amstext 2021/08/26 v2.01 AMS text
- (C:\Latex\tex/latex/amsmath\amsgen.sty
+ (C:\Users\Senbuu\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amsgen.sty
 File: amsgen.sty 1999/11/30 v2.0 generic functions
 \@emptytoks=\toks29
 \ex@=\dimen175
-)) (C:\Latex\tex/latex/amsmath\amsbsy.sty
+)) (C:\Users\Senbuu\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amsbsy.sty
 Package: amsbsy 1999/11/29 v1.2d Bold Symbols
 \pmbraise@=\dimen176
-) (C:\Latex\tex/latex/amsmath\amsopn.sty
+) (C:\Users\Senbuu\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amsopn.sty
 Package: amsopn 2022/04/08 v2.04 operator names
 )
 \inf@bad=\count287
@@ -733,46 +733,46 @@ LaTeX Info: Redefining \Relbar on input line 971.
 \mathdisplay@stack=\toks33
 LaTeX Info: Redefining \[ on input line 2953.
 LaTeX Info: Redefining \] on input line 2954.
-) (C:\Latex\tex/latex/amsfonts\amsfonts.sty
+) (C:\Users\Senbuu\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\amsfonts.sty
 Package: amsfonts 2013/01/14 v3.01 Basic AMSFonts support
 \symAMSa=\mathgroup4
 \symAMSb=\mathgroup5
 LaTeX Font Info:    Redeclaring math symbol \hbar on input line 98.
 LaTeX Font Info:    Overwriting math alphabet `\mathfrak' in version `bold'
 (Font)                  U/euf/m/n --> U/euf/b/n on input line 106.
-) (C:\Latex\tex/latex/amsfonts\amssymb.sty
+) (C:\Users\Senbuu\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\amssymb.sty
 Package: amssymb 2013/01/14 v3.01 AMS font symbols
-) (C:\Latex\tex/latex/hyperref\hyperref.sty
+) (C:\Users\Senbuu\AppData\Local\Programs\MiKTeX\tex/latex/hyperref\hyperref.sty
 Package: hyperref 2023-04-22 v7.00x Hypertext links for LaTeX
- (C:\Latex\tex/generic/ltxcmds\ltxcmds.sty
+ (C:\Users\Senbuu\AppData\Local\Programs\MiKTeX\tex/generic/ltxcmds\ltxcmds.sty
 Package: ltxcmds 2020-05-10 v1.25 LaTeX kernel commands for general use (HO)
-) (C:\Latex\tex/generic/pdftexcmds\pdftexcmds.sty
+) (C:\Users\Senbuu\AppData\Local\Programs\MiKTeX\tex/generic/pdftexcmds\pdftexcmds.sty
 Package: pdftexcmds 2020-06-27 v0.33 Utility functions of pdfTeX for LuaTeX (HO)
- (C:\Latex\tex/generic/infwarerr\infwarerr.sty
+ (C:\Users\Senbuu\AppData\Local\Programs\MiKTeX\tex/generic/infwarerr\infwarerr.sty
 Package: infwarerr 2019/12/03 v1.5 Providing info/warning/error messages (HO)
 )
 Package pdftexcmds Info: \pdf@primitive is available.
 Package pdftexcmds Info: \pdf@ifprimitive is available.
 Package pdftexcmds Info: \pdfdraftmode found.
-) (C:\Latex\tex/latex/kvsetkeys\kvsetkeys.sty
+) (C:\Users\Senbuu\AppData\Local\Programs\MiKTeX\tex/latex/kvsetkeys\kvsetkeys.sty
 Package: kvsetkeys 2022-10-05 v1.19 Key value parser (HO)
-) (C:\Latex\tex/generic/kvdefinekeys\kvdefinekeys.sty
+) (C:\Users\Senbuu\AppData\Local\Programs\MiKTeX\tex/generic/kvdefinekeys\kvdefinekeys.sty
 Package: kvdefinekeys 2019-12-19 v1.6 Define keys (HO)
-) (C:\Latex\tex/generic/pdfescape\pdfescape.sty
+) (C:\Users\Senbuu\AppData\Local\Programs\MiKTeX\tex/generic/pdfescape\pdfescape.sty
 Package: pdfescape 2019/12/09 v1.15 Implements pdfTeX's escape features (HO)
-) (C:\Latex\tex/latex/hycolor\hycolor.sty
+) (C:\Users\Senbuu\AppData\Local\Programs\MiKTeX\tex/latex/hycolor\hycolor.sty
 Package: hycolor 2020-01-27 v1.10 Color options for hyperref/bookmark (HO)
-) (C:\Latex\tex/latex/letltxmacro\letltxmacro.sty
+) (C:\Users\Senbuu\AppData\Local\Programs\MiKTeX\tex/latex/letltxmacro\letltxmacro.sty
 Package: letltxmacro 2019/12/03 v1.6 Let assignment for LaTeX macros (HO)
-) (C:\Latex\tex/latex/auxhook\auxhook.sty
+) (C:\Users\Senbuu\AppData\Local\Programs\MiKTeX\tex/latex/auxhook\auxhook.sty
 Package: auxhook 2019-12-17 v1.6 Hooks for auxiliary files (HO)
-) (C:\Latex\tex/latex/hyperref\nameref.sty
+) (C:\Users\Senbuu\AppData\Local\Programs\MiKTeX\tex/latex/hyperref\nameref.sty
 Package: nameref 2022-05-17 v2.50 Cross-referencing by name of section
- (C:\Latex\tex/latex/refcount\refcount.sty
+ (C:\Users\Senbuu\AppData\Local\Programs\MiKTeX\tex/latex/refcount\refcount.sty
 Package: refcount 2019/12/15 v3.6 Data extraction from label references (HO)
-) (C:\Latex\tex/generic/gettitlestring\gettitlestring.sty
+) (C:\Users\Senbuu\AppData\Local\Programs\MiKTeX\tex/generic/gettitlestring\gettitlestring.sty
 Package: gettitlestring 2019/12/15 v1.6 Cleanup title references (HO)
- (C:\Latex\tex/latex/kvoptions\kvoptions.sty
+ (C:\Users\Senbuu\AppData\Local\Programs\MiKTeX\tex/latex/kvoptions\kvoptions.sty
 Package: kvoptions 2022-06-15 v3.15 Key value format for package options (HO)
 ))
 \c@section@level=\count299
@@ -780,15 +780,15 @@ Package: kvoptions 2022-06-15 v3.15 Key value format for package options (HO)
 \@linkdim=\dimen184
 \Hy@linkcounter=\count300
 \Hy@pagecounter=\count301
- (C:\Latex\tex/latex/hyperref\pd1enc.def
+ (C:\Users\Senbuu\AppData\Local\Programs\MiKTeX\tex/latex/hyperref\pd1enc.def
 File: pd1enc.def 2023-04-22 v7.00x Hyperref: PDFDocEncoding definition (HO)
 Now handling font encoding PD1 ...
 ... no UTF-8 mapping file for font encoding PD1
-) (C:\Latex\tex/generic/intcalc\intcalc.sty
+) (C:\Users\Senbuu\AppData\Local\Programs\MiKTeX\tex/generic/intcalc\intcalc.sty
 Package: intcalc 2019/12/15 v1.3 Expandable calculations with integers (HO)
 )
 \Hy@SavedSpaceFactor=\count302
- (C:\Latex\tex/latex/hyperref\puenc.def
+ (C:\Users\Senbuu\AppData\Local\Programs\MiKTeX\tex/latex/hyperref\puenc.def
 File: puenc.def 2023-04-22 v7.00x Hyperref: PDF Unicode definition (HO)
 Now handling font encoding PU ...
 ... no UTF-8 mapping file for font encoding PU
@@ -803,9 +803,9 @@ Package hyperref Info: Bookmarks ON on input line 4449.
 \c@Hy@tempcnt=\count303
 LaTeX Info: Redefining \url on input line 4787.
 \XeTeXLinkMargin=\dimen185
- (C:\Latex\tex/generic/bitset\bitset.sty
+ (C:\Users\Senbuu\AppData\Local\Programs\MiKTeX\tex/generic/bitset\bitset.sty
 Package: bitset 2019/12/09 v1.3 Handle bit-vector datatype (HO)
- (C:\Latex\tex/generic/bigintcalc\bigintcalc.sty
+ (C:\Users\Senbuu\AppData\Local\Programs\MiKTeX\tex/generic/bigintcalc\bigintcalc.sty
 Package: bigintcalc 2019/12/15 v1.5 Expandable calculations on big integers (HO)
 ))
 \Fld@menulength=\count304
@@ -818,7 +818,7 @@ Package hyperref Info: backreferencing OFF on input line 6081.
 Package hyperref Info: Link coloring OFF on input line 6086.
 Package hyperref Info: Link coloring with OCG OFF on input line 6091.
 Package hyperref Info: PDF/A mode OFF on input line 6096.
- (C:\Latex\tex/latex/base\atbegshi-ltx.sty
+ (C:\Users\Senbuu\AppData\Local\Programs\MiKTeX\tex/latex/base\atbegshi-ltx.sty
 Package: atbegshi-ltx 2021/01/10 v1.0c Emulation of the original atbegshi
 package with kernel methods
 )
@@ -827,40 +827,40 @@ package with kernel methods
 \c@Hfootnote=\count307
 )
 Package hyperref Info: Driver (autodetected): hpdftex.
- (C:\Latex\tex/latex/hyperref\hpdftex.def
+ (C:\Users\Senbuu\AppData\Local\Programs\MiKTeX\tex/latex/hyperref\hpdftex.def
 File: hpdftex.def 2023-04-22 v7.00x Hyperref driver for pdfTeX
- (C:\Latex\tex/latex/base\atveryend-ltx.sty
+ (C:\Users\Senbuu\AppData\Local\Programs\MiKTeX\tex/latex/base\atveryend-ltx.sty
 Package: atveryend-ltx 2020/08/19 v1.0a Emulation of the original atveryend package
 with kernel methods
 )
 \Fld@listcount=\count308
 \c@bookmark@seq@number=\count309
- (C:\Latex\tex/latex/rerunfilecheck\rerunfilecheck.sty
+ (C:\Users\Senbuu\AppData\Local\Programs\MiKTeX\tex/latex/rerunfilecheck\rerunfilecheck.sty
 Package: rerunfilecheck 2022-07-10 v1.10 Rerun checks for auxiliary files (HO)
- (C:\Latex\tex/generic/uniquecounter\uniquecounter.sty
+ (C:\Users\Senbuu\AppData\Local\Programs\MiKTeX\tex/generic/uniquecounter\uniquecounter.sty
 Package: uniquecounter 2019/12/15 v1.4 Provide unlimited unique counter (HO)
 )
 Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 285.
 )
 \Hy@SectionHShift=\skip67
-) (C:\Latex\tex/latex/pgfgantt\pgfgantt.sty
+) (C:\Users\Senbuu\AppData\Local\Programs\MiKTeX\tex/latex/pgfgantt\pgfgantt.sty
 Package: pgfgantt 2018/01/10 v5.0 Draw Gantt diagrams with TikZ
- (C:\Latex\tex/latex/pgf/frontendlayer\tikz.sty (C:\Latex\tex/latex/pgf/basiclayer\pgf.sty (C:\Latex\tex/latex/pgf/utilities\pgfrcs.sty (C:\Latex\tex/generic/pgf/utilities\pgfutil-common.tex
+ (C:\Users\Senbuu\AppData\Local\Programs\MiKTeX\tex/latex/pgf/frontendlayer\tikz.sty (C:\Users\Senbuu\AppData\Local\Programs\MiKTeX\tex/latex/pgf/basiclayer\pgf.sty (C:\Users\Senbuu\AppData\Local\Programs\MiKTeX\tex/latex/pgf/utilities\pgfrcs.sty (C:\Users\Senbuu\AppData\Local\Programs\MiKTeX\tex/generic/pgf/utilities\pgfutil-common.tex
 \pgfutil@everybye=\toks34
 \pgfutil@tempdima=\dimen188
 \pgfutil@tempdimb=\dimen189
-) (C:\Latex\tex/generic/pgf/utilities\pgfutil-latex.def
+) (C:\Users\Senbuu\AppData\Local\Programs\MiKTeX\tex/generic/pgf/utilities\pgfutil-latex.def
 \pgfutil@abb=\box58
-) (C:\Latex\tex/generic/pgf/utilities\pgfrcs.code.tex (C:\Latex\tex/generic/pgf\pgf.revision.tex)
+) (C:\Users\Senbuu\AppData\Local\Programs\MiKTeX\tex/generic/pgf/utilities\pgfrcs.code.tex (C:\Users\Senbuu\AppData\Local\Programs\MiKTeX\tex/generic/pgf\pgf.revision.tex)
 Package: pgfrcs 2023-01-15 v3.1.10 (3.1.10)
 ))
 Package: pgf 2023-01-15 v3.1.10 (3.1.10)
- (C:\Latex\tex/latex/pgf/basiclayer\pgfcore.sty (C:\Latex\tex/latex/pgf/systemlayer\pgfsys.sty (C:\Latex\tex/generic/pgf/systemlayer\pgfsys.code.tex
+ (C:\Users\Senbuu\AppData\Local\Programs\MiKTeX\tex/latex/pgf/basiclayer\pgfcore.sty (C:\Users\Senbuu\AppData\Local\Programs\MiKTeX\tex/latex/pgf/systemlayer\pgfsys.sty (C:\Users\Senbuu\AppData\Local\Programs\MiKTeX\tex/generic/pgf/systemlayer\pgfsys.code.tex
 Package: pgfsys 2023-01-15 v3.1.10 (3.1.10)
- (C:\Latex\tex/generic/pgf/utilities\pgfkeys.code.tex
+ (C:\Users\Senbuu\AppData\Local\Programs\MiKTeX\tex/generic/pgf/utilities\pgfkeys.code.tex
 \pgfkeys@pathtoks=\toks35
 \pgfkeys@temptoks=\toks36
- (C:\Latex\tex/generic/pgf/utilities\pgfkeyslibraryfiltered.code.tex
+ (C:\Users\Senbuu\AppData\Local\Programs\MiKTeX\tex/generic/pgf/utilities\pgfkeyslibraryfiltered.code.tex
 \pgfkeys@tmptoks=\toks37
 ))
 \pgf@x=\dimen190
@@ -883,32 +883,32 @@ Package: pgfsys 2023-01-15 v3.1.10 (3.1.10)
 \t@pgf@tokb=\toks39
 \t@pgf@tokc=\toks40
 \pgf@sys@id@count=\count314
- (C:\Latex\tex/generic/pgf/systemlayer\pgf.cfg
+ (C:\Users\Senbuu\AppData\Local\Programs\MiKTeX\tex/generic/pgf/systemlayer\pgf.cfg
 File: pgf.cfg 2023-01-15 v3.1.10 (3.1.10)
 )
 Driver file for pgf: pgfsys-pdftex.def
- (C:\Latex\tex/generic/pgf/systemlayer\pgfsys-pdftex.def
+ (C:\Users\Senbuu\AppData\Local\Programs\MiKTeX\tex/generic/pgf/systemlayer\pgfsys-pdftex.def
 File: pgfsys-pdftex.def 2023-01-15 v3.1.10 (3.1.10)
- (C:\Latex\tex/generic/pgf/systemlayer\pgfsys-common-pdf.def
+ (C:\Users\Senbuu\AppData\Local\Programs\MiKTeX\tex/generic/pgf/systemlayer\pgfsys-common-pdf.def
 File: pgfsys-common-pdf.def 2023-01-15 v3.1.10 (3.1.10)
-))) (C:\Latex\tex/generic/pgf/systemlayer\pgfsyssoftpath.code.tex
+))) (C:\Users\Senbuu\AppData\Local\Programs\MiKTeX\tex/generic/pgf/systemlayer\pgfsyssoftpath.code.tex
 File: pgfsyssoftpath.code.tex 2023-01-15 v3.1.10 (3.1.10)
 \pgfsyssoftpath@smallbuffer@items=\count315
 \pgfsyssoftpath@bigbuffer@items=\count316
-) (C:\Latex\tex/generic/pgf/systemlayer\pgfsysprotocol.code.tex
+) (C:\Users\Senbuu\AppData\Local\Programs\MiKTeX\tex/generic/pgf/systemlayer\pgfsysprotocol.code.tex
 File: pgfsysprotocol.code.tex 2023-01-15 v3.1.10 (3.1.10)
-)) (C:\Latex\tex/generic/pgf/basiclayer\pgfcore.code.tex
+)) (C:\Users\Senbuu\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcore.code.tex
 Package: pgfcore 2023-01-15 v3.1.10 (3.1.10)
- (C:\Latex\tex/generic/pgf/math\pgfmath.code.tex (C:\Latex\tex/generic/pgf/math\pgfmathutil.code.tex) (C:\Latex\tex/generic/pgf/math\pgfmathparser.code.tex
+ (C:\Users\Senbuu\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmath.code.tex (C:\Users\Senbuu\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathutil.code.tex) (C:\Users\Senbuu\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathparser.code.tex
 \pgfmath@dimen=\dimen256
 \pgfmath@count=\count317
 \pgfmath@box=\box59
 \pgfmath@toks=\toks41
 \pgfmath@stack@operand=\toks42
 \pgfmath@stack@operation=\toks43
-) (C:\Latex\tex/generic/pgf/math\pgfmathfunctions.code.tex) (C:\Latex\tex/generic/pgf/math\pgfmathfunctions.basic.code.tex) (C:\Latex\tex/generic/pgf/math\pgfmathfunctions.trigonometric.code.tex) (C:\Latex\tex/generic/pgf/math\pgfmathfunctions.random.code.tex) (C:\Latex\tex/generic/pgf/math\pgfmathfunctions.comparison.code.tex) (C:\Latex\tex/generic/pgf/math\pgfmathfunctions.base.code.tex) (C:\Latex\tex/generic/pgf/math\pgfmathfunctions.round.code.tex) (C:\Latex\tex/generic/pgf/math\pgfmathfunctions.misc.code.tex) (C:\Latex\tex/generic/pgf/math\pgfmathfunctions.integerarithmetics.code.tex) (C:\Latex\tex/generic/pgf/math\pgfmathcalc.code.tex) (C:\Latex\tex/generic/pgf/math\pgfmathfloat.code.tex
+) (C:\Users\Senbuu\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathfunctions.code.tex) (C:\Users\Senbuu\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathfunctions.basic.code.tex) (C:\Users\Senbuu\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathfunctions.trigonometric.code.tex) (C:\Users\Senbuu\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathfunctions.random.code.tex) (C:\Users\Senbuu\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathfunctions.comparison.code.tex) (C:\Users\Senbuu\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathfunctions.base.code.tex) (C:\Users\Senbuu\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathfunctions.round.code.tex) (C:\Users\Senbuu\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathfunctions.misc.code.tex) (C:\Users\Senbuu\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathfunctions.integerarithmetics.code.tex) (C:\Users\Senbuu\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathcalc.code.tex) (C:\Users\Senbuu\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathfloat.code.tex
 \c@pgfmathroundto@lastzeros=\count318
-)) (C:\Latex\tex/generic/pgf/math\pgfint.code.tex) (C:\Latex\tex/generic/pgf/basiclayer\pgfcorepoints.code.tex
+)) (C:\Users\Senbuu\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfint.code.tex) (C:\Users\Senbuu\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcorepoints.code.tex
 File: pgfcorepoints.code.tex 2023-01-15 v3.1.10 (3.1.10)
 \pgf@picminx=\dimen257
 \pgf@picmaxx=\dimen258
@@ -924,75 +924,75 @@ File: pgfcorepoints.code.tex 2023-01-15 v3.1.10 (3.1.10)
 \pgf@yy=\dimen268
 \pgf@zx=\dimen269
 \pgf@zy=\dimen270
-) (C:\Latex\tex/generic/pgf/basiclayer\pgfcorepathconstruct.code.tex
+) (C:\Users\Senbuu\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcorepathconstruct.code.tex
 File: pgfcorepathconstruct.code.tex 2023-01-15 v3.1.10 (3.1.10)
 \pgf@path@lastx=\dimen271
 \pgf@path@lasty=\dimen272
-) (C:\Latex\tex/generic/pgf/basiclayer\pgfcorepathusage.code.tex
+) (C:\Users\Senbuu\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcorepathusage.code.tex
 File: pgfcorepathusage.code.tex 2023-01-15 v3.1.10 (3.1.10)
 \pgf@shorten@end@additional=\dimen273
 \pgf@shorten@start@additional=\dimen274
-) (C:\Latex\tex/generic/pgf/basiclayer\pgfcorescopes.code.tex
+) (C:\Users\Senbuu\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcorescopes.code.tex
 File: pgfcorescopes.code.tex 2023-01-15 v3.1.10 (3.1.10)
 \pgfpic=\box60
 \pgf@hbox=\box61
 \pgf@layerbox@main=\box62
 \pgf@picture@serial@count=\count319
-) (C:\Latex\tex/generic/pgf/basiclayer\pgfcoregraphicstate.code.tex
+) (C:\Users\Senbuu\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcoregraphicstate.code.tex
 File: pgfcoregraphicstate.code.tex 2023-01-15 v3.1.10 (3.1.10)
 \pgflinewidth=\dimen275
-) (C:\Latex\tex/generic/pgf/basiclayer\pgfcoretransformations.code.tex
+) (C:\Users\Senbuu\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcoretransformations.code.tex
 File: pgfcoretransformations.code.tex 2023-01-15 v3.1.10 (3.1.10)
 \pgf@pt@x=\dimen276
 \pgf@pt@y=\dimen277
 \pgf@pt@temp=\dimen278
-) (C:\Latex\tex/generic/pgf/basiclayer\pgfcorequick.code.tex
+) (C:\Users\Senbuu\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcorequick.code.tex
 File: pgfcorequick.code.tex 2023-01-15 v3.1.10 (3.1.10)
-) (C:\Latex\tex/generic/pgf/basiclayer\pgfcoreobjects.code.tex
+) (C:\Users\Senbuu\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcoreobjects.code.tex
 File: pgfcoreobjects.code.tex 2023-01-15 v3.1.10 (3.1.10)
-) (C:\Latex\tex/generic/pgf/basiclayer\pgfcorepathprocessing.code.tex
+) (C:\Users\Senbuu\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcorepathprocessing.code.tex
 File: pgfcorepathprocessing.code.tex 2023-01-15 v3.1.10 (3.1.10)
-) (C:\Latex\tex/generic/pgf/basiclayer\pgfcorearrows.code.tex
+) (C:\Users\Senbuu\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcorearrows.code.tex
 File: pgfcorearrows.code.tex 2023-01-15 v3.1.10 (3.1.10)
 \pgfarrowsep=\dimen279
-) (C:\Latex\tex/generic/pgf/basiclayer\pgfcoreshade.code.tex
+) (C:\Users\Senbuu\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcoreshade.code.tex
 File: pgfcoreshade.code.tex 2023-01-15 v3.1.10 (3.1.10)
 \pgf@max=\dimen280
 \pgf@sys@shading@range@num=\count320
 \pgf@shadingcount=\count321
-) (C:\Latex\tex/generic/pgf/basiclayer\pgfcoreimage.code.tex
+) (C:\Users\Senbuu\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcoreimage.code.tex
 File: pgfcoreimage.code.tex 2023-01-15 v3.1.10 (3.1.10)
-) (C:\Latex\tex/generic/pgf/basiclayer\pgfcoreexternal.code.tex
+) (C:\Users\Senbuu\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcoreexternal.code.tex
 File: pgfcoreexternal.code.tex 2023-01-15 v3.1.10 (3.1.10)
 \pgfexternal@startupbox=\box63
-) (C:\Latex\tex/generic/pgf/basiclayer\pgfcorelayers.code.tex
+) (C:\Users\Senbuu\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcorelayers.code.tex
 File: pgfcorelayers.code.tex 2023-01-15 v3.1.10 (3.1.10)
-) (C:\Latex\tex/generic/pgf/basiclayer\pgfcoretransparency.code.tex
+) (C:\Users\Senbuu\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcoretransparency.code.tex
 File: pgfcoretransparency.code.tex 2023-01-15 v3.1.10 (3.1.10)
-) (C:\Latex\tex/generic/pgf/basiclayer\pgfcorepatterns.code.tex
+) (C:\Users\Senbuu\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcorepatterns.code.tex
 File: pgfcorepatterns.code.tex 2023-01-15 v3.1.10 (3.1.10)
-) (C:\Latex\tex/generic/pgf/basiclayer\pgfcorerdf.code.tex
+) (C:\Users\Senbuu\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcorerdf.code.tex
 File: pgfcorerdf.code.tex 2023-01-15 v3.1.10 (3.1.10)
-))) (C:\Latex\tex/generic/pgf/modules\pgfmoduleshapes.code.tex
+))) (C:\Users\Senbuu\AppData\Local\Programs\MiKTeX\tex/generic/pgf/modules\pgfmoduleshapes.code.tex
 File: pgfmoduleshapes.code.tex 2023-01-15 v3.1.10 (3.1.10)
 \pgfnodeparttextbox=\box64
-) (C:\Latex\tex/generic/pgf/modules\pgfmoduleplot.code.tex
+) (C:\Users\Senbuu\AppData\Local\Programs\MiKTeX\tex/generic/pgf/modules\pgfmoduleplot.code.tex
 File: pgfmoduleplot.code.tex 2023-01-15 v3.1.10 (3.1.10)
-) (C:\Latex\tex/latex/pgf/compatibility\pgfcomp-version-0-65.sty
+) (C:\Users\Senbuu\AppData\Local\Programs\MiKTeX\tex/latex/pgf/compatibility\pgfcomp-version-0-65.sty
 Package: pgfcomp-version-0-65 2023-01-15 v3.1.10 (3.1.10)
 \pgf@nodesepstart=\dimen281
 \pgf@nodesepend=\dimen282
-) (C:\Latex\tex/latex/pgf/compatibility\pgfcomp-version-1-18.sty
+) (C:\Users\Senbuu\AppData\Local\Programs\MiKTeX\tex/latex/pgf/compatibility\pgfcomp-version-1-18.sty
 Package: pgfcomp-version-1-18 2023-01-15 v3.1.10 (3.1.10)
-)) (C:\Latex\tex/latex/pgf/utilities\pgffor.sty (C:\Latex\tex/latex/pgf/utilities\pgfkeys.sty (C:\Latex\tex/generic/pgf/utilities\pgfkeys.code.tex)) (C:\Latex\tex/latex/pgf/math\pgfmath.sty (C:\Latex\tex/generic/pgf/math\pgfmath.code.tex)) (C:\Latex\tex/generic/pgf/utilities\pgffor.code.tex
+)) (C:\Users\Senbuu\AppData\Local\Programs\MiKTeX\tex/latex/pgf/utilities\pgffor.sty (C:\Users\Senbuu\AppData\Local\Programs\MiKTeX\tex/latex/pgf/utilities\pgfkeys.sty (C:\Users\Senbuu\AppData\Local\Programs\MiKTeX\tex/generic/pgf/utilities\pgfkeys.code.tex)) (C:\Users\Senbuu\AppData\Local\Programs\MiKTeX\tex/latex/pgf/math\pgfmath.sty (C:\Users\Senbuu\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmath.code.tex)) (C:\Users\Senbuu\AppData\Local\Programs\MiKTeX\tex/generic/pgf/utilities\pgffor.code.tex
 Package: pgffor 2023-01-15 v3.1.10 (3.1.10)
 \pgffor@iter=\dimen283
 \pgffor@skip=\dimen284
 \pgffor@stack=\toks44
 \pgffor@toks=\toks45
-)) (C:\Latex\tex/generic/pgf/frontendlayer/tikz\tikz.code.tex
+)) (C:\Users\Senbuu\AppData\Local\Programs\MiKTeX\tex/generic/pgf/frontendlayer/tikz\tikz.code.tex
 Package: tikz 2023-01-15 v3.1.10 (3.1.10)
- (C:\Latex\tex/generic/pgf/libraries\pgflibraryplothandlers.code.tex
+ (C:\Users\Senbuu\AppData\Local\Programs\MiKTeX\tex/generic/pgf/libraries\pgflibraryplothandlers.code.tex
 File: pgflibraryplothandlers.code.tex 2023-01-15 v3.1.10 (3.1.10)
 \pgf@plot@mark@count=\count322
 \pgfplotmarksize=\dimen285
@@ -1013,37 +1013,37 @@ File: pgflibraryplothandlers.code.tex 2023-01-15 v3.1.10 (3.1.10)
 \tikznumberofchildren=\count324
 \tikznumberofcurrentchild=\count325
 \tikz@fig@count=\count326
- (C:\Latex\tex/generic/pgf/modules\pgfmodulematrix.code.tex
+ (C:\Users\Senbuu\AppData\Local\Programs\MiKTeX\tex/generic/pgf/modules\pgfmodulematrix.code.tex
 File: pgfmodulematrix.code.tex 2023-01-15 v3.1.10 (3.1.10)
 \pgfmatrixcurrentrow=\count327
 \pgfmatrixcurrentcolumn=\count328
 \pgf@matrix@numberofcolumns=\count329
 )
 \tikz@expandcount=\count330
- (C:\Latex\tex/generic/pgf/frontendlayer/tikz/libraries\tikzlibrarytopaths.code.tex
+ (C:\Users\Senbuu\AppData\Local\Programs\MiKTeX\tex/generic/pgf/frontendlayer/tikz/libraries\tikzlibrarytopaths.code.tex
 File: tikzlibrarytopaths.code.tex 2023-01-15 v3.1.10 (3.1.10)
-))) (C:\Latex\tex/generic/pgf/frontendlayer/tikz/libraries\tikzlibraryarrows.code.tex
+))) (C:\Users\Senbuu\AppData\Local\Programs\MiKTeX\tex/generic/pgf/frontendlayer/tikz/libraries\tikzlibraryarrows.code.tex
 File: tikzlibraryarrows.code.tex 2023-01-15 v3.1.10 (3.1.10)
- (C:\Latex\tex/generic/pgf/libraries\pgflibraryarrows.code.tex
+ (C:\Users\Senbuu\AppData\Local\Programs\MiKTeX\tex/generic/pgf/libraries\pgflibraryarrows.code.tex
 File: pgflibraryarrows.code.tex 2023-01-15 v3.1.10 (3.1.10)
 \arrowsize=\dimen294
-)) (C:\Latex\tex/generic/pgf/frontendlayer/tikz/libraries\tikzlibrarybackgrounds.code.tex
+)) (C:\Users\Senbuu\AppData\Local\Programs\MiKTeX\tex/generic/pgf/frontendlayer/tikz/libraries\tikzlibrarybackgrounds.code.tex
 File: tikzlibrarybackgrounds.code.tex 2023-01-15 v3.1.10 (3.1.10)
 \pgf@layerbox@background=\box69
 \pgf@layerboxsaved@background=\box70
-) (C:\Latex\tex/generic/pgf/frontendlayer/tikz/libraries\tikzlibrarycalc.code.tex
+) (C:\Users\Senbuu\AppData\Local\Programs\MiKTeX\tex/generic/pgf/frontendlayer/tikz/libraries\tikzlibrarycalc.code.tex
 File: tikzlibrarycalc.code.tex 2023-01-15 v3.1.10 (3.1.10)
-) (C:\Latex\tex/generic/pgf/frontendlayer/tikz/libraries\tikzlibrarypatterns.code.tex
+) (C:\Users\Senbuu\AppData\Local\Programs\MiKTeX\tex/generic/pgf/frontendlayer/tikz/libraries\tikzlibrarypatterns.code.tex
 File: tikzlibrarypatterns.code.tex 2023-01-15 v3.1.10 (3.1.10)
- (C:\Latex\tex/generic/pgf/libraries\pgflibrarypatterns.code.tex
+ (C:\Users\Senbuu\AppData\Local\Programs\MiKTeX\tex/generic/pgf/libraries\pgflibrarypatterns.code.tex
 File: pgflibrarypatterns.code.tex 2023-01-15 v3.1.10 (3.1.10)
-)) (C:\Latex\tex/generic/pgf/frontendlayer/tikz/libraries\tikzlibrarypositioning.code.tex
+)) (C:\Users\Senbuu\AppData\Local\Programs\MiKTeX\tex/generic/pgf/frontendlayer/tikz/libraries\tikzlibrarypositioning.code.tex
 File: tikzlibrarypositioning.code.tex 2023-01-15 v3.1.10 (3.1.10)
-) (C:\Latex\tex/generic/pgf/frontendlayer/tikz/libraries\tikzlibraryshapes.geometric.code.tex
+) (C:\Users\Senbuu\AppData\Local\Programs\MiKTeX\tex/generic/pgf/frontendlayer/tikz/libraries\tikzlibraryshapes.geometric.code.tex
 File: tikzlibraryshapes.geometric.code.tex 2023-01-15 v3.1.10 (3.1.10)
- (C:\Latex\tex/generic/pgf/libraries/shapes\pgflibraryshapes.geometric.code.tex
+ (C:\Users\Senbuu\AppData\Local\Programs\MiKTeX\tex/generic/pgf/libraries/shapes\pgflibraryshapes.geometric.code.tex
 File: pgflibraryshapes.geometric.code.tex 2023-01-15 v3.1.10 (3.1.10)
-)) (C:\Latex\tex/latex/pgf/utilities\pgfcalendar.sty (C:\Latex\tex/generic/pgf/utilities\pgfcalendar.code.tex
+)) (C:\Users\Senbuu\AppData\Local\Programs\MiKTeX\tex/latex/pgf/utilities\pgfcalendar.sty (C:\Users\Senbuu\AppData\Local\Programs\MiKTeX\tex/generic/pgf/utilities\pgfcalendar.code.tex
 File: pgfcalendar.code.tex 2023-01-15 v3.1.10 (3.1.10)
 \pgfcalendarcurrentjulian=\count331
 \pgf@cal@easter@Y=\count332
@@ -1073,13 +1073,14 @@ File: pgfcalendar.code.tex 2023-01-15 v3.1.10 (3.1.10)
 \gtt@calendar@startofweek=\count355
 \gtt@left@slot=\count356
 \gtt@right@slot=\count357
-) (C:\Latex\tex/latex/adjustbox\adjustbox.sty
+) (C:\Users\Senbuu\AppData\Local\Programs\MiKTeX\tex/latex/adjustbox\adjustbox.sty
 Package: adjustbox 2022/10/17 v1.3a Adjusting TeX boxes (trim, clip, ...)
- (C:\Latex\tex/latex/adjustbox\adjcalc.sty
+
+(C:\Users\Senbuu\AppData\Local\Programs\MiKTeX\tex/latex/adjustbox\adjcalc.sty
 Package: adjcalc 2012/05/16 v1.1 Provides advanced setlength with multiple back-ends (calc, etex, pgfmath)
-) (C:\Latex\tex/latex/adjustbox\trimclip.sty
+) (C:\Users\Senbuu\AppData\Local\Programs\MiKTeX\tex/latex/adjustbox\trimclip.sty
 Package: trimclip 2020/08/19 v1.2 Trim and clip general TeX material
- (C:\Latex\tex/latex/collectbox\collectbox.sty
+ (C:\Users\Senbuu\AppData\Local\Programs\MiKTeX\tex/latex/collectbox\collectbox.sty
 Package: collectbox 2022/10/17 v0.4c Collect macro arguments as boxes
 \collectedbox=\box71
 )
@@ -1088,7 +1089,7 @@ Package: collectbox 2022/10/17 v0.4c Collect macro arguments as boxes
 \tc@urx=\dimen297
 \tc@ury=\dimen298
 Package trimclip Info: Using driver 'tc-pdftex.def'.
- (C:\Latex\tex/latex/adjustbox\tc-pdftex.def
+ (C:\Users\Senbuu\AppData\Local\Programs\MiKTeX\tex/latex/adjustbox\tc-pdftex.def
 File: tc-pdftex.def 2019/01/04 v2.2 Clipping driver for pdftex
 ))
 \adjbox@Width=\dimen299
@@ -1099,16 +1100,16 @@ File: tc-pdftex.def 2019/01/04 v2.2 Clipping driver for pdftex
 \adjbox@pheight=\dimen304
 \adjbox@pdepth=\dimen305
 \adjbox@ptotalheight=\dimen306
- (C:\Latex\tex/latex/ifoddpage\ifoddpage.sty
+ (C:\Users\Senbuu\AppData\Local\Programs\MiKTeX\tex/latex/ifoddpage\ifoddpage.sty
 Package: ifoddpage 2022/10/18 v1.2 Conditionals for odd/even page detection
 \c@checkoddpage=\count358
-) (C:\Latex\tex/latex/varwidth\varwidth.sty
+) (C:\Users\Senbuu\AppData\Local\Programs\MiKTeX\tex/latex/varwidth\varwidth.sty
 Package: varwidth 2009/03/30 ver 0.92;  Variable-width minipages
 \@vwid@box=\box72
 \sift@deathcycles=\count359
 \@vwid@loff=\dimen307
 \@vwid@roff=\dimen308
-)) (C:\Latex\tex/latex/tools\multicol.sty
+)) (C:\Users\Senbuu\AppData\Local\Programs\MiKTeX\tex/latex/tools\multicol.sty
 Package: multicol 2021/11/30 v1.9d multicolumn formatting (FMi)
 \c@tracingmulticols=\count360
 \mult@box=\box73
@@ -1176,7 +1177,7 @@ Package: multicol 2021/11/30 v1.9d multicolumn formatting (FMi)
 \mult@nat@firstbox=\box116
 \colbreak@box=\box117
 \mc@col@check@num=\count369
-) (C:\Latex\tex/latex/psnfss\mathptmx.sty
+) (C:\Users\Senbuu\AppData\Local\Programs\MiKTeX\tex/latex/psnfss\mathptmx.sty
 Package: mathptmx 2020/03/25 PSNFSS-v9.3 Times w/ Math, improved (SPQR, WaS) 
 LaTeX Font Info:    Redeclaring symbol font `operators' on input line 28.
 LaTeX Font Info:    Overwriting symbol font `operators' in version `normal'
@@ -1211,7 +1212,7 @@ LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `normal'
 LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `bold'
 (Font)                  OT1/cmr/bx/it --> OT1/ptm/m/it on input line 35.
 LaTeX Info: Redefining \hbar on input line 50.
-) (C:\Latex\tex/latex/titlesec\titlesec.sty
+) (C:\Users\Senbuu\AppData\Local\Programs\MiKTeX\tex/latex/titlesec\titlesec.sty
 Package: titlesec 2021/07/05 v2.14 Sectioning titles
 \ttl@box=\box118
 \beforetitleunit=\skip70
@@ -1222,9 +1223,9 @@ Package: titlesec 2021/07/05 v2.14 Sectioning titles
 \titlewidth=\dimen320
 \titlewidthlast=\dimen321
 \titlewidthfirst=\dimen322
-) (C:\Latex\tex/latex/import\import.sty
+) (C:\Users\Senbuu\AppData\Local\Programs\MiKTeX\tex/latex/import\import.sty
 Package: import 2020/04/01  v 6.2
-) (C:\Latex\tex/latex/tools\bm.sty
+) (C:\Users\Senbuu\AppData\Local\Programs\MiKTeX\tex/latex/tools\bm.sty
 Package: bm 2022/01/05 v1.2f Bold Symbol Support (DPC/FMi)
 Package bm Info: No bold for \OT1/ztmcm/m/n, using \pmb.
 Package bm Info: No bold for \OML/ztmcm/m/it, using \pmb.
@@ -1234,34 +1235,34 @@ Package bm Info: No bold for \U/msa/m/n, using \pmb.
 Package bm Info: No bold for \U/msb/m/n, using \pmb.
 Package bm Info: No bold for \OT1/ptm/bx/n, using \pmb.
 Package bm Info: No bold for \OT1/ptm/m/it, using \pmb.
-) (C:\Latex\tex/latex/pdflscape\pdflscape.sty
+) (C:\Users\Senbuu\AppData\Local\Programs\MiKTeX\tex/latex/pdflscape\pdflscape.sty
 Package: pdflscape 2022-10-27 v0.13 Display of landscape pages in PDF
- (C:\Latex\tex/latex/pdflscape\pdflscape-nometadata.sty
+ (C:\Users\Senbuu\AppData\Local\Programs\MiKTeX\tex/latex/pdflscape\pdflscape-nometadata.sty
 Package: pdflscape-nometadata 2022-10-28 v0.13 Display of landscape pages in PDF (HO)
- (C:\Latex\tex/latex/graphics\lscape.sty
+ (C:\Users\Senbuu\AppData\Local\Programs\MiKTeX\tex/latex/graphics\lscape.sty
 Package: lscape 2020/05/28 v3.02 Landscape Pages (DPC)
 )
 Package pdflscape Info: Auto-detected driver: pdftex on input line 81.
-)) (C:\Latex\tex/latex/everypage\everypage-1x.sty
+)) (C:\Users\Senbuu\AppData\Local\Programs\MiKTeX\tex/latex/everypage\everypage-1x.sty
 Package: everypage-1x 2020/10/10 1.2 Hooks to run on every page
-) (C:\Latex\tex/latex/wrapfig\wrapfig.sty
+) (C:\Users\Senbuu\AppData\Local\Programs\MiKTeX\tex/latex/wrapfig\wrapfig.sty
 \wrapoverhang=\dimen323
 \WF@size=\dimen324
 \c@WF@wrappedlines=\count370
 \WF@box=\box119
 \WF@everypar=\toks47
 Package: wrapfig 2003/01/31  v 3.6
-) (C:\Latex\tex/latex/koma-script\scrextend.sty
+) (C:\Users\Senbuu\AppData\Local\Programs\MiKTeX\tex/latex/koma-script\scrextend.sty
 Package: scrextend 2023/04/24 v3.40 KOMA-Script package (extend other classes with features of KOMA-Script classes)
- (C:\Latex\tex/latex/koma-script\scrkbase.sty
+ (C:\Users\Senbuu\AppData\Local\Programs\MiKTeX\tex/latex/koma-script\scrkbase.sty
 Package: scrkbase 2023/04/24 v3.40 KOMA-Script package (KOMA-Script-dependent basics and keyval usage)
- (C:\Latex\tex/latex/koma-script\scrbase.sty
+ (C:\Users\Senbuu\AppData\Local\Programs\MiKTeX\tex/latex/koma-script\scrbase.sty
 Package: scrbase 2023/04/24 v3.40 KOMA-Script package (KOMA-Script-independent basics and keyval usage)
- (C:\Latex\tex/latex/koma-script\scrlfile.sty
+ (C:\Users\Senbuu\AppData\Local\Programs\MiKTeX\tex/latex/koma-script\scrlfile.sty
 Package: scrlfile 2023/04/24 v3.40 KOMA-Script package (file load hooks)
- (C:\Latex\tex/latex/koma-script\scrlfile-hook.sty
+ (C:\Users\Senbuu\AppData\Local\Programs\MiKTeX\tex/latex/koma-script\scrlfile-hook.sty
 Package: scrlfile-hook 2023/04/24 v3.40 KOMA-Script package (using LaTeX hooks)
- (C:\Latex\tex/latex/koma-script\scrlogo.sty
+ (C:\Users\Senbuu\AppData\Local\Programs\MiKTeX\tex/latex/koma-script\scrlogo.sty
 Package: scrlogo 2023/04/24 v3.40 KOMA-Script package (logo)
 )))
 Applying: [2021/05/01] Usage of raw or classic option list on input line 252.
@@ -1271,12 +1272,12 @@ Already applied: [0000/00/00] Usage of raw or classic option list on input line 
 LaTeX Warning: Command \@footnotemark  has changed.
                Check if current package is valid.
 
-) (C:\Latex\tex/latex/appendix\appendix.sty
+) (C:\Users\Senbuu\AppData\Local\Programs\MiKTeX\tex/latex/appendix\appendix.sty
 Package: appendix 2020/02/08 v1.2c extra appendix facilities
 \c@@pps=\count371
 \c@@ppsavesec=\count372
 \c@@ppsaveapp=\count373
-) (C:\Latex\tex/latex/ragged2e\ragged2e.sty
+) (C:\Users\Senbuu\AppData\Local\Programs\MiKTeX\tex/latex/ragged2e\ragged2e.sty
 Package: ragged2e 2023/04/04 v3.5 ragged2e Package
 \CenteringLeftskip=\skip72
 \RaggedLeftLeftskip=\skip73
@@ -1292,9 +1293,9 @@ Package: ragged2e 2023/04/04 v3.5 ragged2e Package
 \RaggedLeftParindent=\skip83
 \RaggedRightParindent=\skip84
 \JustifyingParindent=\skip85
-) (C:\Latex\tex/latex/tools\tabularx.sty
+) (C:\Users\Senbuu\AppData\Local\Programs\MiKTeX\tex/latex/tools\tabularx.sty
 Package: tabularx 2020/01/15 v2.11c `tabularx' package (DPC)
- (C:\Latex\tex/latex/tools\array.sty
+ (C:\Users\Senbuu\AppData\Local\Programs\MiKTeX\tex/latex/tools\array.sty
 Package: array 2022/09/04 v2.5g Tabular extension package (FMi)
 \col@sep=\dimen325
 \ar@mcellbox=\box120
@@ -1311,7 +1312,7 @@ Package: array 2022/09/04 v2.5g Tabular extension package (FMi)
 \TX@delta=\dimen331
 \TX@cols=\count374
 \TX@ftn=\toks49
-) (C:\Latex\tex/latex/listings\listings.sty
+) (C:\Users\Senbuu\AppData\Local\Programs\MiKTeX\tex/latex/listings\listings.sty
 \lst@mode=\count375
 \lst@gtempboxa=\box122
 \lst@token=\toks50
@@ -1324,17 +1325,17 @@ Package: array 2022/09/04 v2.5g Tabular extension package (FMi)
 \lst@newlines=\count379
 \lst@lineno=\count380
 \lst@maxwidth=\dimen335
- (C:\Latex\tex/latex/listings\lstmisc.sty
+ (C:\Users\Senbuu\AppData\Local\Programs\MiKTeX\tex/latex/listings\lstmisc.sty
 File: lstmisc.sty 2023/02/27 1.9 (Carsten Heinz)
 \c@lstnumber=\count381
 \lst@skipnumbers=\count382
 \lst@framebox=\box123
-) (C:\Latex\tex/latex/listings\listings.cfg
+) (C:\Users\Senbuu\AppData\Local\Programs\MiKTeX\tex/latex/listings\listings.cfg
 File: listings.cfg 2023/02/27 1.9 listings configuration
 ))
 Package: listings 2023/02/27 1.9 (Carsten Heinz)
 Package hyperref Info: Option `colorlinks' set `true' on input line 116.
- (C:\Latex\tex/latex/tocloft\tocloft.sty
+ (C:\Users\Senbuu\AppData\Local\Programs\MiKTeX\tex/latex/tocloft\tocloft.sty
 Package: tocloft 2017/08/31 v2.3i parameterised ToC, etc., typesetting
 Package tocloft Info: The document has chapter divisions on input line 51.
 \cftparskip=\skip88
@@ -1375,9 +1376,9 @@ Package tocloft Info: The document has chapter divisions on input line 51.
 \cfttabnumwidth=\skip121
 )
 LaTeX Font Info:    Trying to load font information for OT1+ptm on input line 182.
- (C:\Latex\tex/latex/psnfss\ot1ptm.fd
+ (C:\Users\Senbuu\AppData\Local\Programs\MiKTeX\tex/latex/psnfss\ot1ptm.fd
 File: ot1ptm.fd 2001/06/04 font definitions for OT1/ptm.
-) (C:\Latex\tex/latex/l3backend\l3backend-pdftex.def
+) (C:\Users\Senbuu\AppData\Local\Programs\MiKTeX\tex/latex/l3backend\l3backend-pdftex.def
 File: l3backend-pdftex.def 2023-04-19 L3 backend support: PDF output (pdfTeX)
 \l__color_backend_stack_int=\count385
 \l__pdf_internal_box=\box124
@@ -1487,7 +1488,7 @@ LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 182.
 LaTeX Font Info:    ... okay on input line 182.
 LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 182.
 LaTeX Font Info:    ... okay on input line 182.
- (C:\Latex\tex/context/base/mkii\supp-pdf.mkii
+ (C:\Users\Senbuu\AppData\Local\Programs\MiKTeX\tex/context/base/mkii\supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
 \scratchcounter=\count386
 \scratchdimen=\dimen336
@@ -1500,10 +1501,10 @@ LaTeX Font Info:    ... okay on input line 182.
 \MPnumerator=\count390
 \makeMPintoPDFobject=\count391
 \everyMPtoPDFconversion=\toks52
-) (C:\Latex\tex/latex/epstopdf-pkg\epstopdf-base.sty
+) (C:\Users\Senbuu\AppData\Local\Programs\MiKTeX\tex/latex/epstopdf-pkg\epstopdf-base.sty
 Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
 Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 485.
- (C:\Latex\tex/latex/00miktex\epstopdf-sys.cfg
+ (C:\Users\Senbuu\AppData\Local\Programs\MiKTeX\tex/latex/00miktex\epstopdf-sys.cfg
 File: epstopdf-sys.cfg 2021/03/18 v2.0 Configuration of epstopdf for MiKTeX
 ))
 *geometry* driver: auto-detecting
@@ -1514,15 +1515,15 @@ File: epstopdf-sys.cfg 2021/03/18 v2.0 Configuration of epstopdf for MiKTeX
 * layout: <same size as paper>
 * layoutoffset:(h,v)=(0.0pt,0.0pt)
 * modes: 
-* h-part:(L,W,R)=(108.405pt, 398.76538pt, 90.3375pt)
-* v-part:(T,H,B)=(90.3375pt, 664.37186pt, 90.3375pt)
+* h-part:(L,W,R)=(90.3375pt, 434.90039pt, 72.26999pt)
+* v-part:(T,H,B)=(72.26999pt, 700.50687pt, 72.26999pt)
 * \paperwidth=597.50787pt
 * \paperheight=845.04684pt
-* \textwidth=398.76538pt
-* \textheight=664.37186pt
-* \oddsidemargin=36.13501pt
-* \evensidemargin=36.13501pt
-* \topmargin=-12.9325pt
+* \textwidth=434.90039pt
+* \textheight=700.50687pt
+* \oddsidemargin=18.0675pt
+* \evensidemargin=18.0675pt
+* \topmargin=-31.0pt
 * \headheight=6.0pt
 * \headsep=25.0pt
 * \topskip=12.0pt
@@ -1558,7 +1559,7 @@ LaTeX Info: Redefining \showhyphens on input line 182.
 Package microtype Info: No adjustment of tracking.
 Package microtype Info: No adjustment of interword spacing.
 Package microtype Info: No adjustment of character kerning.
-(C:\Latex\tex/latex/microtype\mt-ptm.cfg
+(C:\Users\Senbuu\AppData\Local\Programs\MiKTeX\tex/latex/microtype\mt-ptm.cfg
 File: mt-ptm.cfg 2006/04/20 v1.7 microtype config. file: Times (RS)
 )
 Package caption Info: Begin \AtBeginDocument code.
@@ -1579,7 +1580,7 @@ Package hyperref Info: Link coloring ON on input line 182.
 \openout2 = `0ACover/0cover.aux'.
 
  (0ACover/0cover.tex
-<img/Graphics/TUlogo.png, id=330, 440.64626pt x 512.91624pt>
+<img/Graphics/TUlogo.png, id=338, 440.64626pt x 512.91624pt>
 File: img/Graphics/TUlogo.png Graphic file (type png)
 <use img/Graphics/TUlogo.png>
 Package pdftex.def Info: img/Graphics/TUlogo.png  used on input line 5.
@@ -1587,7 +1588,7 @@ Package pdftex.def Info: img/Graphics/TUlogo.png  used on input line 5.
  [1
 
 
-{C:/Users/Acer/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map}{C:/Latex/fonts/enc/dvips/base/8r.enc} <./img/Graphics/TUlogo.png>])
+{C:/Users/Senbuu/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map}{C:/Users/Senbuu/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/base/8r.enc} <./img/Graphics/TUlogo.png>])
 \openout2 = `0ACover/1title.aux'.
 
  (0ACover/1title.tex
@@ -1710,16 +1711,11 @@ File: img/Graphics/TUlogo.png Graphic file (type png)
 Package pdftex.def Info: img/Graphics/TUlogo.png  used on input line 3.
 (pdftex.def)             Requested size: 90.3375pt x 105.1485pt.
 
-Overfull \hbox (11.32283pt too wide) in paragraph at lines 14--16
-\OT1/ptm/m/n/12 (-20) This is to cer-tify that this project pre-pared by Amit Ma-har-jan and Sushant Bramhacharya
- []
-
-
 Underfull \hbox (badness 10000) in paragraph at lines 14--16
 
  []
 
-(C:\Latex\tex/latex/psnfss\ot1ztmcm.fd) (C:\Latex\tex/latex/psnfss\omlztmcm.fd) (C:\Latex\tex/latex/psnfss\omsztmcm.fd) (C:\Latex\tex/latex/psnfss\omxztmcm.fd) (C:\Latex\tex/latex/microtype\mt-msa.cfg) (C:\Latex\tex/latex/microtype\mt-msb.cfg)) [5
+(C:\Users\Senbuu\AppData\Local\Programs\MiKTeX\tex/latex/psnfss\ot1ztmcm.fd) (C:\Users\Senbuu\AppData\Local\Programs\MiKTeX\tex/latex/psnfss\omlztmcm.fd) (C:\Users\Senbuu\AppData\Local\Programs\MiKTeX\tex/latex/psnfss\omsztmcm.fd) (C:\Users\Senbuu\AppData\Local\Programs\MiKTeX\tex/latex/psnfss\omxztmcm.fd) (C:\Users\Senbuu\AppData\Local\Programs\MiKTeX\tex/latex/microtype\mt-msa.cfg) (C:\Users\Senbuu\AppData\Local\Programs\MiKTeX\tex/latex/microtype\mt-msb.cfg)) [5
 
 
 
@@ -1741,7 +1737,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 22--192
 \openout2 = `0HAbstract/abstract.aux'.
 
  (0HAbstract/abstract.tex
-Underfull \hbox (badness 10000) in paragraph at lines 8--21
+Underfull \hbox (badness 10000) in paragraph at lines 8--20
 
  []
 
@@ -1758,25 +1754,25 @@ Underfull \hbox (badness 10000) in paragraph at lines 8--21
 \tf@toc=\write5
 \openout5 = `main.toc'.
 
- [10] (main.lof)
-\tf@lof=\write6
-\openout6 = `main.lof'.
-
- [11
-
-
-] (main.lot [12
+ [10] (main.lof [11
 
 
 ])
+\tf@lof=\write6
+\openout6 = `main.lof'.
+
+ [12] (main.lot)
 \tf@lot=\write7
 \openout7 = `main.lot'.
 
- [13]
+ [13
+
+
+]
 \openout2 = `0IAbbreviations/abbreviations.aux'.
 
  (0IAbbreviations/abbreviations.tex
-Overfull \hbox (164.71997pt too wide) in paragraph at lines 9--31
+Overfull \hbox (128.58496pt too wide) in paragraph at lines 9--31
 [][] 
  []
 
@@ -1790,7 +1786,7 @@ Overfull \hbox (164.71997pt too wide) in paragraph at lines 9--31
  (1Introduction/introduction.tex
 Chapter 1.
 LaTeX Font Info:    Trying to load font information for TS1+ptm on input line 22.
-(C:\Latex\tex/latex/psnfss\ts1ptm.fd
+(C:\Users\Senbuu\AppData\Local\Programs\MiKTeX\tex/latex/psnfss\ts1ptm.fd
 File: ts1ptm.fd 2001/06/04 font definitions for TS1/ptm.
 ) [1
 
@@ -1817,118 +1813,146 @@ Chapter 3.
 
 
 
-] [9] [10] [11] [12]
-<Diagrams/er.drawio.png, id=656, 1531.7225pt x 1034.86626pt>
+] [9] [10]
+Overfull \hbox (16.20836pt too wide) in paragraph at lines 62--63
+[]\OT1/ptm/m/n/12 (-20) There are sev-eral de-vel-op-ment tech-nolo-gies avail-able. For fron-tend de-vel-op-ment, HTML,CSS,JS
+ []
+
+<Diagrams/er.drawio.png, id=666, 1531.7225pt x 1034.86626pt>
 File: Diagrams/er.drawio.png Graphic file (type png)
 <use Diagrams/er.drawio.png>
-Package pdftex.def Info: Diagrams/er.drawio.png  used on input line 72.
+Package pdftex.def Info: Diagrams/er.drawio.png  used on input line 70.
 (pdftex.def)             Requested size: 631.7031pt x 426.79134pt.
-
-Overfull \hbox (28.02596pt too wide) in paragraph at lines 71--73
-[][] 
- []
-
-[13] [14 <./Diagrams/er.drawio.png>]
-<Diagrams/DFD.drawio.png, id=666, 442.65375pt x 352.31625pt>
+[11] [12] [13 <./Diagrams/er.drawio.png>]
+<Diagrams/DFD.drawio.png, id=681, 310.761pt x 254.3904pt>
 File: Diagrams/DFD.drawio.png Graphic file (type png)
 <use Diagrams/DFD.drawio.png>
-Package pdftex.def Info: Diagrams/DFD.drawio.png  used on input line 83.
-(pdftex.def)             Requested size: 250.23491pt x 199.16928pt.
- [15 <./Diagrams/DFD.drawio.png>]
-<Diagrams/Main_Block.png, id=672, 512.91624pt x 282.05376pt>
+Package pdftex.def Info: Diagrams/DFD.drawio.png  used on input line 81.
+(pdftex.def)             Requested size: 382.35231pt x 312.9803pt.
+ [14 <./Diagrams/DFD.drawio.png>]
+<Diagrams/Main_Block.png, id=687, 484.9317pt x 304.2567pt>
 File: Diagrams/Main_Block.png Graphic file (type png)
 <use Diagrams/Main_Block.png>
-Package pdftex.def Info: Diagrams/Main_Block.png  used on input line 91.
-(pdftex.def)             Requested size: 413.93373pt x 227.62204pt.
-
-Overfull \hbox (15.16835pt too wide) in paragraph at lines 91--92
-[][] 
- []
-
-[16 <./Diagrams/Main_Block.png>]
-<Diagrams/Activity.drawio.png, id=678, 674.52pt x 1286.8075pt>
-File: Diagrams/Activity.drawio.png Graphic file (type png)
-<use Diagrams/Activity.drawio.png>
-Package pdftex.def Info: Diagrams/Activity.drawio.png  used on input line 99.
-(pdftex.def)             Requested size: 223.71414pt x 426.79134pt.
- [17 <./Diagrams/Activity.drawio.png>]
-<Diagrams/schema.png, id=685, 568.1225pt x 527.9725pt>
+Package pdftex.def Info: Diagrams/Main_Block.png  used on input line 89.
+(pdftex.def)             Requested size: 408.13899pt x 256.0748pt.
+ [15 <./Diagrams/Main_Block.png>]
+<Diagrams/schema.png, id=693, 568.1225pt x 527.9725pt>
 File: Diagrams/schema.png Graphic file (type png)
 <use Diagrams/schema.png>
-Package pdftex.def Info: Diagrams/schema.png  used on input line 107.
+Package pdftex.def Info: Diagrams/schema.png  used on input line 105.
 (pdftex.def)             Requested size: 398.01244pt x 369.88582pt.
- [18 <./Diagrams/schema.png>]
-<ui_diagrams/desktop_login.png, id=690, 1154.51324pt x 578.76225pt>
+ [16 <./Diagrams/schema.png>]
+<ui_diagrams/desktop_login.png, id=698, 1154.51324pt x 578.76225pt>
 File: ui_diagrams/desktop_login.png Graphic file (type png)
 <use ui_diagrams/desktop_login.png>
-Package pdftex.def Info: ui_diagrams/desktop_login.png  used on input line 118.
+Package pdftex.def Info: ui_diagrams/desktop_login.png  used on input line 116.
 (pdftex.def)             Requested size: 397.30336pt x 199.16928pt.
 
-Underfull \hbox (badness 10000) in paragraph at lines 113--120
+Underfull \hbox (badness 10000) in paragraph at lines 111--118
 
  []
 
-<Outcome-ss/homepage.png, id=691, 1156.32pt x 578.16pt>
+<Outcome-ss/homepage.png, id=699, 1156.32pt x 578.16pt>
 File: Outcome-ss/homepage.png Graphic file (type png)
 <use Outcome-ss/homepage.png>
-Package pdftex.def Info: Outcome-ss/homepage.png  used on input line 124.
+Package pdftex.def Info: Outcome-ss/homepage.png  used on input line 122.
 (pdftex.def)             Requested size: 386.95056pt x 193.47882pt.
-[19 <./ui_diagrams/desktop_login.png>]
-<Outcome-ss/messenger-full-block.png, id=697, 1114.76476pt x 575.14874pt>
+[17 <./ui_diagrams/desktop_login.png>]
+<Outcome-ss/messenger-full-block.png, id=706, 1114.76476pt x 575.14874pt>
 File: Outcome-ss/messenger-full-block.png Graphic file (type png)
 <use Outcome-ss/messenger-full-block.png>
-Package pdftex.def Info: Outcome-ss/messenger-full-block.png  used on input line 130.
+Package pdftex.def Info: Outcome-ss/messenger-full-block.png  used on input line 128.
 (pdftex.def)             Requested size: 375.00066pt x 193.47882pt.
- [20 <./Outcome-ss/homepage.png> <./Outcome-ss/messenger-full-block.png>]
-<ui_diagrams/mobile_login.png, id=704, 224.63925pt x 399.29175pt>
+ [18 <./Outcome-ss/homepage.png> <./Outcome-ss/messenger-full-block.png>]
+<ui_diagrams/mobile_login.png, id=713, 224.63925pt x 399.29175pt>
 File: ui_diagrams/mobile_login.png Graphic file (type png)
 <use ui_diagrams/mobile_login.png>
-Package pdftex.def Info: ui_diagrams/mobile_login.png  used on input line 137.
+Package pdftex.def Info: ui_diagrams/mobile_login.png  used on input line 135.
 (pdftex.def)             Requested size: 128.0594pt x 227.62204pt.
- [21 <./ui_diagrams/mobile_login.png>]
-<Diagrams/physical_dfd.png, id=710, 1315.91624pt x 502.87875pt>
+<Outcome-ss/mobile-homepage.png, id=714, 236.082pt x 504.6855pt>
+File: Outcome-ss/mobile-homepage.png Graphic file (type png)
+<use Outcome-ss/mobile-homepage.png>
+Package pdftex.def Info: Outcome-ss/mobile-homepage.png  used on input line 142.
+(pdftex.def)             Requested size: 106.47726pt x 227.62204pt.
+ [19 <./ui_diagrams/mobile_login.png> <./Outcome-ss/mobile-homepage.png>]
+<Outcome-ss/mobile-chat.png, id=721, 237.88875pt x 504.6855pt>
+File: Outcome-ss/mobile-chat.png Graphic file (type png)
+<use Outcome-ss/mobile-chat.png>
+Package pdftex.def Info: Outcome-ss/mobile-chat.png  used on input line 150.
+(pdftex.def)             Requested size: 107.29214pt x 227.62204pt.
+<Outcome-ss/moble-chat-friends.png, id=722, 232.4685pt x 504.6855pt>
+File: Outcome-ss/moble-chat-friends.png Graphic file (type png)
+<use Outcome-ss/moble-chat-friends.png>
+Package pdftex.def Info: Outcome-ss/moble-chat-friends.png  used on input line 157.
+(pdftex.def)             Requested size: 104.8475pt x 227.62204pt.
+ [20 <./Outcome-ss/mobile-chat.png> <./Outcome-ss/moble-chat-friends.png>]
+<Diagrams/physical_dfd.png, id=729, 694.5147pt x 427.1157pt>
 File: Diagrams/physical_dfd.png Graphic file (type png)
 <use Diagrams/physical_dfd.png>
-Package pdftex.def Info: Diagrams/physical_dfd.png  used on input line 149.
-(pdftex.def)             Requested size: 595.63055pt x 227.62204pt.
- [22] [23 <./Diagrams/physical_dfd.png>])
+Package pdftex.def Info: Diagrams/physical_dfd.png  used on input line 168.
+(pdftex.def)             Requested size: 647.74654pt x 398.33858pt.
+ [21] [22 <./Diagrams/physical_dfd.png>])
 \openout2 = `4ImplementationAndTesting/ImplementationAndTesting.aux'.
 
  (4ImplementationAndTesting/ImplementationAndTesting.tex
 Chapter 4.
-[24
+[23
 
 
 
 
-] [25]
-Overfull \hbox (2.42859pt too wide) in paragraph at lines 30--31
-[]\OT1/ptm/m/n/12 (-20) MySQL is an amaz-ing open-source re-la-tional database man-age-ment sys-tem (RDBMS)
- []
-
-[26] [27] [28] [29]
+] [24] [25] [26]
 Overfull \hbox (2.30377pt too wide) in paragraph at lines 61--61
 []|\OT1/ptm/m/n/12 (-20) Tests| 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 65--65
-[]|\OT1/ptm/m/n/12 (+20) Incorrect Con-
+Underfull \hbox (badness 10000) in paragraph at lines 63--63
+[]|\OT1/ptm/m/n/12 (+20) Incorrect Pass-
+ []
+
+Package microtype Info: Loading generic protrusion settings for font family
+(microtype)             `cmtt' (encoding: OT1).
+(microtype)             For optimal results, create family-specific settings.
+(microtype)             See the microtype manual for details.
+
+Underfull \hbox (badness 10000) in paragraph at lines 63--63
+[]|\OT1/ptm/m/n/12 (+20) Email:[][]$\OT1/cmtt/m/n/12 test @
  []
 
 
-Underfull \hbox (badness 3179) in paragraph at lines 65--65
-\OT1/ptm/m/n/12 (+20) firm Pass-word in
+Underfull \hbox (badness 10000) in paragraph at lines 63--63
+\OT1/cmtt/m/n/12 gmail . com$[][]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 63--63
+[]|\OT1/ptm/m/n/12 (+20) Incorrect Pass-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 65--65
+\OT1/ptm/m/n/12 (+20) Pass-word in
  []
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 65--67
-\OT1/ptm/m/n/12 (+20) Pass-word:12345679
+[]|\OT1/ptm/m/n/12 (+20) Email:[][]$\OT1/cmtt/m/n/12 test @
  []
 
 
-Underfull \hbox (badness 2529) in paragraph at lines 67--67
-[]|\OT1/ptm/m/n/12 (+20) Enter Same Pass-
+Underfull \hbox (badness 1540) in paragraph at lines 65--67
+\OT1/cmtt/m/n/12 gmail . com$[][] \OT1/ptm/m/n/12 (+20) Pass-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 65--67
+\OT1/ptm/m/n/12 (+20) word:12345679
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 65--67
+\OT1/ptm/m/n/12 (+20) Pass-
  []
 
 
@@ -1937,13 +1961,23 @@ Underfull \hbox (badness 10000) in paragraph at lines 67--68
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 70--71
-[]|\OT1/ptm/m/n/12 (+20) Redirects to
+Underfull \hbox (badness 10000) in paragraph at lines 69--69
+[]|\OT1/ptm/m/n/12 (+20) Correct Cre-den-
  []
 
 
-Overfull \hbox (53.89322pt too wide) in paragraph at lines 59--73
-[][] 
+Underfull \hbox (badness 10000) in paragraph at lines 69--70
+[]|\OT1/ptm/m/n/12 (+20) Email:[][]$\OT1/cmtt/m/n/12 test @
+ []
+
+
+Underfull \hbox (badness 1540) in paragraph at lines 69--70
+\OT1/cmtt/m/n/12 gmail . com$[][] \OT1/ptm/m/n/12 (+20) Pass-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 70--71
+[]|\OT1/ptm/m/n/12 (+20) Redirects to
  []
 
 
@@ -1951,23 +1985,24 @@ Underfull \hbox (badness 10000) in paragraph at lines 52--73
 
  []
 
-[30]
+
 Overfull \hbox (2.30377pt too wide) in paragraph at lines 81--81
 []|\OT1/ptm/m/n/12 (-20) Tests| 
  []
 
-Package microtype Info: Loading generic protrusion settings for font family
-(microtype)             `cmtt' (encoding: OT1).
-(microtype)             For optimal results, create family-specific settings.
-(microtype)             See the microtype manual for details.
 
 Underfull \hbox (badness 10000) in paragraph at lines 83--83
-[]|[][]$\OT1/cmtt/m/n/12 http : / /
+[]|\OT1/ptm/m/n/12 (+20) Launch ap-pli-ca-
  []
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 83--83
-\OT1/cmtt/m/n/12 localhost /
+[]|[][]$\OT1/cmtt/m/n/12 http :
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 83--83
+\OT1/cmtt/m/n/12 / / localhost /
  []
 
 
@@ -1976,28 +2011,28 @@ Underfull \hbox (badness 10000) in paragraph at lines 83--83
  []
 
 
-Overfull \hbox (39.43944pt too wide) in paragraph at lines 79--86
-[][] 
- []
-
-
 Underfull \hbox (badness 10000) in paragraph at lines 75--86
 
  []
 
-[31]
+[27]
 Overfull \hbox (2.30377pt too wide) in paragraph at lines 94--94
 []|\OT1/ptm/m/n/12 (-20) Tests| 
  []
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 96--96
-[]|[][]$\OT1/cmtt/m/n/12 http : / /
+[]|\OT1/ptm/m/n/12 (+20) Launch ap-pli-ca-
  []
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 96--96
-\OT1/cmtt/m/n/12 localhost /
+[]|[][]$\OT1/cmtt/m/n/12 http :
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 96--96
+\OT1/cmtt/m/n/12 / / localhost /
  []
 
 
@@ -2016,11 +2051,6 @@ Underfull \hbox (badness 10000) in paragraph at lines 96--97
  []
 
 
-Overfull \hbox (39.43944pt too wide) in paragraph at lines 92--99
-[][] 
- []
-
-
 Underfull \hbox (badness 10000) in paragraph at lines 88--99
 
  []
@@ -2032,12 +2062,17 @@ Overfull \hbox (2.30377pt too wide) in paragraph at lines 107--107
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 109--109
-[]|[][]$\OT1/cmtt/m/n/12 http : / /
+[]|\OT1/ptm/m/n/12 (+20) Code Con-nect
  []
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 109--109
-\OT1/cmtt/m/n/12 localhost /
+[]|[][]$\OT1/cmtt/m/n/12 http :
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 109--109
+\OT1/cmtt/m/n/12 / / localhost /
  []
 
 
@@ -2046,8 +2081,8 @@ Underfull \hbox (badness 10000) in paragraph at lines 109--109
  []
 
 
-Overfull \hbox (39.43944pt too wide) in paragraph at lines 105--112
-[][] 
+Underfull \hbox (badness 10000) in paragraph at lines 109--109
+[]|\OT1/ptm/m/n/12 (+20) Code Con-nect
  []
 
 
@@ -2061,8 +2096,28 @@ Overfull \hbox (2.30377pt too wide) in paragraph at lines 120--120
  []
 
 
-Overfull \hbox (39.43944pt too wide) in paragraph at lines 118--125
-[][] 
+Underfull \hbox (badness 10000) in paragraph at lines 122--122
+[]|\OT1/ptm/m/n/12 (+20) click on mes-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 122--122
+\OT1/ptm/m/n/12 (+20) sen-ger but-ton
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 122--122
+\OT1/ptm/m/n/12 (+20) and click on
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 122--122
+\OT1/ptm/m/n/12 (+20) other user that
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 122--122
+[]|\OT1/ptm/m/n/12 (+20) Sends mes-sage
  []
 
 
@@ -2070,587 +2125,587 @@ Underfull \hbox (badness 10000) in paragraph at lines 114--125
 
  []
 
-[32]
-Overfull \hbox (2.30377pt too wide) in paragraph at lines 133--133
+[28] [29]
+Overfull \hbox (2.30377pt too wide) in paragraph at lines 134--134
 []|\OT1/ptm/m/n/12 (-20) Tests| 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 135--136
+Underfull \hbox (badness 10000) in paragraph at lines 136--136
+\OT1/ptm/m/n/12 (+20) ger but-ton and
+ []
+
+
+Underfull \hbox (badness 1067) in paragraph at lines 136--136
+[]|\OT1/ptm/m/n/12 (+20) Display the con-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 136--137
 []|\OT1/ptm/m/n/12 (+20) Display the
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 135--136
+Underfull \hbox (badness 10000) in paragraph at lines 136--137
 \OT1/ptm/m/n/12 (+20) con-ver-sa-tion
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 135--136
+Underfull \hbox (badness 10000) in paragraph at lines 136--137
 \OT1/ptm/m/n/12 (+20) with that
  []
 
 
-Overfull \hbox (39.43944pt too wide) in paragraph at lines 131--138
-[][] 
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 127--138
+Underfull \hbox (badness 10000) in paragraph at lines 128--139
 
  []
 
 
-Overfull \hbox (2.30377pt too wide) in paragraph at lines 146--146
+Overfull \hbox (2.30377pt too wide) in paragraph at lines 147--147
 []|\OT1/ptm/m/n/12 (-20) Tests| 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 148--148
+Underfull \hbox (badness 10000) in paragraph at lines 149--149
 []|\OT1/ptm/m/n/12 (+20) Code Con-nect
  []
 
 
-Overfull \hbox (39.43944pt too wide) in paragraph at lines 144--151
-[][] 
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 140--151
+Underfull \hbox (badness 10000) in paragraph at lines 141--152
 
  []
 
 
-Overfull \hbox (2.30377pt too wide) in paragraph at lines 159--159
+Overfull \hbox (2.30377pt too wide) in paragraph at lines 160--160
 []|\OT1/ptm/m/n/12 (-20) Tests| 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 161--161
+Underfull \hbox (badness 10000) in paragraph at lines 162--162
 []|\OT1/ptm/m/n/12 (+20) Code Con-nect
  []
 
 
-Overfull \hbox (39.43944pt too wide) in paragraph at lines 157--164
-[][] 
+Underfull \hbox (badness 5652) in paragraph at lines 162--162
+[]|\OT1/ptm/m/n/12 (+20) Posts that have
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 153--164
+Underfull \hbox (badness 10000) in paragraph at lines 154--165
 
  []
 
-[33]
-Overfull \hbox (2.30377pt too wide) in paragraph at lines 172--172
+[30]
+Overfull \hbox (2.30377pt too wide) in paragraph at lines 174--174
 []|\OT1/ptm/m/n/12 (-20) Tests| 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 174--174
+Underfull \hbox (badness 10000) in paragraph at lines 176--176
 []|\OT1/ptm/m/n/12 (+20) Show posts of
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 174--174
+Underfull \hbox (badness 10000) in paragraph at lines 176--176
+[]|\OT1/ptm/m/n/12 (+20) Click on the
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 176--176
+\OT1/ptm/m/n/12 (+20) Friends Only
+ []
+
+
+Underfull \hbox (badness 4013) in paragraph at lines 176--176
 []|\OT1/ptm/m/n/12 (+20) Shows Posts of
  []
 
 
-Overfull \hbox (39.43944pt too wide) in paragraph at lines 170--177
-[][] 
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 166--177
+Underfull \hbox (badness 10000) in paragraph at lines 168--179
 
  []
 
 
-Overfull \hbox (2.30377pt too wide) in paragraph at lines 185--185
+Overfull \hbox (2.30377pt too wide) in paragraph at lines 187--187
 []|\OT1/ptm/m/n/12 (-20) Tests| 
  []
 
 
-Overfull \hbox (39.43944pt too wide) in paragraph at lines 183--190
-[][] 
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 179--190
+Underfull \hbox (badness 10000) in paragraph at lines 181--192
 
  []
 
 
-Overfull \hbox (2.30377pt too wide) in paragraph at lines 198--198
+Overfull \hbox (2.30377pt too wide) in paragraph at lines 200--200
 []|\OT1/ptm/m/n/12 (-20) Tests| 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 200--201
+Underfull \hbox (badness 10000) in paragraph at lines 202--203
 []|\OT1/ptm/m/n/12 (+20) Opens Posts
  []
 
 
-Overfull \hbox (39.43944pt too wide) in paragraph at lines 196--203
-[][] 
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 192--203
+Underfull \hbox (badness 10000) in paragraph at lines 194--205
 
  []
 
-
-Overfull \hbox (2.30377pt too wide) in paragraph at lines 211--211
+[31]
+Overfull \hbox (2.30377pt too wide) in paragraph at lines 214--214
 []|\OT1/ptm/m/n/12 (-20) Tests| 
  []
 
 
-Underfull \hbox (badness 4859) in paragraph at lines 213--213
-\OT1/ptm/m/n/12 (+20) Post and Cod-ing
+Underfull \hbox (badness 2103) in paragraph at lines 216--216
+[]|\OT1/ptm/m/n/12 (+20) Making Post in-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 213--213
-\OT1/ptm/m/n/12 (+20) in C Code sec-
+Underfull \hbox (badness 10000) in paragraph at lines 216--216
+[]|\OT1/ptm/m/n/12 (+20) Post sec-
  []
 
 
-Overfull \hbox (39.43944pt too wide) in paragraph at lines 209--216
-[][] 
+Underfull \hbox (badness 10000) in paragraph at lines 216--216
+\OT1/ptm/m/n/12 (+20) tion:coding
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 205--216
+Underfull \hbox (badness 10000) in paragraph at lines 216--216
+\OT1/ptm/m/n/12 (+20) printf("Hello
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 216--216
+[]|\OT1/ptm/m/n/12 (+20) post in-clud-ing
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 208--219
 
  []
 
-[34]
-Overfull \hbox (2.30377pt too wide) in paragraph at lines 224--224
+
+Overfull \hbox (2.30377pt too wide) in paragraph at lines 227--227
 []|\OT1/ptm/m/n/12 (-20) Tests| 
  []
 
 
-Underfull \hbox (badness 4279) in paragraph at lines 226--226
-\OT1/ptm/m/n/12 (+20) pro-file, Click on
+Underfull \hbox (badness 2150) in paragraph at lines 229--229
+[]|\OT1/ptm/m/n/12 (+20) Deletion of that
  []
 
 
-Overfull \hbox (39.43944pt too wide) in paragraph at lines 222--229
-[][] 
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 218--229
+Underfull \hbox (badness 10000) in paragraph at lines 221--232
 
  []
 
 
-Overfull \hbox (2.30377pt too wide) in paragraph at lines 237--237
+Overfull \hbox (2.30377pt too wide) in paragraph at lines 240--240
 []|\OT1/ptm/m/n/12 (-20) Tests| 
  []
 
 
-Overfull \hbox (39.43944pt too wide) in paragraph at lines 235--242
-[][] 
+Underfull \hbox (badness 10000) in paragraph at lines 242--242
+[]|\OT1/ptm/m/n/12 (+20) count Geek of
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 231--242
+Underfull \hbox (badness 10000) in paragraph at lines 234--245
 
  []
 
-
-Overfull \hbox (2.30377pt too wide) in paragraph at lines 250--250
+[32]
+Overfull \hbox (2.30377pt too wide) in paragraph at lines 254--254
 []|\OT1/ptm/m/n/12 (-20) Tests| 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 252--252
+Underfull \hbox (badness 10000) in paragraph at lines 256--256
 []|\OT1/ptm/m/n/12 (+20) Un-Geeking on
  []
 
 
-Underfull \hbox (badness 4479) in paragraph at lines 252--252
-[]|\OT1/ptm/m/n/12 (+20) Deletion of geek
- []
-
-
-Underfull \hbox (badness 2486) in paragraph at lines 252--253
+Underfull \hbox (badness 2486) in paragraph at lines 256--257
 \OT1/ptm/m/n/12 (+20) count of that
  []
 
 
-Overfull \hbox (39.43944pt too wide) in paragraph at lines 248--255
-[][] 
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 244--255
+Underfull \hbox (badness 10000) in paragraph at lines 248--259
 
  []
 
-[35]
-Overfull \hbox (2.30377pt too wide) in paragraph at lines 263--263
+
+Overfull \hbox (2.30377pt too wide) in paragraph at lines 267--267
 []|\OT1/ptm/m/n/12 (-20) Tests| 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 265--265
+Underfull \hbox (badness 7379) in paragraph at lines 269--269
 []|\OT1/ptm/m/n/12 (+20) Commenting on
  []
 
 
-Underfull \hbox (badness 2582) in paragraph at lines 265--265
-\OT1/ptm/m/n/12 (+20) on that par-tic-u-lar
+Underfull \hbox (badness 10000) in paragraph at lines 269--269
+[]|\OT1/ptm/m/n/12 (+20) Press com-ment
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 265--266
+Underfull \hbox (badness 10000) in paragraph at lines 269--270
 []|\OT1/ptm/m/n/12 (+20) comment of
  []
 
 
-Underfull \hbox (badness 2486) in paragraph at lines 265--266
+Underfull \hbox (badness 2486) in paragraph at lines 269--270
 \OT1/ptm/m/n/12 (+20) users on that
  []
 
 
-Overfull \hbox (39.43944pt too wide) in paragraph at lines 261--268
-[][] 
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 257--268
+Underfull \hbox (badness 10000) in paragraph at lines 261--272
 
  []
 
 
-Overfull \hbox (2.30377pt too wide) in paragraph at lines 276--276
+Overfull \hbox (2.30377pt too wide) in paragraph at lines 280--280
 []|\OT1/ptm/m/n/12 (-20) Tests| 
  []
 
 
-Underfull \hbox (badness 4120) in paragraph at lines 278--278
-[]|\OT1/ptm/m/n/12 (+20) Deletion of com-
+Underfull \hbox (badness 10000) in paragraph at lines 282--282
+[]|\OT1/ptm/m/n/12 (+20) Deleting Com-
  []
 
 
-Underfull \hbox (badness 4954) in paragraph at lines 278--279
+Underfull \hbox (badness 1168) in paragraph at lines 282--282
+[]|\OT1/ptm/m/n/12 (+20) Press delete but-
+ []
+
+
+Underfull \hbox (badness 4954) in paragraph at lines 282--283
 \OT1/ptm/m/n/12 (+20) ment of that
  []
 
 
-Overfull \hbox (39.43944pt too wide) in paragraph at lines 274--281
-[][] 
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 270--281
+Underfull \hbox (badness 10000) in paragraph at lines 274--285
 
  []
 
-
-Overfull \hbox (2.30377pt too wide) in paragraph at lines 289--289
+[33]
+Overfull \hbox (2.30377pt too wide) in paragraph at lines 294--294
 []|\OT1/ptm/m/n/12 (-20) Tests| 
  []
 
 
-Overfull \hbox (39.43944pt too wide) in paragraph at lines 287--294
-[][] 
+Underfull \hbox (badness 5161) in paragraph at lines 296--296
+\OT1/ptm/m/n/12 (+20) lo-cated at right
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 283--294
+Underfull \hbox (badness 10000) in paragraph at lines 288--299
 
  []
 
-[36]
-Overfull \hbox (2.30377pt too wide) in paragraph at lines 302--302
+
+Overfull \hbox (2.30377pt too wide) in paragraph at lines 307--307
 []|\OT1/ptm/m/n/12 (-20) Tests| 
  []
 
 
-Underfull \hbox (badness 1975) in paragraph at lines 304--304
-[]|\OT1/ptm/m/n/12 (+20) Press save but-ton
+Underfull \hbox (badness 1436) in paragraph at lines 309--309
+\OT1/ptm/m/n/12 (+20) again that is lo-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 304--305
+Underfull \hbox (badness 10000) in paragraph at lines 309--309
 []|\OT1/ptm/m/n/12 (+20) Removes the
  []
 
 
-Overfull \hbox (39.43944pt too wide) in paragraph at lines 300--307
-[][] 
+Underfull \hbox (badness 10000) in paragraph at lines 309--310
+[]|\OT1/ptm/m/n/12 (+20) Removes the
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 296--307
+Underfull \hbox (badness 10000) in paragraph at lines 301--312
 
  []
 
 
-Overfull \hbox (2.30377pt too wide) in paragraph at lines 315--315
+Overfull \hbox (2.30377pt too wide) in paragraph at lines 320--320
 []|\OT1/ptm/m/n/12 (-20) Tests| 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 317--317
+Underfull \hbox (badness 10000) in paragraph at lines 322--322
 []|\OT1/ptm/m/n/12 (+20) Visiting Pro-file
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 317--317
+Underfull \hbox (badness 2142) in paragraph at lines 322--322
 []|\OT1/ptm/m/n/12 (+20) Press on Pro-file
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 317--317
-\OT1/ptm/m/n/12 (+20) Dash-board but-
- []
-
-
-Underfull \hbox (badness 4872) in paragraph at lines 317--317
-\OT1/ptm/m/n/12 (+20) ton af-ter vis-it-ing
- []
-
-
-Underfull \hbox (badness 5203) in paragraph at lines 317--317
-[]|\OT1/ptm/m/n/12 (+20) Show the pro-file
- []
-
-
-Overfull \hbox (39.43944pt too wide) in paragraph at lines 313--320
-[][] 
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 309--320
+Underfull \hbox (badness 10000) in paragraph at lines 314--325
 
  []
 
-
-Overfull \hbox (2.30377pt too wide) in paragraph at lines 328--328
+[34]
+Overfull \hbox (2.30377pt too wide) in paragraph at lines 334--334
 []|\OT1/ptm/m/n/12 (-20) Tests| 
  []
 
 
-Underfull \hbox (badness 1584) in paragraph at lines 330--330
-[]|\OT1/ptm/m/n/12 (+20) Update Ba-sic Ac-
+Underfull \hbox (badness 10000) in paragraph at lines 336--336
+\OT1/ptm/m/n/12 (+20) Ba-sic Ac-count
  []
 
 
-Overfull \hbox (39.43944pt too wide) in paragraph at lines 326--333
-[][] 
+Underfull \hbox (badness 10000) in paragraph at lines 336--336
+\OT1/ptm/m/n/12 (+20) De-tails but-ton
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 322--333
+Underfull \hbox (badness 10000) in paragraph at lines 336--336
+\OT1/ptm/m/n/12 (+20) af-ter vis-it-ing
+ []
+
+
+Underfull \hbox (badness 2617) in paragraph at lines 336--336
+[]|\OT1/ptm/m/n/12 (+20) Opens the form
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 328--339
 
  []
 
-[37]
-Overfull \hbox (2.30377pt too wide) in paragraph at lines 341--341
+
+Overfull \hbox (2.30377pt too wide) in paragraph at lines 347--347
 []|\OT1/ptm/m/n/12 (-20) Tests| 
  []
 
 
-Underfull \hbox (badness 6559) in paragraph at lines 343--343
-[]|\OT1/ptm/m/n/12 (+20) Press on Up-date
+Underfull \hbox (badness 2617) in paragraph at lines 349--349
+[]|\OT1/ptm/m/n/12 (+20) Opens the form
  []
 
 
-Overfull \hbox (39.43944pt too wide) in paragraph at lines 339--346
-[][] 
+Underfull \hbox (badness 10000) in paragraph at lines 349--349
+\OT1/ptm/m/n/12 (+20) to up-date their
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 335--346
+Underfull \hbox (badness 10000) in paragraph at lines 341--352
 
  []
 
 
-Overfull \hbox (2.30377pt too wide) in paragraph at lines 354--354
+Overfull \hbox (2.30377pt too wide) in paragraph at lines 360--360
 []|\OT1/ptm/m/n/12 (-20) Tests| 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 356--356
+Underfull \hbox (badness 1210) in paragraph at lines 362--362
 []|\OT1/ptm/m/n/12 (+20) Update Cer-ti-fi-ca-
  []
 
 
-Underfull \hbox (badness 6559) in paragraph at lines 356--356
-[]|\OT1/ptm/m/n/12 (+20) Press on Up-date
+Underfull \hbox (badness 2189) in paragraph at lines 362--362
+\OT1/ptm/m/n/12 (+20) Cer-ti-fi-ca-tion but-
  []
 
 
-Overfull \hbox (39.43944pt too wide) in paragraph at lines 352--359
-[][] 
+Underfull \hbox (badness 2617) in paragraph at lines 362--362
+[]|\OT1/ptm/m/n/12 (+20) Opens the form
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 348--359
-
+Underfull \hbox (badness 10000) in paragraph at lines 362--362
+\OT1/ptm/m/n/12 (+20) to up-date their
  []
 
 
-Overfull \hbox (2.30377pt too wide) in paragraph at lines 367--367
+Underfull \hbox (badness 10000) in paragraph at lines 354--365
+
+ []
+
+[35]
+Overfull \hbox (2.30377pt too wide) in paragraph at lines 374--374
 []|\OT1/ptm/m/n/12 (-20) Tests| 
  []
 
 
-Underfull \hbox (badness 6559) in paragraph at lines 369--369
-[]|\OT1/ptm/m/n/12 (+20) Press on Up-date
+Underfull \hbox (badness 3919) in paragraph at lines 376--376
+\OT1/ptm/m/n/12 (+20) skills but-ton af-
  []
 
 
-Underfull \hbox (badness 1478) in paragraph at lines 369--369
-\OT1/ptm/m/n/12 (+20) skills but-ton af-ter
+Underfull \hbox (badness 2617) in paragraph at lines 376--376
+[]|\OT1/ptm/m/n/12 (+20) Opens the form
  []
 
 
-Overfull \hbox (39.43944pt too wide) in paragraph at lines 365--372
-[][] 
+Underfull \hbox (badness 10000) in paragraph at lines 376--376
+\OT1/ptm/m/n/12 (+20) to up-date their
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 361--372
+Underfull \hbox (badness 10000) in paragraph at lines 368--379
 
  []
 
-[38]
-Overfull \hbox (2.30377pt too wide) in paragraph at lines 380--380
+
+Overfull \hbox (2.30377pt too wide) in paragraph at lines 387--387
 []|\OT1/ptm/m/n/12 (-20) Tests| 
  []
 
 
-Overfull \hbox (39.43944pt too wide) in paragraph at lines 378--385
-[][] 
+Underfull \hbox (badness 2452) in paragraph at lines 389--389
+\OT1/ptm/m/n/12 (+20) CV but-ton af-ter
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 374--385
+Underfull \hbox (badness 10000) in paragraph at lines 389--389
+\OT1/ptm/m/n/12 (+20) vis-it-ing pro-file
+ []
+
+
+Underfull \hbox (badness 2617) in paragraph at lines 389--389
+[]|\OT1/ptm/m/n/12 (+20) Opens the form
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 381--392
 
  []
 
 
-Overfull \hbox (2.30377pt too wide) in paragraph at lines 393--393
+Overfull \hbox (2.30377pt too wide) in paragraph at lines 400--400
 []|\OT1/ptm/m/n/12 (-20) Tests| 
  []
 
 
-Underfull \hbox (badness 2486) in paragraph at lines 395--395
-\OT1/ptm/m/n/12 (+20) but-ton that is lo-
- []
-
-
-Underfull \hbox (badness 3623) in paragraph at lines 395--395
-[]|\OT1/ptm/m/n/12 (+20) Open No-ti-fi-ca-tion
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 395--396
+Underfull \hbox (badness 10000) in paragraph at lines 402--403
 []|\OT1/ptm/m/n/12 (+20) Open No-ti-fi-
  []
 
 
-Underfull \hbox (badness 4120) in paragraph at lines 395--396
+Underfull \hbox (badness 4120) in paragraph at lines 402--403
 \OT1/ptm/m/n/12 (+20) ca-tion Pan-nel
  []
 
 
-Underfull \hbox (badness 6268) in paragraph at lines 395--396
+Underfull \hbox (badness 6268) in paragraph at lines 402--403
 \OT1/ptm/m/n/12 (+20) the nec-es-sary
  []
 
 
-Overfull \hbox (39.43944pt too wide) in paragraph at lines 391--398
-[][] 
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 387--398
+Underfull \hbox (badness 10000) in paragraph at lines 394--405
 
  []
 
 
-Overfull \hbox (2.30377pt too wide) in paragraph at lines 406--406
+Overfull \hbox (2.30377pt too wide) in paragraph at lines 413--413
 []|\OT1/ptm/m/n/12 (-20) Tests| 
  []
 
 
-Underfull \hbox (badness 1831) in paragraph at lines 408--408
-\OT1/ptm/m/n/12 (+20) that is lo-cated at
+Underfull \hbox (badness 2903) in paragraph at lines 415--415
+[]|\OT1/ptm/m/n/12 (+20) Send con-nec-tion
  []
 
 
-Underfull \hbox (badness 1275) in paragraph at lines 408--409
+Underfull \hbox (badness 10000) in paragraph at lines 415--415
+[]|\OT1/ptm/m/n/12 (+20) After vis-it-ing
+ []
+
+
+Underfull \hbox (badness 1360) in paragraph at lines 415--415
+\OT1/ptm/m/n/12 (+20) other user's pro-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 415--415
+\OT1/ptm/m/n/12 (+20) file, Press on
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 415--415
+\OT1/ptm/m/n/12 (+20) con-nect but-ton
+ []
+
+
+Underfull \hbox (badness 2903) in paragraph at lines 415--415
+[]|\OT1/ptm/m/n/12 (+20) Send con-nec-tion
+ []
+
+
+Underfull \hbox (badness 1275) in paragraph at lines 415--416
 \OT1/ptm/m/n/12 (+20) that par-tic-u-lar
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 408--409
+Underfull \hbox (badness 10000) in paragraph at lines 415--416
 \OT1/ptm/m/n/12 (+20) con-nec-tion
  []
 
 
-Overfull \hbox (39.43944pt too wide) in paragraph at lines 404--411
-[][] 
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 400--411
+Underfull \hbox (badness 10000) in paragraph at lines 407--418
 
  []
 
-[39]
-Overfull \hbox (2.30377pt too wide) in paragraph at lines 419--419
+[36]
+Overfull \hbox (2.30377pt too wide) in paragraph at lines 426--426
 []|\OT1/ptm/m/n/12 (-20) Tests| 
  []
 
 
-Underfull \hbox (badness 1275) in paragraph at lines 421--422
+Underfull \hbox (badness 10000) in paragraph at lines 428--428
+[]|\OT1/ptm/m/n/12 (+20) Accept con-nec-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 428--428
+[]|\OT1/ptm/m/n/12 (+20) Accept con-nec-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 428--428
+\OT1/ptm/m/n/12 (+20) tion re-quest of
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 428--428
 \OT1/ptm/m/n/12 (+20) that par-tic-u-lar
  []
 
 
-Overfull \hbox (39.43944pt too wide) in paragraph at lines 417--424
-[][] 
+Underfull \hbox (badness 1275) in paragraph at lines 428--429
+\OT1/ptm/m/n/12 (+20) that par-tic-u-lar
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 413--424
+Underfull \hbox (badness 10000) in paragraph at lines 420--431
 
  []
 
-
-Overfull \hbox (2.30377pt too wide) in paragraph at lines 432--432
+[37]
+Overfull \hbox (2.30377pt too wide) in paragraph at lines 440--440
 []|\OT1/ptm/m/n/12 (-20) Tests| 
  []
 
 
-Underfull \hbox (badness 2486) in paragraph at lines 434--434
-\OT1/ptm/m/n/12 (+20) but-ton that is lo-
- []
-
-
-Underfull \hbox (badness 1622) in paragraph at lines 434--435
+Underfull \hbox (badness 1622) in paragraph at lines 442--443
 \OT1/ptm/m/n/12 (+20) tem and redi-
  []
 
 
-Overfull \hbox (39.43944pt too wide) in paragraph at lines 430--437
-[][] 
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 426--437
+Underfull \hbox (badness 10000) in paragraph at lines 434--445
 
  []
 
-[40]) [41]
+) [38]
 \openout2 = `5ConclusionFuture/conclusion.aux'.
 
  (5ConclusionFuture/conclusion.tex
@@ -2658,111 +2713,128 @@ Chapter 5.
 File: Outcome-ss/homepage.png Graphic file (type png)
 <use Outcome-ss/homepage.png>
 Package pdftex.def Info: Outcome-ss/homepage.png  used on input line 9.
-(pdftex.def)             Requested size: 398.76538pt x 199.3772pt.
-<Outcome-ss/geek.png, id=809, 723.9045pt x 344.487pt>
-File: Outcome-ss/geek.png Graphic file (type png)
-<use Outcome-ss/geek.png>
-Package pdftex.def Info: Outcome-ss/geek.png  used on input line 18.
-(pdftex.def)             Requested size: 358.8864pt x 170.78703pt.
-[42
+(pdftex.def)             Requested size: 434.90039pt x 217.44464pt.
+[39
 
 
 
 
 ]
-<Outcome-ss/ungeek.png, id=814, 863.02425pt x 251.7405pt>
+<Outcome-ss/geek.png, id=829, 723.9045pt x 344.487pt>
+File: Outcome-ss/geek.png Graphic file (type png)
+<use Outcome-ss/geek.png>
+Package pdftex.def Info: Outcome-ss/geek.png  used on input line 19.
+(pdftex.def)             Requested size: 391.40768pt x 186.26726pt.
+<Outcome-ss/ungeek.png, id=830, 863.02425pt x 251.7405pt>
 File: Outcome-ss/ungeek.png Graphic file (type png)
 <use Outcome-ss/ungeek.png>
-Package pdftex.def Info: Outcome-ss/ungeek.png  used on input line 27.
-(pdftex.def)             Requested size: 358.8864pt x 104.68546pt.
-<Outcome-ss/self-profile.png, id=815, 1156.32pt x 528.17325pt>
+Package pdftex.def Info: Outcome-ss/ungeek.png  used on input line 28.
+(pdftex.def)             Requested size: 391.40768pt x 114.17334pt.
+<Outcome-ss/self-profile.png, id=831, 1156.32pt x 528.17325pt>
 File: Outcome-ss/self-profile.png Graphic file (type png)
 <use Outcome-ss/self-profile.png>
-Package pdftex.def Info: Outcome-ss/self-profile.png  used on input line 36.
-(pdftex.def)             Requested size: 398.76538pt x 182.13937pt.
- [43 <./Outcome-ss/geek.png> <./Outcome-ss/ungeek.png>]
+Package pdftex.def Info: Outcome-ss/self-profile.png  used on input line 37.
+(pdftex.def)             Requested size: 434.90039pt x 198.64474pt.
+ [40 <./Outcome-ss/geek.png> <./Outcome-ss/ungeek.png>] [41 <./Outcome-ss/self-profile.png>]
+<Outcome-ss/profile-dashboard.png, id=844, 1105.731pt x 569.7285pt>
+File: Outcome-ss/profile-dashboard.png Graphic file (type png)
+<use Outcome-ss/profile-dashboard.png>
+Package pdftex.def Info: Outcome-ss/profile-dashboard.png  used on input line 47.
+(pdftex.def)             Requested size: 434.90039pt x 224.07968pt.
+<Outcome-ss/project-showcase.png, id=845, 714.87074pt x 335.45325pt>
+File: Outcome-ss/project-showcase.png Graphic file (type png)
+<use Outcome-ss/project-showcase.png>
+Package pdftex.def Info: Outcome-ss/project-showcase.png  used on input line 56.
+(pdftex.def)             Requested size: 434.90039pt x 204.08359pt.
+<Outcome-ss/skill-showcase.png, id=846, 699.21225pt x 341.47575pt>
+File: Outcome-ss/skill-showcase.png Graphic file (type png)
+<use Outcome-ss/skill-showcase.png>
+Package pdftex.def Info: Outcome-ss/skill-showcase.png  used on input line 74.
+(pdftex.def)             Requested size: 434.90039pt x 212.39534pt.
+ [42 <./Outcome-ss/profile-dashboard.png> <./Outcome-ss/project-showcase.png>] [43 <./Outcome-ss/skill-showcase.png>]
 File: Outcome-ss/messenger-full-block.png Graphic file (type png)
 <use Outcome-ss/messenger-full-block.png>
-Package pdftex.def Info: Outcome-ss/messenger-full-block.png  used on input line 45.
-(pdftex.def)             Requested size: 398.76538pt x 205.73698pt.
-<Outcome-ss/search-bar.png, id=822, 1029.8475pt x 161.403pt>
+Package pdftex.def Info: Outcome-ss/messenger-full-block.png  used on input line 83.
+(pdftex.def)             Requested size: 434.90039pt x 224.37732pt.
+<Outcome-ss/search-bar.png, id=858, 1029.8475pt x 161.403pt>
 File: Outcome-ss/search-bar.png Graphic file (type png)
 <use Outcome-ss/search-bar.png>
-Package pdftex.def Info: Outcome-ss/search-bar.png  used on input line 54.
-(pdftex.def)             Requested size: 358.8864pt x 56.2456pt.
- [44 <./Outcome-ss/self-profile.png>]
-<Outcome-ss/notification.png, id=828, 350.5095pt x 177.66376pt>
+Package pdftex.def Info: Outcome-ss/search-bar.png  used on input line 92.
+(pdftex.def)             Requested size: 391.40768pt x 61.34116pt.
+<Outcome-ss/notification.png, id=859, 350.5095pt x 177.66376pt>
 File: Outcome-ss/notification.png Graphic file (type png)
 <use Outcome-ss/notification.png>
-Package pdftex.def Info: Outcome-ss/notification.png  used on input line 63.
-(pdftex.def)             Requested size: 199.38269pt x 101.06335pt.
-<Outcome-ss/post.png, id=829, 380.622pt x 425.1885pt>
+Package pdftex.def Info: Outcome-ss/notification.png  used on input line 101.
+(pdftex.def)             Requested size: 217.4502pt x 110.22087pt.
+ [44 <./Outcome-ss/search-bar.png>] [45 <./Outcome-ss/notification.png>]
+<Outcome-ss/post.png, id=870, 380.622pt x 425.1885pt>
 File: Outcome-ss/post.png Graphic file (type png)
 <use Outcome-ss/post.png>
-Package pdftex.def Info: Outcome-ss/post.png  used on input line 72.
-(pdftex.def)             Requested size: 199.38269pt x 222.73422pt.
- [45 <./Outcome-ss/search-bar.png> <./Outcome-ss/notification.png>]
-<Outcome-ss/saved-posts-list.png, id=836, 690.78075pt x 519.1395pt>
+Package pdftex.def Info: Outcome-ss/post.png  used on input line 111.
+(pdftex.def)             Requested size: 217.4502pt x 242.91791pt.
+<Outcome-ss/saved-posts-list.png, id=871, 690.78075pt x 519.1395pt>
 File: Outcome-ss/saved-posts-list.png Graphic file (type png)
 <use Outcome-ss/saved-posts-list.png>
-Package pdftex.def Info: Outcome-ss/saved-posts-list.png  used on input line 81.
-(pdftex.def)             Requested size: 199.38269pt x 149.84158pt.
-<Outcome-ss/friends-posts.png, id=837, 907.59074pt x 506.49225pt>
+Package pdftex.def Info: Outcome-ss/saved-posts-list.png  used on input line 120.
+(pdftex.def)             Requested size: 217.4502pt x 163.4189pt.
+<Outcome-ss/friends-posts.png, id=872, 907.59074pt x 506.49225pt>
 File: Outcome-ss/friends-posts.png Graphic file (type png)
 <use Outcome-ss/friends-posts.png>
-Package pdftex.def Info: Outcome-ss/friends-posts.png  used on input line 90.
-(pdftex.def)             Requested size: 199.38269pt x 111.26634pt.
+Package pdftex.def Info: Outcome-ss/friends-posts.png  used on input line 129.
+(pdftex.def)             Requested size: 217.4502pt x 121.35194pt.
  [46 <./Outcome-ss/post.png> <./Outcome-ss/saved-posts-list.png>]
-<Outcome-ss/public-posts.png, id=844, 900.36375pt x 573.94424pt>
+<Outcome-ss/public-posts.png, id=879, 900.36375pt x 573.94424pt>
 File: Outcome-ss/public-posts.png Graphic file (type png)
 <use Outcome-ss/public-posts.png>
-Package pdftex.def Info: Outcome-ss/public-posts.png  used on input line 99.
-(pdftex.def)             Requested size: 199.38269pt x 127.09134pt.
-<Outcome-ss/other-user-profile.png, id=845, 1156.32pt x 540.21825pt>
+Package pdftex.def Info: Outcome-ss/public-posts.png  used on input line 138.
+(pdftex.def)             Requested size: 217.4502pt x 138.60768pt.
+ [47 <./Outcome-ss/friends-posts.png> <./Outcome-ss/public-posts.png>]
+<Outcome-ss/other-user-profile.png, id=887, 1149.093pt x 567.3195pt>
 File: Outcome-ss/other-user-profile.png Graphic file (type png)
 <use Outcome-ss/other-user-profile.png>
-Package pdftex.def Info: Outcome-ss/other-user-profile.png  used on input line 107.
-(pdftex.def)             Requested size: 398.76538pt x 186.29306pt.
- [47 <./Outcome-ss/friends-posts.png> <./Outcome-ss/public-posts.png>]
-<Outcome-ss/connection-request.png, id=853, 233.07076pt x 422.7795pt>
+Package pdftex.def Info: Outcome-ss/other-user-profile.png  used on input line 148.
+(pdftex.def)             Requested size: 434.90039pt x 214.71799pt.
+ [48 <./Outcome-ss/other-user-profile.png>]
+<Outcome-ss/connection-request.png, id=893, 233.07076pt x 422.7795pt>
 File: Outcome-ss/connection-request.png Graphic file (type png)
 <use Outcome-ss/connection-request.png>
-Package pdftex.def Info: Outcome-ss/connection-request.png  used on input line 116.
-(pdftex.def)             Requested size: 109.88112pt x 199.31358pt.
-<Outcome-ss/accept-request.png, id=854, 208.3785pt x 423.38174pt>
+Package pdftex.def Info: Outcome-ss/connection-request.png  used on input line 157.
+(pdftex.def)             Requested size: 115.85582pt x 210.15419pt.
+ [49 <./Outcome-ss/connection-request.png>]
+<Outcome-ss/accept-request.png, id=899, 208.3785pt x 423.38174pt>
 File: Outcome-ss/accept-request.png Graphic file (type png)
 <use Outcome-ss/accept-request.png>
-Package pdftex.def Info: Outcome-ss/accept-request.png  used on input line 124.
-(pdftex.def)             Requested size: 98.09688pt x 199.31358pt.
- [48 <./Outcome-ss/other-user-profile.png> <./Outcome-ss/connection-request.png>]
-<Outcome-ss/result-after-accepting.png, id=861, 220.4235pt x 419.76825pt>
+Package pdftex.def Info: Outcome-ss/accept-request.png  used on input line 167.
+(pdftex.def)             Requested size: 103.43224pt x 210.15419pt.
+ [50 <./Outcome-ss/accept-request.png>]
+<Outcome-ss/result-after-accepting.png, id=905, 220.4235pt x 419.76825pt>
 File: Outcome-ss/result-after-accepting.png Graphic file (type png)
 <use Outcome-ss/result-after-accepting.png>
-Package pdftex.def Info: Outcome-ss/result-after-accepting.png  used on input line 132.
-(pdftex.def)             Requested size: 104.65851pt x 199.31358pt.
- [49 <./Outcome-ss/accept-request.png> <./Outcome-ss/result-after-accepting.png>] [50]
+Package pdftex.def Info: Outcome-ss/result-after-accepting.png  used on input line 177.
+(pdftex.def)             Requested size: 110.35272pt x 210.15419pt.
+ [51 <./Outcome-ss/result-after-accepting.png>] [52]
 Chapter 6.
 )
-Underfull \hbox (badness 10000) in paragraph at lines 143--248
+Underfull \hbox (badness 10000) in paragraph at lines 202--248
 
  []
 
-[51
+
+Underfull \hbox (badness 10000) in paragraph at lines 202--248
+
+ []
+
+[53
 
 ] (Appendix/appendix1.tex
-<Diagrams/Gantt_Chart.png, id=876, 770.88pt x 578.16pt>
+<Diagrams/Gantt_Chart.png, id=920, 770.88pt x 578.16pt>
 File: Diagrams/Gantt_Chart.png Graphic file (type png)
 <use Diagrams/Gantt_Chart.png>
 Package pdftex.def Info: Diagrams/Gantt_Chart.png  used on input line 5.
 (pdftex.def)             Requested size: 401.50146pt x 301.1213pt.
-
-Overfull \hbox (2.73608pt too wide) in paragraph at lines 5--6
- [][] 
- []
-
-(C:\Latex\tex/latex/listings\lstlang1.sty
+ (C:\Users\Senbuu\AppData\Local\Programs\MiKTeX\tex/latex/listings\lstlang1.sty
 File: lstlang1.sty 2023/02/27 1.9 listings language file
-) (C:\Latex\tex/latex/listings\lstlang2.sty
+) (C:\Users\Senbuu\AppData\Local\Programs\MiKTeX\tex/latex/listings\lstlang2.sty
 File: lstlang2.sty 2023/02/27 1.9 listings language file
 )
 Underfull \hbox (badness 10000) in paragraph at lines 34--35
@@ -2770,63 +2842,58 @@ Underfull \hbox (badness 10000) in paragraph at lines 34--35
  []
 
 
-Overfull \hbox (38.15952pt too wide) in paragraph at lines 37--37
+Overfull \hbox (2.0245pt too wide) in paragraph at lines 37--37
  []\OT1/cmtt/m/n/12 git clone https://github.com/sushantbramhacharya/CodeConnectBE.git[] 
  []
 
-[52
 
-
-
- <./Diagrams/Gantt_Chart.png>]
 Underfull \hbox (badness 10000) in paragraph at lines 38--39
 
  []
 
+[54
 
-Overfull \hbox (38.15952pt too wide) in paragraph at lines 41--41
+
+
+ <./Diagrams/Gantt_Chart.png>]
+Overfull \hbox (2.0245pt too wide) in paragraph at lines 41--41
  []\OT1/cmtt/m/n/12 git clone https://github.com/sushantbramhacharya/CodeConnectDB.git[] 
  []
 
 LaTeX Font Info:    Trying to load font information for TS1+cmtt on input line 51.
-(C:\Latex\tex/latex/base\ts1cmtt.fd
+(C:\Users\Senbuu\AppData\Local\Programs\MiKTeX\tex/latex/base\ts1cmtt.fd
 File: ts1cmtt.fd 2022/07/10 v2.5l Standard LaTeX font definitions
 )
 Package microtype Info: Loading generic protrusion settings for font family
 (microtype)             `cmtt' (encoding: TS1).
 (microtype)             For optimal results, create family-specific settings.
 (microtype)             See the microtype manual for details.
-<Appendix/supervisor-form.jpg, id=889, 2912.8825pt x 4119.39pt>
+<Appendix/supervisor-form.jpg, id=933, 2912.8825pt x 4119.39pt>
 File: Appendix/supervisor-form.jpg Graphic file (type jpg)
 <use Appendix/supervisor-form.jpg>
 Package pdftex.def Info: Appendix/supervisor-form.jpg  used on input line 67.
 (pdftex.def)             Requested size: 401.50146pt x 567.78502pt.
-
-Overfull \hbox (2.73608pt too wide) in paragraph at lines 67--68
- [][] 
- []
-
-) (Appendix/appendix2.tex [53]) [54 <./Appendix/supervisor-form.jpg>] (main.bbl) [55
+) (Appendix/appendix2.tex [55]) [56 <./Appendix/supervisor-form.jpg>] (main.bbl) [57
 
 ] (main.aux (0ACover/0cover.aux) (0ACover/1title.aux) (0ACover/4recommendation.aux) (0ACover/5departmentAcceptance.aux) (LetterOfApprovalBCA/letter.aux) (0ACover/6acknowledgement.aux) (0HAbstract/abstract.aux) (0IAbbreviations/abbreviations.aux) (1Introduction/introduction.aux) (2Literaturereview/literaturereview.aux) (3Methodology/methodology.aux) (4ImplementationAndTesting/ImplementationAndTesting.aux) (5ConclusionFuture/conclusion.aux))
 
 LaTeX Warning: There were multiply-defined labels.
 
 Package rerunfilecheck Info: File `main.out' has not changed.
-(rerunfilecheck)             Checksum: 3720FEB79971111E3DE614D0E2834568;11329.
+(rerunfilecheck)             Checksum: A621FE39E906763867A58B54E345BFB1;11622.
  ) 
 Here is how much of TeX's memory you used:
- 38353 strings out of 476411
- 726357 string characters out of 5806022
+ 38407 strings out of 476411
+ 745968 string characters out of 5788663
  1874845 words of memory out of 5000000
- 57444 multiletter control sequences out of 15000+600000
- 542482 words of font info for 234 fonts, out of 8000000 for 9000
+ 57484 multiletter control sequences out of 15000+600000
+ 542652 words of font info for 234 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  108i,12n,117p,1631b,3402s stack positions out of 10000i,1000n,20000p,200000b,200000s
- <C:\Users\Acer\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\tctt1095.pk><C:/Latex/fonts/type1/public/amsfonts/cm/cmtt10.pfb><C:/Latex/fonts/type1/public/amsfonts/cm/cmtt12.pfb><C:/Latex/fonts/type1/urw/times/utmb8a.pfb><C:/Latex/fonts/type1/urw/times/utmr8a.pfb><C:/Latex/fonts/type1/urw/times/utmri8a.pfb>
-Output written on main.pdf (69 pages, 9712230 bytes).
+ <C:\Users\Senbuu\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\tctt1095.pk><C:/Users/Senbuu/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmtt10.pfb><C:/Users/Senbuu/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmtt12.pfb><C:/Users/Senbuu/AppData/Local/Programs/MiKTeX/fonts/type1/urw/times/utmb8a.pfb><C:/Users/Senbuu/AppData/Local/Programs/MiKTeX/fonts/type1/urw/times/utmr8a.pfb><C:/Users/Senbuu/AppData/Local/Programs/MiKTeX/fonts/type1/urw/times/utmri8a.pfb>
+Output written on main.pdf (71 pages, 10348852 bytes).
 PDF statistics:
- 1002 PDF objects out of 1200 (max. 8388607)
- 239 named destinations out of 1000 (max. 500000)
- 44823 words of extra memory for PDF output out of 51595 (max. 10000000)
+ 1047 PDF objects out of 1200 (max. 8388607)
+ 248 named destinations out of 1000 (max. 500000)
+ 44864 words of extra memory for PDF output out of 51595 (max. 10000000)
 

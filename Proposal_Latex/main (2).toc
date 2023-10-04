@@ -3,9 +3,9 @@
 \contentsline {chapter}{ACKNOWLEDGMENT}{vi}{chapter*.5}%
 \contentsline {chapter}{ABSTRACT}{vii}{chapter*.6}%
 \contentsline {chapter}{TABLE OF CONTENTS}{viii}{chapter*.7}%
-\contentsline {chapter}{LIST OF FIGURES}{xi}{chapter*.8}%
-\contentsline {chapter}{LIST OF TABLES}{xii}{chapter*.9}%
-\contentsline {chapter}{LIST OF ABBREVIATIONS}{xiii}{chapter*.10}%
+\contentsline {chapter}{LIST OF FIGURES}{ix}{chapter*.8}%
+\contentsline {chapter}{LIST OF TABLES}{x}{chapter*.9}%
+\contentsline {chapter}{LIST OF ABBREVIATIONS}{xi}{chapter*.10}%
 \contentsline {chapter}{\numberline {1}INTRODUCTION}{1}{chapter.1}%
 \contentsline {section}{\numberline {1.1}Introduction}{1}{section.1.1}%
 \contentsline {section}{\numberline {1.2}Problem Statement}{1}{section.1.2}%
@@ -79,4 +79,4 @@
 \contentsline {section}{\numberline {A.2}Setup Guide to run Code Connect Locally}{40}{section.1..2}%
 \contentsline {section}{\numberline {A.3}MySQL Connection in our CodeConnect PHP}{41}{section.1..3}%
 \contentsline {section}{\numberline {A.4}Supervisor Consultation Form}{42}{section.1..4}%
-\contentsline {chapter}{REFERENCES}{43}{appendix*.37}%
+\contentsline {chapter}{REFERENCES}{43}{appendix*.38}%

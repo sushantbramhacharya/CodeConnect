@@ -1,0 +1,74 @@
+This is BibTeX, Version 0.99d
+Capacity: max_strings=200000, hash_size=200000, hash_prime=170003
+The top-level auxiliary file: main.aux
+Reallocating 'name_of_file' (item size: 1) to 19 items.
+A level-1 auxiliary file: 0ACover/0cover.aux
+Reallocating 'name_of_file' (item size: 1) to 19 items.
+A level-1 auxiliary file: 0ACover/1title.aux
+Reallocating 'name_of_file' (item size: 1) to 28 items.
+A level-1 auxiliary file: 0ACover/4recommendation.aux
+Reallocating 'name_of_file' (item size: 1) to 34 items.
+A level-1 auxiliary file: 0ACover/5departmentAcceptance.aux
+Reallocating 'name_of_file' (item size: 1) to 31 items.
+A level-1 auxiliary file: LetterOfApprovalBCA/letter.aux
+Reallocating 'name_of_file' (item size: 1) to 29 items.
+A level-1 auxiliary file: 0ACover/6acknowledgement.aux
+Reallocating 'name_of_file' (item size: 1) to 24 items.
+A level-1 auxiliary file: 0HAbstract/abstract.aux
+Reallocating 'name_of_file' (item size: 1) to 34 items.
+A level-1 auxiliary file: 0IAbbreviations/abbreviations.aux
+Reallocating 'name_of_file' (item size: 1) to 31 items.
+A level-1 auxiliary file: 1Introduction/introduction.aux
+Reallocating 'name_of_file' (item size: 1) to 39 items.
+A level-1 auxiliary file: 2Literaturereview/literaturereview.aux
+Reallocating 'name_of_file' (item size: 1) to 29 items.
+A level-1 auxiliary file: 3Methodology/methodology.aux
+Reallocating 'name_of_file' (item size: 1) to 55 items.
+A level-1 auxiliary file: 4ImplementationAndTesting/ImplementationAndTesting.aux
+Reallocating 'name_of_file' (item size: 1) to 33 items.
+A level-1 auxiliary file: 5ConclusionFuture/conclusion.aux
+Reallocating 'name_of_file' (item size: 1) to 6 items.
+The style file: unsrt.bst
+Reallocating 'name_of_file' (item size: 1) to 22 items.
+Database file #1: References/references.bib
+You've used 7 entries,
+            1791 wiz_defined-function locations,
+            506 strings with 5376 characters,
+and the built_in function-call counts, 2018 in all, are:
+= -- 187
+> -- 91
+< -- 3
++ -- 33
+- -- 26
+* -- 140
+:= -- 310
+add.period$ -- 22
+call.type$ -- 7
+change.case$ -- 7
+chr.to.int$ -- 0
+cite$ -- 7
+duplicate$ -- 90
+empty$ -- 186
+format.name$ -- 26
+if$ -- 454
+int.to.chr$ -- 0
+int.to.str$ -- 7
+missing$ -- 7
+newline$ -- 38
+num.names$ -- 7
+pop$ -- 19
+preamble$ -- 1
+purify$ -- 0
+quote$ -- 0
+skip$ -- 51
+stack$ -- 0
+substring$ -- 154
+swap$ -- 30
+text.length$ -- 3
+text.prefix$ -- 0
+top$ -- 0
+type$ -- 0
+warning$ -- 0
+while$ -- 24
+width$ -- 8
+write$ -- 80

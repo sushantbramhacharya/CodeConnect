@@ -2,33 +2,38 @@
 \addvspace {10\p@ }
 \addvspace {10\p@ }
 \addvspace {10\p@ }
-\contentsline {figure}{\numberline {3.1}{\ignorespaces ER Diagram of System Data\relax }}{14}{figure.caption.11}%
-\contentsline {figure}{\numberline {3.2}{\ignorespaces Data Flow Diagram (Context Level)\relax }}{15}{figure.caption.12}%
-\contentsline {figure}{\numberline {3.3}{\ignorespaces Main Architecture of System\relax }}{16}{figure.caption.13}%
-\contentsline {figure}{\numberline {3.4}{\ignorespaces Activity Diagram\relax }}{17}{figure.caption.14}%
-\contentsline {figure}{\numberline {3.5}{\ignorespaces Database Schema Design\relax }}{18}{figure.caption.15}%
-\contentsline {figure}{\numberline {3.6}{\ignorespaces Desktop Login UI\relax }}{19}{figure.caption.16}%
-\contentsline {figure}{\numberline {3.7}{\ignorespaces Desktop Homepage UI\relax }}{20}{figure.caption.17}%
-\contentsline {figure}{\numberline {3.8}{\ignorespaces Desktop Messages UI\relax }}{20}{figure.caption.18}%
-\contentsline {figure}{\numberline {3.9}{\ignorespaces Mobile Login UI\relax }}{21}{figure.caption.19}%
-\contentsline {figure}{\numberline {3.10}{\ignorespaces Physical DFD of System\relax }}{23}{figure.caption.20}%
+\contentsline {figure}{\numberline {3.1}{\ignorespaces ER Diagram of System Data\relax }}{13}{figure.caption.11}%
+\contentsline {figure}{\numberline {3.2}{\ignorespaces Data Flow Diagram (Context Level)\relax }}{14}{figure.caption.12}%
+\contentsline {figure}{\numberline {3.3}{\ignorespaces Main Architecture of System\relax }}{15}{figure.caption.13}%
+\contentsline {figure}{\numberline {3.4}{\ignorespaces Database Schema Design\relax }}{16}{figure.caption.14}%
+\contentsline {figure}{\numberline {3.5}{\ignorespaces Desktop Login UI\relax }}{17}{figure.caption.15}%
+\contentsline {figure}{\numberline {3.6}{\ignorespaces Desktop Homepage UI\relax }}{18}{figure.caption.16}%
+\contentsline {figure}{\numberline {3.7}{\ignorespaces Desktop Messages UI\relax }}{18}{figure.caption.17}%
+\contentsline {figure}{\numberline {3.8}{\ignorespaces Mobile Login UI\relax }}{19}{figure.caption.18}%
+\contentsline {figure}{\numberline {3.9}{\ignorespaces Mobile Homepage UI\relax }}{19}{figure.caption.19}%
+\contentsline {figure}{\numberline {3.10}{\ignorespaces Mobile Chat UI\relax }}{20}{figure.caption.20}%
+\contentsline {figure}{\numberline {3.11}{\ignorespaces Mobile Friend-list of chat UI\relax }}{20}{figure.caption.21}%
+\contentsline {figure}{\numberline {3.12}{\ignorespaces Physical DFD of System\relax }}{22}{figure.caption.22}%
 \addvspace {10\p@ }
 \addvspace {10\p@ }
-\contentsline {figure}{\numberline {5.1}{\ignorespaces Home Page.\relax }}{42}{figure.caption.50}%
-\contentsline {figure}{\numberline {5.2}{\ignorespaces Geek.\relax }}{43}{figure.caption.51}%
-\contentsline {figure}{\numberline {5.3}{\ignorespaces Un-Geek.\relax }}{43}{figure.caption.52}%
-\contentsline {figure}{\numberline {5.4}{\ignorespaces Profile.\relax }}{44}{figure.caption.53}%
-\contentsline {figure}{\numberline {5.5}{\ignorespaces Messenger.\relax }}{44}{figure.caption.54}%
-\contentsline {figure}{\numberline {5.6}{\ignorespaces Search.\relax }}{45}{figure.caption.55}%
-\contentsline {figure}{\numberline {5.7}{\ignorespaces Notification.\relax }}{45}{figure.caption.56}%
-\contentsline {figure}{\numberline {5.8}{\ignorespaces Post.\relax }}{46}{figure.caption.57}%
-\contentsline {figure}{\numberline {5.9}{\ignorespaces Save post\relax }}{46}{figure.caption.58}%
-\contentsline {figure}{\numberline {5.10}{\ignorespaces Friends posts\relax }}{47}{figure.caption.59}%
-\contentsline {figure}{\numberline {5.11}{\ignorespaces Public posts\relax }}{47}{figure.caption.60}%
-\contentsline {figure}{\numberline {5.12}{\ignorespaces Profile of other Users.\relax }}{48}{figure.caption.61}%
-\contentsline {figure}{\numberline {5.13}{\ignorespaces Send Connection Request.\relax }}{48}{figure.caption.62}%
-\contentsline {figure}{\numberline {5.14}{\ignorespaces Result after connection request is sent.\relax }}{49}{figure.caption.63}%
-\contentsline {figure}{\numberline {5.15}{\ignorespaces Connection Request Accepted.\relax }}{49}{figure.caption.64}%
+\contentsline {figure}{\numberline {5.1}{\ignorespaces Home Page.\relax }}{39}{figure.caption.52}%
+\contentsline {figure}{\numberline {5.2}{\ignorespaces Geek.\relax }}{40}{figure.caption.53}%
+\contentsline {figure}{\numberline {5.3}{\ignorespaces Un-Geek.\relax }}{40}{figure.caption.54}%
+\contentsline {figure}{\numberline {5.4}{\ignorespaces Profile.\relax }}{41}{figure.caption.55}%
+\contentsline {figure}{\numberline {5.5}{\ignorespaces Profile Dashboard\relax }}{42}{figure.caption.56}%
+\contentsline {figure}{\numberline {5.6}{\ignorespaces Project Showcase\relax }}{42}{figure.caption.57}%
+\contentsline {figure}{\numberline {5.7}{\ignorespaces Skills Showcase\relax }}{43}{figure.caption.58}%
+\contentsline {figure}{\numberline {5.8}{\ignorespaces Messenger.\relax }}{44}{figure.caption.59}%
+\contentsline {figure}{\numberline {5.9}{\ignorespaces Search.\relax }}{44}{figure.caption.60}%
+\contentsline {figure}{\numberline {5.10}{\ignorespaces Notification.\relax }}{45}{figure.caption.61}%
+\contentsline {figure}{\numberline {5.11}{\ignorespaces Post.\relax }}{46}{figure.caption.62}%
+\contentsline {figure}{\numberline {5.12}{\ignorespaces Save post\relax }}{46}{figure.caption.63}%
+\contentsline {figure}{\numberline {5.13}{\ignorespaces Friends posts\relax }}{47}{figure.caption.64}%
+\contentsline {figure}{\numberline {5.14}{\ignorespaces Public posts\relax }}{47}{figure.caption.65}%
+\contentsline {figure}{\numberline {5.15}{\ignorespaces Profile of other Users.\relax }}{48}{figure.caption.66}%
+\contentsline {figure}{\numberline {5.16}{\ignorespaces Send Connection Request.\relax }}{49}{figure.caption.67}%
+\contentsline {figure}{\numberline {5.17}{\ignorespaces Result after connection request is sent.\relax }}{50}{figure.caption.68}%
+\contentsline {figure}{\numberline {5.18}{\ignorespaces Connection Request Accepted.\relax }}{51}{figure.caption.69}%
 \addvspace {10\p@ }
-\contentsline {figure}{\numberline {A.1}{\ignorespaces Gantt Chart of Schedule\relax }}{52}{figure.caption.66}%
-\contentsline {figure}{\numberline {A.2}{\ignorespaces Supervisor Consultation Form\relax }}{54}{figure.caption.67}%
+\contentsline {figure}{\numberline {A.1}{\ignorespaces Gantt Chart of Schedule\relax }}{54}{figure.caption.71}%
+\contentsline {figure}{\numberline {A.2}{\ignorespaces Supervisor Consultation Form\relax }}{56}{figure.caption.72}%

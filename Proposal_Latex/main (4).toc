@@ -3,9 +3,9 @@
 \contentsline {chapter}{ACKNOWLEDGMENT}{vi}{chapter*.5}%
 \contentsline {chapter}{ABSTRACT}{vii}{chapter*.6}%
 \contentsline {chapter}{TABLE OF CONTENTS}{viii}{chapter*.7}%
-\contentsline {chapter}{LIST OF FIGURES}{ix}{chapter*.8}%
-\contentsline {chapter}{LIST OF TABLES}{x}{chapter*.9}%
-\contentsline {chapter}{LIST OF ABBREVIATIONS}{xi}{chapter*.10}%
+\contentsline {chapter}{LIST OF FIGURES}{xi}{chapter*.8}%
+\contentsline {chapter}{LIST OF TABLES}{xii}{chapter*.9}%
+\contentsline {chapter}{LIST OF ABBREVIATIONS}{xiii}{chapter*.10}%
 \contentsline {chapter}{\numberline {1}INTRODUCTION}{1}{chapter.1}%
 \contentsline {section}{\numberline {1.1}Introduction}{1}{section.1.1}%
 \contentsline {section}{\numberline {1.2}Problem Statement}{1}{section.1.2}%
@@ -54,29 +54,29 @@
 \contentsline {subsection}{\numberline {4.3.5}Font Awesome }{29}{subsection.4.3.5}%
 \contentsline {section}{\numberline {4.4}Testing}{29}{section.4.4}%
 \contentsline {subsection}{\numberline {4.4.1}Unit Testing}{29}{subsection.4.4.1}%
-\contentsline {chapter}{\numberline {5}WORKS COMPLETED}{31}{chapter.5}%
-\contentsline {section}{\numberline {5.1}Home Page}{31}{section.5.1}%
-\contentsline {section}{\numberline {5.2}Geek}{31}{section.5.2}%
-\contentsline {section}{\numberline {5.3}Un-Geek}{32}{section.5.3}%
-\contentsline {section}{\numberline {5.4}Profile}{32}{section.5.4}%
-\contentsline {section}{\numberline {5.5}Messenger}{33}{section.5.5}%
-\contentsline {section}{\numberline {5.6}Search}{34}{section.5.6}%
-\contentsline {section}{\numberline {5.7}Notification}{34}{section.5.7}%
-\contentsline {section}{\numberline {5.8}Post}{35}{section.5.8}%
-\contentsline {section}{\numberline {5.9}Profile of other Users}{35}{section.5.9}%
-\contentsline {section}{\numberline {5.10}Send Connection Request}{36}{section.5.10}%
-\contentsline {section}{\numberline {5.11}Result after connection request is sent}{36}{section.5.11}%
-\contentsline {section}{\numberline {5.12}Connection Request Accepted}{37}{section.5.12}%
-\contentsline {chapter}{\numberline {6}DISCUSSION AND ANALYSIS}{38}{chapter.6}%
-\contentsline {chapter}{\numberline {7}WORKS REMAINING}{39}{chapter.7}%
-\contentsline {section}{\numberline {7.1}Comments}{39}{section.7.1}%
-\contentsline {section}{\numberline {7.2}Messeneger}{39}{section.7.2}%
-\contentsline {section}{\numberline {7.3}Search for Codes/Discussion}{39}{section.7.3}%
-\contentsline {section}{\numberline {7.4}CV Upload and Management}{39}{section.7.4}%
-\contentsline {section}{\numberline {7.5}Portfolio management}{39}{section.7.5}%
+\contentsline {chapter}{\numberline {5}WORKS COMPLETED}{33}{chapter.5}%
+\contentsline {section}{\numberline {5.1}Home Page}{33}{section.5.1}%
+\contentsline {section}{\numberline {5.2}Geek}{33}{section.5.2}%
+\contentsline {section}{\numberline {5.3}Un-Geek}{34}{section.5.3}%
+\contentsline {section}{\numberline {5.4}Profile}{34}{section.5.4}%
+\contentsline {section}{\numberline {5.5}Messenger}{35}{section.5.5}%
+\contentsline {section}{\numberline {5.6}Search}{36}{section.5.6}%
+\contentsline {section}{\numberline {5.7}Notification}{36}{section.5.7}%
+\contentsline {section}{\numberline {5.8}Post}{37}{section.5.8}%
+\contentsline {section}{\numberline {5.9}Profile of other Users}{37}{section.5.9}%
+\contentsline {section}{\numberline {5.10}Send Connection Request}{38}{section.5.10}%
+\contentsline {section}{\numberline {5.11}Result after connection request is sent}{38}{section.5.11}%
+\contentsline {section}{\numberline {5.12}Connection Request Accepted}{39}{section.5.12}%
+\contentsline {chapter}{\numberline {6}DISCUSSION AND ANALYSIS}{40}{chapter.6}%
+\contentsline {chapter}{\numberline {7}WORKS REMAINING}{41}{chapter.7}%
+\contentsline {section}{\numberline {7.1}Comments}{41}{section.7.1}%
+\contentsline {section}{\numberline {7.2}Messeneger}{41}{section.7.2}%
+\contentsline {section}{\numberline {7.3}Search for Codes/Discussion}{41}{section.7.3}%
+\contentsline {section}{\numberline {7.4}CV Upload and Management}{41}{section.7.4}%
+\contentsline {section}{\numberline {7.5}Portfolio management}{41}{section.7.5}%
 \textbf {APPENDIX A}
-\contentsline {section}{\numberline {A.1}Project Schedule}{40}{section.1..1}%
-\contentsline {section}{\numberline {A.2}Setup Guide to run Code Connect Locally}{40}{section.1..2}%
-\contentsline {section}{\numberline {A.3}MySQL Connection in our CodeConnect PHP}{41}{section.1..3}%
-\contentsline {section}{\numberline {A.4}Supervisor Consultation Form}{42}{section.1..4}%
-\contentsline {chapter}{REFERENCES}{43}{appendix*.38}%
+\contentsline {section}{\numberline {A.1}Project Schedule}{42}{section.1..1}%
+\contentsline {section}{\numberline {A.2}Setup Guide to run Code Connect Locally}{42}{section.1..2}%
+\contentsline {section}{\numberline {A.3}MySQL Connection in our CodeConnect PHP}{43}{section.1..3}%
+\contentsline {section}{\numberline {A.4}Supervisor Consultation Form}{44}{section.1..4}%
+\contentsline {chapter}{REFERENCES}{45}{appendix*.45}%
