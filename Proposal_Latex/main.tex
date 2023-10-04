@@ -83,11 +83,11 @@
 
 %------ FORMAT CHAPTER, SECTION, AND SUBSECTION TITLE ------%
   \titleformat{\chapter}{
-  \normalfont\fontsize{12}{15}\bfseries
+  \normalfont\fontsize{16}{15}\bfseries
   }{\thechapter}{1em}{}
 
   \titleformat{\section}{
-  \normalfont\fontsize{12}{15}\bfseries
+  \normalfont\fontsize{14}{15}\bfseries
   }{\thesection}{1em}{}
 
   \titleformat{\subsection}{
@@ -144,7 +144,8 @@
 %------ FORMAT TABLE CAPTIONS ------%
 \usepackage{caption} 
 \captionsetup[table]{skip=10pt}
-
+\captionsetup[figure]{labelfont=bf,textfont=bf}
+\captionsetup[table]{labelfont=bf,textfont=bf}
 
 
 \newcommand{\Lpagenumber}{\ifdim\textwidth=\linewidth\else\bgroup
@@ -178,7 +179,7 @@
 \newcommand{\thesupervisor}{Er. Sandesh Sharan Poudel}
 
 
-
+\linespread{1.5}
 \begin{document}
 
 \pagenumbering{roman}

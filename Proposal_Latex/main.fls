@@ -720,6 +720,9 @@ INPUT .\0ACover\4recommendation.tex
 INPUT .\0ACover\4recommendation.tex
 INPUT 0ACover\4recommendation.tex
 INPUT 0ACover\4recommendation.tex
+INPUT C:\Users\Senbuu\AppData\Local\Programs\MiKTeX\fonts\tfm\adobe\times\ptmb7t.tfm
+INPUT C:\Users\Senbuu\AppData\Local\Programs\MiKTeX\fonts\vf\adobe\times\ptmb7t.vf
+INPUT C:\Users\Senbuu\AppData\Local\Programs\MiKTeX\fonts\tfm\adobe\times\ptmb8r.tfm
 INPUT C:\Users\Senbuu\AppData\Local\Programs\MiKTeX\fonts\vf\adobe\times\ptmr7t.vf
 INPUT C:\Users\Senbuu\AppData\Local\Programs\MiKTeX\fonts\tfm\adobe\times\ptmr8r.tfm
 INPUT .\0ACover\5departmentAcceptance.tex
