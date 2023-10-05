@@ -720,8 +720,6 @@ INPUT .\0ACover\4recommendation.tex
 INPUT .\0ACover\4recommendation.tex
 INPUT 0ACover\4recommendation.tex
 INPUT 0ACover\4recommendation.tex
-INPUT C:\Latex\fonts\vf\adobe\times\ptmr7t.vf
-INPUT C:\Latex\fonts\tfm\adobe\times\ptmr8r.tfm
 INPUT .\0ACover\5departmentAcceptance.tex
 INPUT .\0ACover\5departmentAcceptance.tex
 OUTPUT 0ACover\5departmentAcceptance.aux
@@ -792,6 +790,9 @@ INPUT C:\Latex\fonts\tfm\adobe\times\ptmri7t.tfm
 INPUT C:\Latex\fonts\tfm\adobe\times\ptmri7t.tfm
 INPUT C:\Latex\fonts\vf\adobe\times\ptmb7t.vf
 INPUT C:\Latex\fonts\tfm\adobe\times\ptmb8r.tfm
+INPUT C:\Latex\fonts\vf\adobe\times\ptmr7t.vf
+INPUT C:\Latex\fonts\tfm\adobe\times\ptmr8r.tfm
+INPUT C:\Latex\fonts\vf\adobe\times\ptmb7t.vf
 INPUT .\0ACover\6acknowledgement.tex
 INPUT .\0ACover\6acknowledgement.tex
 OUTPUT 0ACover\6acknowledgement.aux
@@ -799,7 +800,9 @@ INPUT .\0ACover\6acknowledgement.tex
 INPUT .\0ACover\6acknowledgement.tex
 INPUT 0ACover\6acknowledgement.tex
 INPUT 0ACover\6acknowledgement.tex
+INPUT C:\Latex\fonts\tfm\adobe\times\ptmb7t.tfm
 INPUT C:\Latex\fonts\vf\adobe\times\ptmb7t.vf
+INPUT C:\Latex\fonts\tfm\adobe\times\ptmb8r.tfm
 INPUT .\0HAbstract\abstract.tex
 INPUT .\0HAbstract\abstract.tex
 OUTPUT 0HAbstract\abstract.aux

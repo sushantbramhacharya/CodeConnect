@@ -43,180 +43,213 @@ In the realm of web design and typography, Google Fonts emerges as a transformat
 In the world of web design and user interface enhancement, Font Awesome stands out as a remarkable tool. Its extensive icon library, spanning diverse categories, simplifies icon integration into web projects. Font Awesome not only adds visual appeal but also enhances functionality. Using CSS classes for seamless icon incorporation and customization options for size, color, and style, it empowers designers for creative expression. Its compatibility with various frameworks and platforms makes it versatile for all developers. Font Awesome significantly elevates user experiences by adding depth and meaning to digital interfaces, making it an essential asset in crafting captivating and user-centric web applications.
 \subsection{Bootstrap}
 We have used small portion of bootstrap for quick development of profile dashboard. Bootstrap is a widely-used front-end framework that simplifies web development by providing a collection of pre-designed HTML, CSS, and JavaScript components. With its responsive design, ready-made elements, and customization options, Bootstrap enables developers to create mobile-friendly and visually appealing websites and web applications with ease.
+
 % \subsection{Implementation Details of Modules}
 % \section{Testing}
 % \subsection{Test Cases for Unit Testing}
 % \subsection{Test Cases for System Testing}
 \section{Testing}
-\subsection{Unit Testing}
-Unit testing is a software testing technique where individual units or components of a software application are tested in isolation to ensure that they function correctly. These units can be functions, methods, classes, or even small modules. Unit testing aims to verify that each unit performs as expected, providing developers with confidence that their code works as intended and catches bugs early in the development process.
-\\
-\textbf{Authenication Unit}\\
-Here testing different test cases of authentication system in Code Connect is performed as required:\\
+\textbf{Test Cases}
+A test case is a fundamental component of software testing, serving as a detailed and structured set of instructions and conditions that verify the functionality of a specific aspect of a software application.
+\subsection{Test Cases for Unit Testing}
+Unit testing is a software testing technique where individual units or components of a software application are tested in isolation to ensure that they function correctly. These units can be functions, methods, classes, or even small modules. Unit testing aims to verify that each unit performs as expected, providing developers with confidence that their code works as intended and catches bugs early in the development process. Test cases of some units are given below:
+\begin{table}[H]
+    \caption{Unit Test Cases of home/index.php in Code Connect}
+        \label{}
+        \begin{tabularx}{\textwidth}{|Y|Y|Y|Y|}
+        \hline
+        Tests & Scenario &Expected Output & Actual Output \\
+        \hline
+        1  & GET method : friendsOnly=true & Home Page with Friends only posts & Home Page with friends only discusion \\
+        \hline
+        2 & GET method : showSaved=true & Home Page with Saved posts & Home Page with Saved discusion \\
+        \hline
+        3 & GET method : codeSearchKeyword=python& Home Page with post that match keyword python & Home Page with Python discusion \\
+        \hline
+        
+\end{tabularx}
+\end{table}
+\begin{table}[H]
+    \caption{Unit Test Cases of profile/index.php in Code Connect}
+        \label{}
+        \begin{tabularx}{\textwidth}{|Y|Y|Y|Y|}
+        \hline
+        Tests & Scenario &Expected Output & Actual Output \\
+        \hline
+        1  & GET method : uid=1 & Profile of user with uid 2 & Profile of user with uid 2 \\
+        \hline
+        2 & GET method : did=1& Shows discussion with discussion\_id 1 & Shows discussion with discussion\_id 1 \\
+        
+        \hline
+\end{tabularx}
+\end{table}
+\subsection{Test Cases for System Testing}
+System testing is a critical phase in the software development life cycle that focuses on evaluating the entire software system as a cohesive unit.It's aim to verify that all components and modules of the system function correctly together as a whole. System testing examines the software's behavior against its specified requirements, including functional, performance, security, and usability aspects.
+\newline
+ Here are the different test cases we tested in out system and their output with expected and actual:
 \begin{table}[H]
     \caption{Authenication Unit Testing}
         \label{}
-    \begin{tabular}{|p{0.3in}|p{1.2in}|p{1.2in}|p{1.2in}|p{1in}|}
+        \begin{tabularx}{\textwidth}{|>{\raggedright\arraybackslash}p{0.3in}|Y|Y|Y|Y|}
         \hline
         Tests & Test Cases & Input & Expected Output & Actual Output \\
         \hline
             1 & Incorrect Password& Email:\url{test@gmail.com} Password:1234& Incorrect Password& Incorrect Password \\
             \hline
             2 & Incorrect Confirm Password in SignUp & Email:\url{test@gmail.com}
-            Password:12345679
-            Password:12345678 & Enter Same Password & Enter Same Password \\
+            Password: 12345679
+            Password: 12345678 & Enter Same Password & Enter Same Password \\
             \hline
             3 & Correct Credentials In Login & Email:\url{test@gmail.com}
-            Password:12345679 & Redirects to homepage & Redirects to homepage \\
+            Password: 12345679 & Redirects to homepage & Redirects to homepage \\
             \hline
-\end{tabular}
+\end{tabularx}
 \end{table}
 
-\textbf{Launch Application when user is not logged-in}\\
+% \textbf{Launch Application when user is not logged-in}\\
 \begin{table}[H]
     \caption{Launch Application when user is not logged-in Testing}
         \label{}
-    \begin{tabular}{|p{0.3in}|p{1.2in}|p{1.2in}|p{1.2in}|p{1in}|}
+        \begin{tabularx}{\textwidth}{|>{\raggedright\arraybackslash}p{0.3in}|Y|Y|Y|Y|}
         \hline
         Tests & Test Cases & Input &Expected Output & Actual Output \\
         \hline
             1 & Launch application& \url{http://localhost/codeconnect/login/}& Log-In page& Log-In page \\
             \hline
-\end{tabular}
+\end{tabularx}
 \end{table}
 
-\textbf{Launch Application when user is already logged-in}\\
+% \textbf{Launch Application when user is already logged-in}\\
 \begin{table}[H]
     \caption{Launch Application when user is already logged-in Testing}
         \label{}
-    \begin{tabular}{|p{0.3in}|p{1.2in}|p{1.2in}|p{1.2in}|p{1in}|}
+        \begin{tabularx}{\textwidth}{|>{\raggedright\arraybackslash}p{0.3in}|Y|Y|Y|Y|}
         \hline
         Tests & Test Cases & Input &Expected Output & Actual Output \\
         \hline
             1 & Launch application& \url{http://localhost/codeconnect/home/}& CodeConnect Home page& CodeConnect Home page \\
             \hline
-\end{tabular}
+\end{tabularx}
 \end{table}
 
-\textbf{Code Connect Messenger}\\
+% \textbf{Code Connect Messenger}\\
 \begin{table}[H]
-    \caption{Code Connect Messenger Testing}
+    \caption{Code Connect Messenger Launch Testing}
         \label{}
-    \begin{tabular}{|p{0.3in}|p{1.2in}|p{1.2in}|p{1.2in}|p{1in}|}
+        \begin{tabularx}{\textwidth}{|>{\raggedright\arraybackslash}p{0.3in}|Y|Y|Y|Y|}
         \hline
         Tests & Test Cases & Input &Expected Output & Actual Output \\
         \hline
             1 & Code Connect Messenger& \url{http://localhost/codeconnect/messenger/}& Code Connect Messenger&  Code Connect Messenger \\
             \hline
-\end{tabular}
+\end{tabularx}
 \end{table}
-\newpage
-\textbf{Send Message}\\
+% \textbf{Send Message}\\
 \begin{table}[H]
     \caption{Code Connect Send Message to other user Testing}
         \label{}
-    \begin{tabular}{|p{0.3in}|p{1.2in}|p{1.2in}|p{1.2in}|p{1in}|}
+        \begin{tabularx}{\textwidth}{|>{\raggedright\arraybackslash}p{0.3in}|Y|Y|Y|Y|}
         \hline
         Tests & Test Cases & Input &Expected Output & Actual Output \\
         \hline
-            1 & Send message& click on messenger button and click on other user that is located at the left side to start a conversations& Sends message to that particular user& Sends message to that particular user \\
+            1 & Send message& Click specific user on left bar and send message & Sends message to that particular user& Sends message to that particular user \\
             \hline
-\end{tabular}
+\end{tabularx}
 \end{table}
 
-\textbf{Receive Message}\\
+% \textbf{Receive Message}\\
 \begin{table}[H]
     \caption{Code Connect Receive Message from other user Testing}
         \label{}
-    \begin{tabular}{|p{0.3in}|p{1.2in}|p{1.2in}|p{1.2in}|p{1in}|}
+        \begin{tabularx}{\textwidth}{|>{\raggedright\arraybackslash}p{0.3in}|Y|Y|Y|Y|}
         \hline
         Tests & Test Cases & Input &Expected Output & Actual Output \\
         \hline
-            1 & Receive message& click on messenger button and click on other user that is located at the left side to see the conversation& Display the conversation with that particular user& Display the conversation with that particular user\\
+            1 & Receive message& Click specific user on left bar& Display the conversation with that particular user& Display the conversation with that particular user\\
             \hline
-\end{tabular}
+\end{tabularx}
 \end{table}
 
-\textbf{Code Connect Search User}\\
+% \textbf{Code Connect Search User}\\
 \begin{table}[H]
     \caption{Code Connect Search User Testing}
         \label{}
-    \begin{tabular}{|p{0.3in}|p{1.2in}|p{1.2in}|p{1.2in}|p{1in}|}
+        \begin{tabularx}{\textwidth}{|>{\raggedright\arraybackslash}p{0.3in}|Y|Y|Y|Y|}
         \hline
         Tests & Test Cases & Input &Expected Output & Actual Output \\
         \hline
             1 & Code Connect Search User& Si& Name of user starting from "Si"& Sirjan Shrestha \\
             \hline
-\end{tabular}
+\end{tabularx}
 \end{table}
-\newpage
-\textbf{Code Connect Search Posts}\\
+% \textbf{Code Connect Search Posts}\\
 \begin{table}[H]
-    \caption{Code Connect Search Posts Testing}
+    \caption{Code Connect Search Discussion Testing}
         \label{}
-    \begin{tabular}{|p{0.3in}|p{1.2in}|p{1.2in}|p{1.2in}|p{1in}|}
+        \begin{tabularx}{\textwidth}{|>{\raggedright\arraybackslash}p{0.3in}|Y|Y|Y|Y|}
         \hline
         Tests & Test Cases & Input &Expected Output & Actual Output \\
         \hline
-            1 & Code Connect Search Posts& python& Posts that have content of python& python posts \\
+            1 & Code Connect Search Discussion& python& Posts that have content of python& python posts \\
             \hline
-\end{tabular}
+\end{tabularx}
 \end{table}
 
-\textbf{Show posts of friends only}\\
-\begin{table}[H]
-    \caption{Show posts of friends only Testing}
-        \label{}
-    \begin{tabular}{|p{0.3in}|p{1.2in}|p{1.2in}|p{1.2in}|p{1in}|}
-        \hline
-        Tests & Test Cases & Input &Expected Output & Actual Output \\
-        \hline
-            1 &Show posts of friends only& Click on the Friends Only button located at post section& Shows Posts of Friends only& Shows posts of friends only \\
-            \hline
-\end{tabular}
-\end{table}
+% \textbf{Show posts of friends only}\\
+% \begin{table}[H]
+%     \caption{Show posts of friends only Testing}
+%         \label{}
+%     \begin{tabular}{|p{0.3in}|p{1.2in}|p{1.2in}|p{1.2in}|p{1in}|}
+%         \hline
+%         Tests & Test Cases & Input &Expected Output & Actual Output \\
+%         \hline
+%             1 &Show posts of friends only& Click on the Friends Only button located at post section& Shows Posts of Friends only& Shows posts of friends only \\
+%             \hline
+% \end{tabular}
+% \end{table}
 
-\textbf{Show all posts}\\
-\begin{table}[H]
-    \caption{Show all posts Testing}
-        \label{}
-    \begin{tabular}{|p{0.3in}|p{1.2in}|p{1.2in}|p{1.2in}|p{1in}|}
-        \hline
-        Tests & Test Cases & Input &Expected Output & Actual Output \\
-        \hline
-            1 &Show all posts& Click on the Public button located at post section& Shows Posts of all users& Shows posts of all users \\
-            \hline
-\end{tabular}
-\end{table}
-
-\textbf{Make Posts}\\
-\begin{table}[H]
-    \caption{Make Posts Testing}
-        \label{}
-    \begin{tabular}{|p{0.3in}|p{1.2in}|p{1.2in}|p{1.2in}|p{1in}|}
-        \hline
-        Tests & Test Cases & Input &Expected Output & Actual Output \\
-        \hline
-            1 & Make posts& Click on post button& Open Post Menu& Opens Posts Menu \\
-            \hline
-\end{tabular}
-\end{table}
+% \textbf{Show all posts}\\
+% \begin{table}[H]
+%     \caption{Show all posts Testing}
+%         \label{}
+%     \begin{tabular}{|p{0.3in}|p{1.2in}|p{1.2in}|p{1.2in}|p{1in}|}
+%         \hline
+%         Tests & Test Cases & Input &Expected Output & Actual Output \\
+%         \hline
+%             1 &Show all posts& Click on the Public button located at post section& Shows Posts of all users& Shows posts of all users \\
+%             \hline
+% \end{tabular}
+% \end{table}
 
 \newpage
-\textbf{Making Post including content on both Post and Coding section}\\
+% \textbf{Make Posts}\\
 \begin{table}[H]
-    \caption{Making Post including content on both Post and Coding section Testing}
+    \caption{Post Discussion Testing}
         \label{}
-    \begin{tabular}{|p{0.3in}|p{1.2in}|p{1.2in}|p{1.2in}|p{1in}|}
+        \begin{tabularx}{\textwidth}{|>{\raggedright\arraybackslash}p{0.3in}|Y|Y|Y|Y|}
         \hline
         Tests & Test Cases & Input &Expected Output & Actual Output \\
         \hline
-            1 & Making Post including content on both Post and Coding section& Post section:coding in C Code section: printf("Hello World");& post including both of the section& made post including both of the section\\
+            1 & Post Discussion& Click on post button& Open Post Menu& Opens Posts Menu \\
             \hline
-\end{tabular}
+\end{tabularx}
 \end{table}
 
-\textbf{Delete Posts}\\
+
+% \textbf{Making Post including content on both Post and Coding section}\\
+\begin{table}[H]
+    \caption{Posting Discussion including content on both Post and Coding section Testing}
+        \label{}
+        \begin{tabularx}{\textwidth}{|>{\raggedright\arraybackslash}p{0.3in}|Y|Y|Y|Y|}
+        \hline
+        Tests & Test Cases & Input &Expected Output & Actual Output \\
+        \hline
+            1 & Posting Discussion including content on both Post and Coding section& Text section:coding in C | Code section: printf("Hello World");& post including both of the section& made post including both of the section\\
+            \hline
+\end{tabularx}
+\end{table}
+
+% \textbf{Delete Posts}\\
 \begin{table}[H]
     \caption{Delete Posts Testing}
         \label{}
@@ -229,7 +262,7 @@ Here testing different test cases of authentication system in Code Connect is pe
 \end{tabular}
 \end{table}
 
-\textbf{Geeking on post}\\
+% \textbf{Geeking on post}\\
 \begin{table}[H]
     \caption{Geeking on post Testing}
         \label{}
@@ -242,8 +275,7 @@ Here testing different test cases of authentication system in Code Connect is pe
 \end{tabular}
 \end{table}
 
-\newpage
-\textbf{Un-Geeking on post}\\
+% \textbf{Un-Geeking on post}\\
 \begin{table}[H]
     \caption{Un-Geeking on post Testing}
         \label{}
@@ -256,7 +288,7 @@ Here testing different test cases of authentication system in Code Connect is pe
 \end{tabular}
 \end{table}
 
-\textbf{Commenting on post}\\
+% \textbf{Commenting on post}\\
 \begin{table}[H]
     \caption{Commenting on post Testing}
         \label{}
@@ -269,7 +301,7 @@ Here testing different test cases of authentication system in Code Connect is pe
 \end{tabular}
 \end{table}
 
-\textbf{Deleting Comment on post}\\
+% \textbf{Deleting Comment on post}\\
 \begin{table}[H]
     \caption{Deleting Comment on post Testing}
         \label{}
@@ -282,8 +314,7 @@ Here testing different test cases of authentication system in Code Connect is pe
 \end{tabular}
 \end{table}
 
-\newpage
-\textbf{Saving post}\\
+% \textbf{Saving post}\\
 \begin{table}[H]
     \caption{Saving post Testing}
         \label{}
@@ -296,7 +327,7 @@ Here testing different test cases of authentication system in Code Connect is pe
 \end{tabular}
 \end{table}
 
-\textbf{Un-Saving post}\\
+% \textbf{Un-Saving post}\\
 \begin{table}[H]
     \caption{Un-Saving post Testing}
         \label{}
@@ -309,7 +340,7 @@ Here testing different test cases of authentication system in Code Connect is pe
 \end{tabular}
 \end{table}
 
-\textbf{Profile Dashboard}\\
+% \textbf{Profile Dashboard}\\
 \begin{table}[H]
     \caption{Profile Dashboard Testing}
         \label{}
@@ -322,8 +353,8 @@ Here testing different test cases of authentication system in Code Connect is pe
 \end{tabular}
 \end{table}
 
-\newpage
-\textbf{Update Basic Account Details}\\
+
+% \textbf{Update Basic Account Details}\\
 \begin{table}[H]
     \caption{Update Basic Account Details Testing}
         \label{}
@@ -336,7 +367,7 @@ Here testing different test cases of authentication system in Code Connect is pe
 \end{tabular}
 \end{table}
 
-\textbf{Update Projects}\\
+% \textbf{Update Projects}\\
 \begin{table}[H]
     \caption{Update Projects Testing}
         \label{}
@@ -349,7 +380,7 @@ Here testing different test cases of authentication system in Code Connect is pe
 \end{tabular}
 \end{table}
 
-\textbf{Update Certification}\\
+% \textbf{Update Certification}\\
 \begin{table}[H]
     \caption{Update Certification Testing}
         \label{}
@@ -362,8 +393,8 @@ Here testing different test cases of authentication system in Code Connect is pe
 \end{tabular}
 \end{table}
 
-\newpage
-\textbf{Update Skills}\\
+
+% \textbf{Update Skills}\\
 \begin{table}[H]
     \caption{Update Skills Testing}
         \label{}
@@ -376,7 +407,7 @@ Here testing different test cases of authentication system in Code Connect is pe
 \end{tabular}
 \end{table}
 
-\textbf{Update CV}\\
+% \textbf{Update CV}\\
 \begin{table}[H]
     \caption{Update CV Testing}
         \label{}
@@ -389,7 +420,7 @@ Here testing different test cases of authentication system in Code Connect is pe
 \end{tabular}
 \end{table}
 
-\textbf{Code Connect Notification}\\
+% \textbf{Code Connect Notification}\\
 \begin{table}[H]
     \caption{Code Connect Notification Testing}
         \label{}
@@ -401,8 +432,7 @@ Here testing different test cases of authentication system in Code Connect is pe
             \hline
 \end{tabular}
 \end{table}
-\newpage
-\textbf{Send connection request}\\
+% \textbf{Send connection request}\\
 \begin{table}[H]
     \caption{Send connection request Testing}
         \label{}
@@ -415,7 +445,7 @@ Here testing different test cases of authentication system in Code Connect is pe
 \end{tabular}
 \end{table}
 
-\textbf{Accept connection request}\\
+% \textbf{Accept connection request}\\
 \begin{table}[H]
     \caption{Accept connection request Testing}
         \label{}
@@ -428,8 +458,7 @@ Here testing different test cases of authentication system in Code Connect is pe
 \end{tabular}
 \end{table}
 
-\newpage
-\textbf{User Log-Out}\\
+% \textbf{User Log-Out}\\
 \begin{table}[H]
     \caption{User Log-Out Testing}
         \label{}

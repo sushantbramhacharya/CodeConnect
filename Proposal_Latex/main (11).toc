@@ -1,0 +1,86 @@
+\contentsline {chapter}{RECOMMENDATION}{iii}{chapter*.1}%
+\contentsline {chapter}{DEPARTMENTAL ACCEPTANCE}{iv}{chapter*.2}%
+\contentsline {chapter}{ACKNOWLEDGMENT}{vi}{chapter*.5}%
+\contentsline {chapter}{ABSTRACT}{vii}{chapter*.6}%
+\contentsline {chapter}{TABLE OF CONTENTS}{viii}{chapter*.7}%
+\contentsline {chapter}{LIST OF FIGURES}{xi}{chapter*.8}%
+\contentsline {chapter}{LIST OF TABLES}{xiii}{chapter*.9}%
+\contentsline {chapter}{LIST OF ABBREVIATIONS}{xiv}{chapter*.10}%
+\contentsline {chapter}{\numberline {1}INTRODUCTION}{1}{chapter.1}%
+\contentsline {section}{\numberline {1.1}Introduction}{1}{section.1.1}%
+\contentsline {section}{\numberline {1.2}Problem Statement}{1}{section.1.2}%
+\contentsline {section}{\numberline {1.3}Objectives}{1}{section.1.3}%
+\contentsline {section}{\numberline {1.4}Scope and Limitations}{1}{section.1.4}%
+\contentsline {section}{\numberline {1.5}Limitation}{2}{section.1.5}%
+\contentsline {section}{\numberline {1.6}Potential applications}{2}{section.1.6}%
+\contentsline {section}{\numberline {1.7}Originality of Project}{2}{section.1.7}%
+\contentsline {section}{\numberline {1.8}Report Organisation}{3}{section.1.8}%
+\contentsline {chapter}{\numberline {2}BACKGROUND AND LITERATURE REVIEW}{4}{chapter.2}%
+\contentsline {section}{\numberline {2.1}Background Study}{4}{section.2.1}%
+\contentsline {section}{\numberline {2.2}Literature Review}{4}{section.2.2}%
+\contentsline {subsection}{\numberline {2.2.1}Existing System}{4}{subsection.2.2.1}%
+\contentsline {chapter}{\numberline {3}SYSTEM ANALYSIS AND DESIGN}{8}{chapter.3}%
+\contentsline {section}{\numberline {3.1}System Analysis}{8}{section.3.1}%
+\contentsline {section}{\numberline {3.2}Requirement Analysis}{8}{section.3.2}%
+\contentsline {subsection}{\numberline {3.2.1}Functional Requirements}{8}{subsection.3.2.1}%
+\contentsline {subsection}{\numberline {3.2.2}Nonfunctional Requirements}{10}{subsection.3.2.2}%
+\contentsline {section}{\numberline {3.3}Feasibility Analysis}{10}{section.3.3}%
+\contentsline {subsection}{\numberline {3.3.1}Economical Feasibility}{11}{subsection.3.3.1}%
+\contentsline {subsection}{\numberline {3.3.2}Operational Feasibility}{11}{subsection.3.3.2}%
+\contentsline {subsection}{\numberline {3.3.3}Technical Feasibility}{11}{subsection.3.3.3}%
+\contentsline {subsection}{\numberline {3.3.4}Data Modelling(ER-Diagram)}{12}{subsection.3.3.4}%
+\contentsline {subsection}{\numberline {3.3.5}DFD}{14}{subsection.3.3.5}%
+\contentsline {section}{\numberline {3.4}System Design}{15}{section.3.4}%
+\contentsline {subsection}{\numberline {3.4.1}Architecture Design}{15}{subsection.3.4.1}%
+\contentsline {subsection}{\numberline {3.4.2}Schema Design}{16}{subsection.3.4.2}%
+\contentsline {subsection}{\numberline {3.4.3}Interface Design}{17}{subsection.3.4.3}%
+\contentsline {subsubsection}{User Interface Design}{17}{subsection.3.4.3}%
+\contentsline {subsection}{\numberline {3.4.4}Physical DFD}{21}{subsection.3.4.4}%
+\contentsline {chapter}{\numberline {4}IMPLEMENTATION AND TESTING}{23}{chapter.4}%
+\contentsline {section}{\numberline {4.1}Implementation}{23}{section.4.1}%
+\contentsline {section}{\numberline {4.2}Tools Used}{23}{section.4.2}%
+\contentsline {subsection}{\numberline {4.2.1}Git}{23}{subsection.4.2.1}%
+\contentsline {subsection}{\numberline {4.2.2}Figma}{23}{subsection.4.2.2}%
+\contentsline {subsection}{\numberline {4.2.3}GitHub}{23}{subsection.4.2.3}%
+\contentsline {subsection}{\numberline {4.2.4}HTML, CSS and JS}{24}{subsection.4.2.4}%
+\contentsline {subsection}{\numberline {4.2.5}MySQL}{24}{subsection.4.2.5}%
+\contentsline {subsection}{\numberline {4.2.6}PHP}{25}{subsection.4.2.6}%
+\contentsline {section}{\numberline {4.3}Modules Used}{25}{section.4.3}%
+\contentsline {subsection}{\numberline {4.3.1}AJAX}{25}{subsection.4.3.1}%
+\contentsline {subsection}{\numberline {4.3.2}JQuery}{25}{subsection.4.3.2}%
+\contentsline {subsection}{\numberline {4.3.3}MySqli Connect}{26}{subsection.4.3.3}%
+\contentsline {subsection}{\numberline {4.3.4}Google Fonts}{26}{subsection.4.3.4}%
+\contentsline {subsection}{\numberline {4.3.5}Font Awesome }{26}{subsection.4.3.5}%
+\contentsline {subsection}{\numberline {4.3.6}Bootstrap}{27}{subsection.4.3.6}%
+\contentsline {section}{\numberline {4.4}Testing}{27}{section.4.4}%
+\contentsline {subsection}{\numberline {4.4.1}Unit Testing}{27}{subsection.4.4.1}%
+\contentsline {chapter}{\numberline {5}Conclusion and Future Recommendations}{35}{chapter.5}%
+\contentsline {section}{\numberline {5.1}Lesson Learnt / Outcome}{35}{section.5.1}%
+\contentsline {subsection}{\numberline {5.1.1}Home Page}{35}{subsection.5.1.1}%
+\contentsline {subsection}{\numberline {5.1.2}Geek}{35}{subsection.5.1.2}%
+\contentsline {subsection}{\numberline {5.1.3}Un-Geek}{36}{subsection.5.1.3}%
+\contentsline {subsection}{\numberline {5.1.4}Profile}{36}{subsection.5.1.4}%
+\contentsline {subsection}{\numberline {5.1.5}Profile Dashboard}{37}{subsection.5.1.5}%
+\contentsline {subsection}{\numberline {5.1.6}Project Showcase}{37}{subsection.5.1.6}%
+\contentsline {subsection}{\numberline {5.1.7}Skills Showcase}{38}{subsection.5.1.7}%
+\contentsline {subsection}{\numberline {5.1.8}Messenger}{38}{subsection.5.1.8}%
+\contentsline {subsection}{\numberline {5.1.9}Search}{39}{subsection.5.1.9}%
+\contentsline {subsection}{\numberline {5.1.10}Notification}{39}{subsection.5.1.10}%
+\contentsline {subsection}{\numberline {5.1.11}Post}{40}{subsection.5.1.11}%
+\contentsline {subsection}{\numberline {5.1.12}Save Post}{40}{subsection.5.1.12}%
+\contentsline {subsection}{\numberline {5.1.13}Friends Posts}{41}{subsection.5.1.13}%
+\contentsline {subsection}{\numberline {5.1.14}Public Posts}{41}{subsection.5.1.14}%
+\contentsline {subsection}{\numberline {5.1.15}Profile of other Users}{42}{subsection.5.1.15}%
+\contentsline {subsection}{\numberline {5.1.16}Send Connection Request}{42}{subsection.5.1.16}%
+\contentsline {subsection}{\numberline {5.1.17}Result after connection request is sent}{43}{subsection.5.1.17}%
+\contentsline {subsection}{\numberline {5.1.18}Connection Request Accepted}{44}{subsection.5.1.18}%
+\contentsline {section}{\numberline {5.2}Conclusion}{44}{section.5.2}%
+\contentsline {section}{\numberline {5.3}Future Recommendations}{44}{section.5.3}%
+\textbf {APPENDIX A}
+\contentsline {section}{\numberline {A.1}Project Schedule}{46}{section.1..1}%
+\contentsline {section}{\numberline {A.2}Setup Guide to run Code Connect Locally}{46}{section.1..2}%
+\contentsline {section}{\numberline {A.3}Running Hosted Code Connect}{47}{section.1..3}%
+\contentsline {section}{\numberline {A.4}MySQL Connection in our CodeConnect PHP}{47}{section.1..4}%
+\contentsline {section}{\numberline {A.5}JQuery AJAX Used in CodeConnect}{48}{section.1..5}%
+\contentsline {section}{\numberline {A.6}Supervisor Consultation Form}{49}{section.1..6}%
+\contentsline {chapter}{REFERENCES}{50}{appendix*.73}%

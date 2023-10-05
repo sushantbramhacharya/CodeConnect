@@ -53,33 +53,36 @@
 \contentsline {subsection}{\numberline {4.3.5}Font Awesome }{26}{subsection.4.3.5}%
 \contentsline {subsection}{\numberline {4.3.6}Bootstrap}{27}{subsection.4.3.6}%
 \contentsline {section}{\numberline {4.4}Testing}{27}{section.4.4}%
-\contentsline {subsection}{\numberline {4.4.1}Unit Testing}{27}{subsection.4.4.1}%
-\contentsline {chapter}{\numberline {5}Conclusion and Future Recommendations}{39}{chapter.5}%
-\contentsline {section}{\numberline {5.1}Lesson Learnt / Outcome}{39}{section.5.1}%
-\contentsline {subsection}{\numberline {5.1.1}Home Page}{39}{subsection.5.1.1}%
-\contentsline {subsection}{\numberline {5.1.2}Geek}{39}{subsection.5.1.2}%
-\contentsline {subsection}{\numberline {5.1.3}Un-Geek}{40}{subsection.5.1.3}%
-\contentsline {subsection}{\numberline {5.1.4}Profile}{40}{subsection.5.1.4}%
-\contentsline {subsection}{\numberline {5.1.5}Profile Dashboard}{41}{subsection.5.1.5}%
-\contentsline {subsection}{\numberline {5.1.6}Project Showcase}{41}{subsection.5.1.6}%
-\contentsline {subsection}{\numberline {5.1.7}Skills Showcase}{42}{subsection.5.1.7}%
-\contentsline {subsection}{\numberline {5.1.8}Messenger}{42}{subsection.5.1.8}%
-\contentsline {subsection}{\numberline {5.1.9}Search}{43}{subsection.5.1.9}%
-\contentsline {subsection}{\numberline {5.1.10}Notification}{43}{subsection.5.1.10}%
-\contentsline {subsection}{\numberline {5.1.11}Post}{44}{subsection.5.1.11}%
-\contentsline {subsection}{\numberline {5.1.12}Save Post}{44}{subsection.5.1.12}%
-\contentsline {subsection}{\numberline {5.1.13}Friends Posts}{45}{subsection.5.1.13}%
-\contentsline {subsection}{\numberline {5.1.14}Public Posts}{45}{subsection.5.1.14}%
-\contentsline {subsection}{\numberline {5.1.15}Profile of other Users}{46}{subsection.5.1.15}%
-\contentsline {subsection}{\numberline {5.1.16}Send Connection Request}{46}{subsection.5.1.16}%
-\contentsline {subsection}{\numberline {5.1.17}Result after connection request is sent}{47}{subsection.5.1.17}%
-\contentsline {subsection}{\numberline {5.1.18}Connection Request Accepted}{47}{subsection.5.1.18}%
-\contentsline {section}{\numberline {5.2}Conclusion}{48}{section.5.2}%
-\contentsline {section}{\numberline {5.3}Future Recommendations}{48}{section.5.3}%
-\contentsline {chapter}{\numberline {6}DISCUSSION AND ANALYSIS}{49}{chapter.6}%
+\contentsline {subsection}{\numberline {4.4.1}Test Cases for Unit Testing}{27}{subsection.4.4.1}%
+\contentsline {subsection}{\numberline {4.4.2}Test Cases for System Testing}{28}{subsection.4.4.2}%
+\contentsline {chapter}{\numberline {5}Conclusion and Future Recommendations}{36}{chapter.5}%
+\contentsline {section}{\numberline {5.1}Lesson Learnt / Outcome}{36}{section.5.1}%
+\contentsline {subsection}{\numberline {5.1.1}Home Page}{36}{subsection.5.1.1}%
+\contentsline {subsection}{\numberline {5.1.2}Geek}{37}{subsection.5.1.2}%
+\contentsline {subsection}{\numberline {5.1.3}Un-Geek}{37}{subsection.5.1.3}%
+\contentsline {subsection}{\numberline {5.1.4}Profile}{37}{subsection.5.1.4}%
+\contentsline {subsection}{\numberline {5.1.5}Profile Dashboard}{38}{subsection.5.1.5}%
+\contentsline {subsection}{\numberline {5.1.6}Project Showcase}{39}{subsection.5.1.6}%
+\contentsline {subsection}{\numberline {5.1.7}Skills Showcase}{39}{subsection.5.1.7}%
+\contentsline {subsection}{\numberline {5.1.8}Messenger}{40}{subsection.5.1.8}%
+\contentsline {subsection}{\numberline {5.1.9}Search}{40}{subsection.5.1.9}%
+\contentsline {subsection}{\numberline {5.1.10}Notification}{41}{subsection.5.1.10}%
+\contentsline {subsection}{\numberline {5.1.11}Post}{41}{subsection.5.1.11}%
+\contentsline {subsection}{\numberline {5.1.12}Save Post}{42}{subsection.5.1.12}%
+\contentsline {subsection}{\numberline {5.1.13}Friends Posts}{42}{subsection.5.1.13}%
+\contentsline {subsection}{\numberline {5.1.14}Public Posts}{43}{subsection.5.1.14}%
+\contentsline {subsection}{\numberline {5.1.15}Profile of other Users}{43}{subsection.5.1.15}%
+\contentsline {subsection}{\numberline {5.1.16}Send Connection Request}{44}{subsection.5.1.16}%
+\contentsline {subsection}{\numberline {5.1.17}Result after connection request is sent}{44}{subsection.5.1.17}%
+\contentsline {subsection}{\numberline {5.1.18}Connection Request Accepted}{45}{subsection.5.1.18}%
+\contentsline {section}{\numberline {5.2}Conclusion}{45}{section.5.2}%
+\contentsline {section}{\numberline {5.3}Future Recommendations}{45}{section.5.3}%
 \textbf {APPENDIX A}
-\contentsline {section}{\numberline {A.1}Project Schedule}{50}{section.1..1}%
-\contentsline {section}{\numberline {A.2}Setup Guide to run Code Connect Locally}{50}{section.1..2}%
-\contentsline {section}{\numberline {A.3}MySQL Connection in our CodeConnect PHP}{51}{section.1..3}%
-\contentsline {section}{\numberline {A.4}Supervisor Consultation Form}{52}{section.1..4}%
-\contentsline {chapter}{REFERENCES}{53}{appendix*.73}%
+\contentsline {section}{\numberline {A.1}Project Schedule}{47}{section.1..1}%
+\contentsline {section}{\numberline {A.2}Setup Guide to run Code Connect Locally}{47}{section.1..2}%
+\contentsline {section}{\numberline {A.3}Running Hosted Code Connect}{48}{section.1..3}%
+\contentsline {section}{\numberline {A.4}MySQL Connection in our CodeConnect PHP}{48}{section.1..4}%
+\contentsline {section}{\numberline {A.5}JQuery AJAX Used in CodeConnect}{49}{section.1..5}%
+\contentsline {section}{\numberline {A.6}Database Screenshots}{49}{section.1..6}%
+\contentsline {section}{\numberline {A.7}Supervisor Consultation Form}{52}{section.1..7}%
+\contentsline {chapter}{REFERENCES}{53}{appendix*.83}%
